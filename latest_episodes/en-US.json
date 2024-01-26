@@ -2248,8 +2248,8 @@
         "brave-bang-bravern": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Isami?! You'll Be Here Soon, Won't You, Isami?!"
+                "episode": 3,
+                "title": "Lulu... That's Her Name"
             },
             "dub": {
                 "season": 0,
@@ -3880,8 +3880,8 @@
         "delusional-monthly-magazine": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Issue 2: Hold on a Moment, Why Are You Working Here?!"
+                "episode": 3,
+                "title": "Issue 3: More than Just Singing?! Musical Speak?!"
             },
             "dub": {
                 "season": 0,
@@ -18220,13 +18220,13 @@
         "the-witch-and-the-beast": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "The Witch's Pastime: Opening Act"
+                "episode": 3,
+                "title": "The Witch's Pastime: Final Act"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 1,
+                "title": "The Witch and the City of Blazing Red"
             }
         },
         "the-world-ends-with-you-the-animation": {
