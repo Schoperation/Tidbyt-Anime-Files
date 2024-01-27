@@ -292,8 +292,8 @@
         "a-sign-of-affection": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "Someone is thinking of someone"
+                "episode": 4,
+                "title": "What Kind of Voice?"
             },
             "dub": {
                 "season": 1,
@@ -2056,8 +2056,8 @@
         "blue-exorcist": {
             "sub": {
                 "season": 3,
-                "episode": 3,
-                "title": "True Cross Academy Festival"
+                "episode": 4,
+                "title": "Insider"
             },
             "dub": {
                 "season": 2,
@@ -2296,8 +2296,8 @@
         "bucchigiri": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Wanna Take You On! The Chu Chu Chinese Pepper Steak Train!"
+                "episode": 3,
+                "title": "Love at Fist Fight! The One and Only Quail in the World"
             },
             "dub": {
                 "season": 0,
@@ -2679,9 +2679,9 @@
         },
         "case-closed-detective-conan": {
             "sub": {
-                "season": 4,
-                "episode": 1111,
-                "title": "Rube Goldberg Machine (Part One)"
+                "season": 3,
+                "episode": 1112,
+                "title": "Rube Goldberg Machine (Part Two)"
             },
             "dub": {
                 "season": 0,
@@ -5140,8 +5140,8 @@
         "firefighter-daigo-rescuer-in-orange": {
             "sub": {
                 "season": 1,
-                "episode": 15,
-                "title": "Special Order Dispatch"
+                "episode": 16,
+                "title": "Morse Code"
             },
             "dub": {
                 "season": 0,
@@ -6987,14 +6987,14 @@
         },
         "hetalia": {
             "sub": {
-                "season": 6,
-                "episode": 135,
-                "title": "The World Twinkle: Episode 15"
+                "season": 12,
+                "episode": 100,
+                "title": "World Series: Episode 48"
             },
             "dub": {
-                "season": 6,
-                "episode": 135,
-                "title": "The World Twinkle: Episode 15"
+                "season": 12,
+                "episode": 100,
+                "title": "World Series: Episode 48"
             }
         },
         "heybot": {
@@ -8007,8 +8007,8 @@
         },
         "japa-con-presents-agent-hazap": {
             "sub": {
-                "season": 2,
-                "episode": 36,
+                "season": 1,
+                "episode": 24,
                 "title": "Untitled"
             },
             "dub": {
@@ -8824,8 +8824,8 @@
         "kingdom": {
             "sub": {
                 "season": 5,
-                "episode": 2,
-                "title": "The Stench of the Battlefield"
+                "episode": 3,
+                "title": "Heiyong at Night"
             },
             "dub": {
                 "season": 3,
@@ -10372,8 +10372,8 @@
         "mashle-magic-and-muscles": {
             "sub": {
                 "season": 2,
-                "episode": 15,
-                "title": "Rayne Ames and God’s Gift"
+                "episode": 16,
+                "title": "Mash Burnedead and the Brawny Balloon"
             },
             "dub": {
                 "season": 1,
@@ -15688,13 +15688,13 @@
         "solo-leveling": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "It's Like a Game"
+                "episode": 4,
+                "title": "I've Gotta Get Stronger"
             },
             "dub": {
                 "season": 1,
-                "episode": 1,
-                "title": "I'm Used to It"
+                "episode": 2,
+                "title": "If I Had One More Chance"
             }
         },
         "solty-rei": {
@@ -16504,8 +16504,8 @@
         "tales-of-wedding-rings": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "Untitled"
+                "episode": 4,
+                "title": "Episode 4"
             },
             "dub": {
                 "season": 1,
@@ -16828,8 +16828,8 @@
         "the-apothecary-diaries": {
             "sub": {
                 "season": 1,
-                "episode": 15,
-                "title": "Raw Fish"
+                "episode": 16,
+                "title": "Lead"
             },
             "dub": {
                 "season": 1,
@@ -18088,8 +18088,8 @@
         "the-strongest-tanks-labyrinth-raids--a-tank-with-a-rare-9999-resistance-skill-got-kicked-from-the-heros-party-": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "An Unknown Monster"
+                "episode": 4,
+                "title": "Selfish"
             },
             "dub": {
                 "season": 0,
@@ -18329,7 +18329,7 @@
             "sub": {
                 "season": 12,
                 "episode": 2,
-                "title": " Playing House"
+                "title": "Playing House"
             },
             "dub": {
                 "season": 0,
@@ -20434,7 +20434,7 @@
             "dub": {
                 "season": 1,
                 "episode": 1,
-                "title": "Psychedelic Afternoon"
+                "title": "By Your Side"
             }
         },
         "zo-zo-zombie": {
