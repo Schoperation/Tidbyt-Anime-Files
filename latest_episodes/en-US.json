@@ -297,8 +297,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 1,
-                "title": "Yuki's World"
+                "episode": 2,
+                "title": "To Affection"
             }
         },
         "a-sisters-all-you-need": {
@@ -2300,9 +2300,9 @@
                 "title": "Love at Fist Fight! The One and Only Quail in the World"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 1,
+                "title": "Merge?! Fall in Love with Fortune Bang Bang Chicken!"
             }
         },
         "buddy-complex": {
@@ -6987,14 +6987,14 @@
         },
         "hetalia": {
             "sub": {
-                "season": 12,
-                "episode": 100,
-                "title": "World Series: Episode 48"
+                "season": 6,
+                "episode": 135,
+                "title": "The World Twinkle: Episode 15"
             },
             "dub": {
-                "season": 12,
-                "episode": 100,
-                "title": "World Series: Episode 48"
+                "season": 6,
+                "episode": 135,
+                "title": "The World Twinkle: Episode 15"
             }
         },
         "heybot": {
@@ -16509,8 +16509,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 1,
-                "title": "Episode 1"
+                "episode": 2,
+                "title": "Episode 2"
             }
         },
         "tales-of-zestiria-the-x": {
@@ -16833,8 +16833,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 13,
-                "title": "Serving in the Outer Court"
+                "episode": 14,
+                "title": "The New Pure Consort"
             }
         },
         "the-aquatope-on-white-sand": {
@@ -20434,7 +20434,7 @@
             "dub": {
                 "season": 1,
                 "episode": 1,
-                "title": "By Your Side"
+                "title": "Blossom"
             }
         },
         "zo-zo-zombie": {
