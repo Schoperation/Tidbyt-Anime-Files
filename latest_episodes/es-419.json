@@ -1,5 +1,5 @@
 {
-    "total_count": 1254,
+    "total_count": 1255,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14646,6 +14646,18 @@
                 "season": 1,
                 "episode": 5,
                 "title": "¡El enemigo está en Shibuya!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "wonderful-precure": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡Todo comienza con un \"wonderful\"!"
             },
             "dub": {
                 "season": 0,

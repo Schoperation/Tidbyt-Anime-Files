@@ -1,5 +1,5 @@
 {
-    "total_count": 1707,
+    "total_count": 1708,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19854,6 +19854,18 @@
                 "season": 1,
                 "episode": 5,
                 "title": "Shibuya Under Attack!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "wonderful-precure": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "It Starts With \"Wonderful!\""
             },
             "dub": {
                 "season": 0,
