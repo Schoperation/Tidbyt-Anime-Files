@@ -1,5 +1,5 @@
 {
-    "total_count": 1708,
+    "total_count": 1709,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2166,6 +2166,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Tale"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "bones-25-dreaming-forward": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Untitled"
             },
             "dub": {
                 "season": 0,
