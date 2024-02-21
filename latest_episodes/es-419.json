@@ -1,5 +1,5 @@
 {
-    "total_count": 1256,
+    "total_count": 1257,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7386,6 +7386,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Un Big Bang originado por un beso"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "marginal-prince": {
+            "sub": {
+                "season": 1,
+                "episode": 14,
+                "title": "El tiovivo de Tokio"
             },
             "dub": {
                 "season": 0,

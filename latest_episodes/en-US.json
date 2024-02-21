@@ -1,5 +1,5 @@
 {
-    "total_count": 1709,
+    "total_count": 1710,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10314,6 +10314,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "A Big Bang Created from a Kiss"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "marginal-prince": {
+            "sub": {
+                "season": 1,
+                "episode": 14,
+                "title": "Tokyo Merry-Go-Round"
             },
             "dub": {
                 "season": 0,
