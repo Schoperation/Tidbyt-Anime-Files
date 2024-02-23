@@ -1,5 +1,5 @@
 {
-    "total_count": 1257,
+    "total_count": 1258,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4374,6 +4374,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡La última gran batalla!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "great-pretender-razbliuto": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "GREAT PRETENDER Razbliuto"
             },
             "dub": {
                 "season": 0,

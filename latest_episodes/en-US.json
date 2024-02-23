@@ -1,5 +1,5 @@
 {
-    "total_count": 1710,
+    "total_count": 1711,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6227,6 +6227,18 @@
                 "season": 3,
                 "episode": 13,
                 "title": "Got It All"
+            }
+        },
+        "great-pretender-razbliuto": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Movie"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "grimgar-ashes-and-illusions": {
