@@ -1,5 +1,5 @@
 {
-    "total_count": 1258,
+    "total_count": 1259,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6078,6 +6078,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Ahora o nunca"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kays-daily-doodles": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Limpiar y pintar"
             },
             "dub": {
                 "season": 0,

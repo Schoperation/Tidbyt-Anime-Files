@@ -1,5 +1,5 @@
 {
-    "total_count": 1711,
+    "total_count": 1712,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8634,6 +8634,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Now or Never"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kays-daily-doodles": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Whitewashing and Painting"
             },
             "dub": {
                 "season": 0,
