@@ -1,5 +1,5 @@
 {
-    "total_count": 1259,
+    "total_count": 1260,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12870,6 +12870,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡El héroe legendario es un dúo!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-leveling-of-solo-leveling": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Segundo Despertar"
             },
             "dub": {
                 "season": 0,

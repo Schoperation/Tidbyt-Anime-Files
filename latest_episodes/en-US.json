@@ -1,5 +1,5 @@
 {
-    "total_count": 1712,
+    "total_count": 1713,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17687,6 +17687,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Legendary Hero Is a Duo!"
+            }
+        },
+        "the-leveling-of-solo-leveling": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Second Awakening"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-little-lies-we-all-tell": {
