@@ -1,5 +1,5 @@
 {
-    "total_count": 1260,
+    "total_count": 1261,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11682,6 +11682,18 @@
                 "season": 3,
                 "episode": 12,
                 "title": "I Still Want to Protect"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "studio-apartment-good-lighting-angel-included": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Towa y Shintaro"
             },
             "dub": {
                 "season": 0,

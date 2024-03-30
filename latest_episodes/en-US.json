@@ -1,5 +1,5 @@
 {
-    "total_count": 1713,
+    "total_count": 1714,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16259,6 +16259,18 @@
                 "season": 6,
                 "episode": 12,
                 "title": "502nd, Sister Aces are Taking Off?"
+            }
+        },
+        "studio-apartment-good-lighting-angel-included": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Towa and Shintaro"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "sugar-apple-fairy-tale": {
