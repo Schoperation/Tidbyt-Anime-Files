@@ -1,5 +1,5 @@
 {
-    "total_count": 1266,
+    "total_count": 1267,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12258,6 +12258,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Reencuentro"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-banished-former-hero-lives-as-he-pleases": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La maestra herrera de la espada sagrada"
             },
             "dub": {
                 "season": 0,

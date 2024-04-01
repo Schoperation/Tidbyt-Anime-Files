@@ -1,5 +1,5 @@
 {
-    "total_count": 1719,
+    "total_count": 1720,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16974,6 +16974,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Reunion"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-banished-former-hero-lives-as-he-pleases": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The Master Blacksmith of the Sacred Sword"
             },
             "dub": {
                 "season": 0,
