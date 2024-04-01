@@ -1,5 +1,5 @@
 {
-    "total_count": 1261,
+    "total_count": 1262,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13847,6 +13847,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Episodio 13"
+            }
+        },
+        "train-to-the-end-of-the-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Me voy ya"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs": {

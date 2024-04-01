@@ -1,5 +1,5 @@
 {
-    "total_count": 1714,
+    "total_count": 1715,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18803,6 +18803,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Tower of God"
+            }
+        },
+        "train-to-the-end-of-the-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Down the Escalator to Dark Nerima"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs": {
