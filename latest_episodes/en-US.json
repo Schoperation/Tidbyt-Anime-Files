@@ -1,5 +1,5 @@
 {
-    "total_count": 1716,
+    "total_count": 1717,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13847,6 +13847,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Facing Forward Again"
+            }
+        },
+        "remonster": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Re:Born"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Re:Born"
             }
         },
         "rent-a-girlfriend": {

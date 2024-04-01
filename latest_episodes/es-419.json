@@ -1,5 +1,5 @@
 {
-    "total_count": 1263,
+    "total_count": 1264,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9971,6 +9971,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "remonster": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Re:Monster"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Re:Monster"
             }
         },
         "rent-a-girlfriend": {
