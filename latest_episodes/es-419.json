@@ -1,5 +1,5 @@
 {
-    "total_count": 1265,
+    "total_count": 1266,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11519,6 +11519,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Wolf and Endless Tears"
+            }
+        },
+        "spice-and-wolf-merchant-meets-the-wise-wolf": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El festival de la cosecha y un carro estrecho para dos"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "spiritpact": {

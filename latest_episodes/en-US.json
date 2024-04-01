@@ -1,5 +1,5 @@
 {
-    "total_count": 1718,
+    "total_count": 1719,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16007,6 +16007,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Wolf and Endless Tears"
+            }
+        },
+        "spice-and-wolf-merchant-meets-the-wise-wolf": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Harvest Festival and The Crowded Driver's Box"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "spiritpact": {
