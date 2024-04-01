@@ -1,5 +1,5 @@
 {
-    "total_count": 1262,
+    "total_count": 1263,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4307,6 +4307,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "gods-games-we-play": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Jugamos a los Juegos de los Dioses"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Jugamos a los Juegos de los Dioses"
             }
         },
         "golden-kamuy": {

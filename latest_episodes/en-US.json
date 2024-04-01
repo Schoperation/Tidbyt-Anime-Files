@@ -1,5 +1,5 @@
 {
-    "total_count": 1715,
+    "total_count": 1716,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6107,6 +6107,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "gods-games-we-play": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Gods' Games We Play"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Gods' Games We Play"
             }
         },
         "golden-boy": {
