@@ -1,5 +1,5 @@
 {
-    "total_count": 1264,
+    "total_count": 1265,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5250,6 +5250,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Sobreviviré a base de pociones!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Reencarné en el séptimo príncipe"
             },
             "dub": {
                 "season": 0,
