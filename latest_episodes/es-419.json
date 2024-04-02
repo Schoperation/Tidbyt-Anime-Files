@@ -1,5 +1,5 @@
 {
-    "total_count": 1267,
+    "total_count": 1268,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10194,6 +10194,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Espera a los compañeros"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "root": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,

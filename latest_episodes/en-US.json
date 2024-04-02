@@ -1,5 +1,5 @@
 {
-    "total_count": 1720,
+    "total_count": 1721,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14142,6 +14142,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Waiting for the Roommates"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "root": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "This Is the Ibusuki Detective Agency"
             },
             "dub": {
                 "season": 0,
