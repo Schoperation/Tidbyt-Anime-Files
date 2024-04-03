@@ -1,5 +1,5 @@
 {
-    "total_count": 1721,
+    "total_count": 1722,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16842,6 +16842,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "A Consideration on ''By Your Will\""
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "test-series": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Test Episode"
             },
             "dub": {
                 "season": 0,

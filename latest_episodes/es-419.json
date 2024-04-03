@@ -1,5 +1,5 @@
 {
-    "total_count": 1268,
+    "total_count": 1269,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12138,6 +12138,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "A Consideration on ''By Your Will\""
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "test-series": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Test Episode ES"
             },
             "dub": {
                 "season": 0,
