@@ -1,5 +1,5 @@
 {
-    "total_count": 1722,
+    "total_count": 1723,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1638,6 +1638,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "Water Of Life"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "bartender-glass-of-god": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Gentle Perch"
             },
             "dub": {
                 "season": 0,
@@ -17085,8 +17097,8 @@
             },
             "dub": {
                 "season": 4,
-                "episode": 8,
-                "title": "Defending the Faction 60"
+                "episode": 9,
+                "title": "Rong Is in Dander"
             }
         },
         "the-dawn-of-the-witch": {
