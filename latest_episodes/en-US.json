@@ -16864,13 +16864,13 @@
         "test-series": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "Test Episode"
+                "episode": 2,
+                "title": "Test Episode?"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 1,
+                "title": "Test Episode S"
             }
         },
         "tetsujin-28": {
