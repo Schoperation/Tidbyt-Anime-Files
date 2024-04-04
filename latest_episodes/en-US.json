@@ -1,5 +1,5 @@
 {
-    "total_count": 1726,
+    "total_count": 1727,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -299,6 +299,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Anti-Mage"
+            }
+        },
+        "a-salad-bowl-of-eccentrics": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Awaiting Kirin (From Another World)"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-sign-of-affection": {
