@@ -1,5 +1,5 @@
 {
-    "total_count": 1271,
+    "total_count": 1272,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -114,6 +114,18 @@
                 "season": 3,
                 "episode": 25,
                 "title": "Amigas inestimables"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-condition-called-love": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mucho gusto en conocerte"
             },
             "dub": {
                 "season": 0,

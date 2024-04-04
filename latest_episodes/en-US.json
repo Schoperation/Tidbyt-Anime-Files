@@ -1,5 +1,5 @@
 {
-    "total_count": 1724,
+    "total_count": 1725,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -167,6 +167,18 @@
                 "season": 3,
                 "episode": 25,
                 "title": "My Dear Friends"
+            }
+        },
+        "a-condition-called-love": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Nice to Meet You"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-couple-of-cuckoos": {
