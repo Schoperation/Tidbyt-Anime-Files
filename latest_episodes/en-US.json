@@ -1,5 +1,5 @@
 {
-    "total_count": 1725,
+    "total_count": 1726,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19950,6 +19950,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Twelfth Period"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "wind-breaker": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "SAKURA ARRIVES AT FURIN"
             },
             "dub": {
                 "season": 0,
