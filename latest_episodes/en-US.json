@@ -1,5 +1,5 @@
 {
-    "total_count": 1723,
+    "total_count": 1724,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -822,6 +822,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Let Me See Your Universe"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "an-archdemons-dilemma-how-to-love-your-elf-bride": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "First Love Is Like a Nasty Disease That Everyone Catches Once"
             },
             "dub": {
                 "season": 0,
