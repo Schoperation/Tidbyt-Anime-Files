@@ -1,5 +1,5 @@
 {
-    "total_count": 1275,
+    "total_count": 1276,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4974,6 +4974,18 @@
                 "season": 5,
                 "episode": 12,
                 "title": "¡Parece que los prodigios de preparatoria lo tienen fácil incluso en otro mundo!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "highspeed-toile": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Bajo el cielo de Fuji"
             },
             "dub": {
                 "season": 0,

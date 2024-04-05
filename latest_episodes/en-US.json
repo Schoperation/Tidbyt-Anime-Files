@@ -1,5 +1,5 @@
 {
-    "total_count": 1728,
+    "total_count": 1729,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7163,6 +7163,18 @@
                 "season": 5,
                 "episode": 12,
                 "title": "It Seems High School Prodigies Have It Easy Even In Another World!"
+            }
+        },
+        "highspeed-toile": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Underneath Fuji's Sky"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "higurashi-when-they-cry---gou": {
