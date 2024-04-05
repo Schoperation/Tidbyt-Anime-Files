@@ -1,5 +1,5 @@
 {
-    "total_count": 1727,
+    "total_count": 1728,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1439,6 +1439,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "FRIEND-SHIP"
+            }
+        },
+        "astro-note": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Untitled"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "atelier-ryza-ever-darkness--the-secret-hideout-the-animation": {

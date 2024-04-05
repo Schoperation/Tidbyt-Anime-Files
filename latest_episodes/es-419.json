@@ -1,5 +1,5 @@
 {
-    "total_count": 1274,
+    "total_count": 1275,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1110,6 +1110,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "FRIEND-SHIP"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "astro-note": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,
