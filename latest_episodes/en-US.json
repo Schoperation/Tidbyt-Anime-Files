@@ -1,5 +1,5 @@
 {
-    "total_count": 1730,
+    "total_count": 1731,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18882,6 +18882,18 @@
                 "season": 1,
                 "episode": 21,
                 "title": "Personal Belongings Inspection"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tonari-no-yokai-san": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Untitled"
             },
             "dub": {
                 "season": 0,

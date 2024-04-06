@@ -1,5 +1,5 @@
 {
-    "total_count": 1277,
+    "total_count": 1278,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7581,8 +7581,8 @@
             },
             "dub": {
                 "season": 2,
-                "episode": 21,
-                "title": "Wahlberg Baigan y la magia de oscuridad"
+                "episode": 22,
+                "title": "Wahlberg Baigan y el mayor peligro"
             }
         },
         "me--roboco": {
@@ -13938,6 +13938,18 @@
                 "season": 1,
                 "episode": 21,
                 "title": "Inspección de Objetos Personales"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tonari-no-yokai-san": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,
