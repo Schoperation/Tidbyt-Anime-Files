@@ -1,5 +1,5 @@
 {
-    "total_count": 1729,
+    "total_count": 1730,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4482,6 +4482,18 @@
                 "season": 1,
                 "episode": 100,
                 "title": "FAREWELL, THIS WORLD THAT I LOVE"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-raja--the-blazing-dawn-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "An Invitation From a Foreign Land"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1276,
+    "total_count": 1277,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3258,6 +3258,18 @@
                 "season": 1,
                 "episode": 100,
                 "title": "Hasta la vista, mundo que tanto amo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-raja--the-blazing-dawn-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Invitación de una tierra lejana"
             },
             "dub": {
                 "season": 0,
