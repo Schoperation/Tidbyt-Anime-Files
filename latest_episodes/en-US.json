@@ -1,5 +1,5 @@
 {
-    "total_count": 1731,
+    "total_count": 1732,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19542,6 +19542,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Revolution to the Future"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "vampire-dormitory": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Untitled"
             },
             "dub": {
                 "season": 0,

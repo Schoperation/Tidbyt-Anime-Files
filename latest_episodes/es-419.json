@@ -1,5 +1,5 @@
 {
-    "total_count": 1278,
+    "total_count": 1279,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14478,6 +14478,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Valkyrie Drive"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "vampire-dormitory": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Eligiendo al chico apuesto"
             },
             "dub": {
                 "season": 0,
