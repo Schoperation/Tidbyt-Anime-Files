@@ -1,5 +1,5 @@
 {
-    "total_count": 1732,
+    "total_count": 1733,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6282,6 +6282,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "A Final Battle to Shake Off Your Blues!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "grandpa-and-grandma-turn-young-again": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Grandpa and Grandma and the Sports Festival"
             },
             "dub": {
                 "season": 0,

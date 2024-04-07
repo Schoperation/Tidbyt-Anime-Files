@@ -1,5 +1,5 @@
 {
-    "total_count": 1279,
+    "total_count": 1280,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4458,6 +4458,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡La última gran batalla!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "grandpa-and-grandma-turn-young-again": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El abuelo y la abuela van al festival deportivo"
             },
             "dub": {
                 "season": 0,
