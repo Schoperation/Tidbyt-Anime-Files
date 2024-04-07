@@ -1,5 +1,5 @@
 {
-    "total_count": 1280,
+    "total_count": 1281,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1014,6 +1014,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Aprendiz"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Reencarnación y evaluación"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1733,
+    "total_count": 1734,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1331,6 +1331,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Apprentice"
+            }
+        },
+        "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Untitled"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "as-miss-beelzebub-likes-it": {
