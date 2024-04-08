@@ -1,5 +1,5 @@
 {
-    "total_count": 1282,
+    "total_count": 1283,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12018,6 +12018,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "La batalla decisiva"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tadaima-okaeri": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Gusto en conocerlos"
             },
             "dub": {
                 "season": 0,

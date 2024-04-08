@@ -1,5 +1,5 @@
 {
-    "total_count": 1735,
+    "total_count": 1736,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16631,6 +16631,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Deciding Battle"
+            }
+        },
+        "tadaima-okaeri": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "It's Nice to Meet You"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "taisho-mebiusline-chicchaisan": {
