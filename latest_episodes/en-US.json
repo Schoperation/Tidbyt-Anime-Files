@@ -1,5 +1,5 @@
 {
-    "total_count": 1734,
+    "total_count": 1735,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3066,6 +3066,18 @@
                 "season": 3,
                 "episode": 24,
                 "title": "When winds send waves crashing"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "chillin-in-another-world-with-level-2-super-cheat-powers": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Untitled"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1281,
+    "total_count": 1282,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2190,6 +2190,18 @@
                 "season": 3,
                 "episode": 24,
                 "title": "Como una ola empujada por fieros vientos"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "chillin-in-another-world-with-level-2-super-cheat-powers": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Un candidato a héroe de nivel 2"
             },
             "dub": {
                 "season": 0,
