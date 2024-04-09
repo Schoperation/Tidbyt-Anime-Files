@@ -1,5 +1,5 @@
 {
-    "total_count": 1736,
+    "total_count": 1737,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19446,6 +19446,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Unlimited Fafnir"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "unnamed-memory": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Cursed Words and the Azure Tower"
             },
             "dub": {
                 "season": 0,
