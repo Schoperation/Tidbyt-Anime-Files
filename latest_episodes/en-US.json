@@ -1,5 +1,5 @@
 {
-    "total_count": 1737,
+    "total_count": 1738,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12390,6 +12390,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Closing Party"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "oblivion-battery": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I'll Make You Remember"
             },
             "dub": {
                 "season": 0,

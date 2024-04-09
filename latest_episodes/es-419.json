@@ -1,5 +1,5 @@
 {
-    "total_count": 1284,
+    "total_count": 1285,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9018,6 +9018,18 @@
                 "season": 4,
                 "episode": 12,
                 "title": "Adiós, Nyarko-san W"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "oblivion-battery": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Te haré recordar"
             },
             "dub": {
                 "season": 0,
