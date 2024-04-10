@@ -1,5 +1,5 @@
 {
-    "total_count": 1285,
+    "total_count": 1286,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13187,6 +13187,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "Lo que siempre debió ser"
+            }
+        },
+        "the-many-sides-of-voice-actor-radio": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¿Yuhi y Yasumi no pueden ocultarlo?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-marginal-service": {
