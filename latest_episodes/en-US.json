@@ -1,5 +1,5 @@
 {
-    "total_count": 1739,
+    "total_count": 1740,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11790,6 +11790,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "The Pair's Promise"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mysterious-disappearances": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Cursed Book, the Maiden, and the Birthday"
             },
             "dub": {
                 "season": 0,

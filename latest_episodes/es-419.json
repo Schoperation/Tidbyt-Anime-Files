@@ -1,5 +1,5 @@
 {
-    "total_count": 1286,
+    "total_count": 1287,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -8586,6 +8586,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "La promesa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mysterious-disappearances": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El libro maldito, la doncella y el cumpleaños"
             },
             "dub": {
                 "season": 0,
