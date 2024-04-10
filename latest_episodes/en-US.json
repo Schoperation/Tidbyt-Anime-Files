@@ -1,5 +1,5 @@
 {
-    "total_count": 1740,
+    "total_count": 1741,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19727,6 +19727,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Home"
+            }
+        },
+        "viral-hit": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "First Upload"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "virtualsan---looking": {

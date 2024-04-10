@@ -1,5 +1,5 @@
 {
-    "total_count": 1287,
+    "total_count": 1288,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7701,8 +7701,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Cementerio de máscaras"
+                "episode": 13,
+                "title": "Código Eve"
             }
         },
         "mf-ghost": {
@@ -12507,9 +12507,9 @@
         },
         "the-crunchyroll-anime-awards": {
             "sub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 2021,
+                "episode": 1,
+                "title": "Los Crunchyroll Anime Awards 2021"
             },
             "dub": {
                 "season": 2023,
@@ -14651,6 +14651,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Hogar"
+            }
+        },
+        "viral-hit": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Primer post"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "virtualsan---looking": {
