@@ -1,5 +1,5 @@
 {
-    "total_count": 1296,
+    "total_count": 1297,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2802,6 +2802,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "El último plan de papel maché / ¡Papel maché a la eternidad!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dead-dead-demons-dededede-destruction": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 0"
             },
             "dub": {
                 "season": 0,

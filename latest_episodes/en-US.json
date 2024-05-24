@@ -1,5 +1,5 @@
 {
-    "total_count": 1749,
+    "total_count": 1750,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3875,6 +3875,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "dead-dead-demons-dededede-destruction": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 0"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 0"
             }
         },
         "dead-mount-death-play": {
