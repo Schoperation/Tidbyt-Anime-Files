@@ -1,5 +1,5 @@
 {
-    "total_count": 1297,
+    "total_count": 1298,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13643,6 +13643,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "A disfrutar del nuevo año"
+            }
+        },
+        "the-strongest-magician-in-the-demon-lords-army-was-a-human": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Ike, comandante de la brigada de los no muertos"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-strongest-sage-with-the-weakest-crest": {

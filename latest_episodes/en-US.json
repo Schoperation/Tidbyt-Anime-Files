@@ -1,5 +1,5 @@
 {
-    "total_count": 1750,
+    "total_count": 1751,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18479,6 +18479,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Enjoying New Year's to the Fullest"
+            }
+        },
+        "the-strongest-magician-in-the-demon-lords-army-was-a-human": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Ike, Commander of the Undying Brigade"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-strongest-sage-with-the-weakest-crest": {
