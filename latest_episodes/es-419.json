@@ -1,5 +1,5 @@
 {
-    "total_count": 1298,
+    "total_count": 1299,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2790,6 +2790,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "La lluvia"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "days-with-my-stepsister": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Days with My Stepsister - Teaser"
             },
             "dub": {
                 "season": 0,
