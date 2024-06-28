@@ -1,5 +1,5 @@
 {
-    "total_count": 1752,
+    "total_count": 1753,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10643,6 +10643,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Mash Burnedead and His Good Friends"
+            }
+        },
+        "mayonaka-punch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Teaser"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "mazinger-edition-z": {

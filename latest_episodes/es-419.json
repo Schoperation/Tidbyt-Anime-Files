@@ -1,5 +1,5 @@
 {
-    "total_count": 1299,
+    "total_count": 1300,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7691,6 +7691,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Mash Burnedead y los buenos amigos"
+            }
+        },
+        "mayonaka-punch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "MAYONAKA PUNCH - Teaser"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "me--roboco": {
