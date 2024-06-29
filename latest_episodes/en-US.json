@@ -1,5 +1,5 @@
 {
-    "total_count": 1753,
+    "total_count": 1754,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11831,6 +11831,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "We're All Having a Party"
+            }
+        },
+        "my-wife-has-no-emotion": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "An Applicance Became My Wife"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "my-wife-is-the-student-council-president": {
