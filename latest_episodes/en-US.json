@@ -1,5 +1,5 @@
 {
-    "total_count": 1755,
+    "total_count": 1756,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20351,6 +20351,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Light"
+            }
+        },
+        "witchy-precure": {
+            "sub": {
+                "season": 1,
+                "episode": 50,
+                "title": "Cure Up Rapapa! The Future is Looking Bright!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "with-a-dog-and-a-cat-every-day-is-fun": {

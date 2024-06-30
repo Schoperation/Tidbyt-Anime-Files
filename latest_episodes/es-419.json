@@ -1,5 +1,5 @@
 {
-    "total_count": 1302,
+    "total_count": 1303,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15138,6 +15138,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Takamiya-kun y Weekend, tercera parte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "witchy-precure": {
+            "sub": {
+                "season": 1,
+                "episode": 50,
+                "title": "¡Cure Up RaPaPa! ¡Un futuro prometedor!"
             },
             "dub": {
                 "season": 0,
