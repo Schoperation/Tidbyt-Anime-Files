@@ -1,5 +1,5 @@
 {
-    "total_count": 1301,
+    "total_count": 1302,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4422,6 +4422,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Reading with a Bear"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "go-princess-precure": {
+            "sub": {
+                "season": 1,
+                "episode": 50,
+                "title": "¡Hasta el confín de los sueños! Go! Princess Precure!"
             },
             "dub": {
                 "season": 0,

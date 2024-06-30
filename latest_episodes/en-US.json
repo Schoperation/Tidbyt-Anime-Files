@@ -1,5 +1,5 @@
 {
-    "total_count": 1754,
+    "total_count": 1755,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6198,6 +6198,18 @@
                 "season": 1,
                 "episode": 52,
                 "title": "Burn Galra Castle"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "go-princess-precure": {
+            "sub": {
+                "season": 1,
+                "episode": 50,
+                "title": "To a Faraway Dream! Go! Princess Pretty Cures!"
             },
             "dub": {
                 "season": 0,
