@@ -1,5 +1,5 @@
 {
-    "total_count": 1303,
+    "total_count": 1304,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13458,6 +13458,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Destino"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Empezando 12 años tarde"
             },
             "dub": {
                 "season": 0,

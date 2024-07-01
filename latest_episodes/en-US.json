@@ -1,5 +1,5 @@
 {
-    "total_count": 1756,
+    "total_count": 1757,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18299,6 +18299,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "JOURNEY GOES ON"
+            }
+        },
+        "the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Starting 12 Years Late"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-perfect-insider": {
