@@ -1,5 +1,5 @@
 {
-    "total_count": 1304,
+    "total_count": 1305,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12282,6 +12282,18 @@
                 "season": 1,
                 "episode": 16,
                 "title": "San Valentín, cuarta parte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tasuketsu--fate-of-the-majority-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mañana"
             },
             "dub": {
                 "season": 0,

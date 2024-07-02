@@ -1,5 +1,5 @@
 {
-    "total_count": 1757,
+    "total_count": 1758,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16938,6 +16938,18 @@
                 "season": 1,
                 "episode": 16,
                 "title": "The Valentine Knows Part 4"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tasuketsu--fate-of-the-majority-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tomorrow"
             },
             "dub": {
                 "season": 0,
