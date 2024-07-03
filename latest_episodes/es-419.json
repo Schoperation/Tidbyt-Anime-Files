@@ -1,5 +1,5 @@
 {
-    "total_count": 1305,
+    "total_count": 1306,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -618,6 +618,18 @@
                 "season": 1,
                 "episode": 8,
                 "title": "El paisaje que ves antes de perderte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "alya-sometimes-hides-her-feelings-in-russian": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Alya esconde sus sentimientos en ruso"
             },
             "dub": {
                 "season": 0,

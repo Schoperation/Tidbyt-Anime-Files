@@ -1,5 +1,5 @@
 {
-    "total_count": 1758,
+    "total_count": 1759,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -810,6 +810,18 @@
                 "season": 1,
                 "episode": 8,
                 "title": "The Scenery Before You When You're Lost / Good Nick, Bad Nick / Everyone is Sure to be Rewarded One Day / I was Reborn, and Now I'm a CEO? / Traffic Accident? Amnesia? Let's Shoot for the Top in Life? / How Can I Save You? My Angel…"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "alya-sometimes-hides-her-feelings-in-russian": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Alya Hides Her Feelings in Russian"
             },
             "dub": {
                 "season": 0,
