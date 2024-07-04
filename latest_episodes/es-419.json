@@ -1,5 +1,5 @@
 {
-    "total_count": 1307,
+    "total_count": 1308,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10050,6 +10050,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Sin título"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ramen-akaneko": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Contrato a puertas cerradas / El chiquero del gato negro"
             },
             "dub": {
                 "season": 0,

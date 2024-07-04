@@ -1,5 +1,5 @@
 {
-    "total_count": 1760,
+    "total_count": 1761,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13890,6 +13890,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Untitled"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ramen-akaneko": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Closed-Door Hire \\ The Athletic Black Cat"
             },
             "dub": {
                 "season": 0,
