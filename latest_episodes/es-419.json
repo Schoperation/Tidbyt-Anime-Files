@@ -1,5 +1,5 @@
 {
-    "total_count": 1308,
+    "total_count": 1309,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9930,6 +9930,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Promesa -Protocolo-"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "pseudo-harem": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¿El comienzo de una historia?"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1761,
+    "total_count": 1762,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13698,6 +13698,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Promise -Protocol-"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "pseudo-harem": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Beginning of a Story?"
             },
             "dub": {
                 "season": 0,
