@@ -1,5 +1,5 @@
 {
-    "total_count": 1763,
+    "total_count": 1764,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -15270,6 +15270,18 @@
                 "season": 2,
                 "episode": 26,
                 "title": "The Honnoji Incident"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "senpai-is-an-otokonoko": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Senpai is an Otokonoko"
             },
             "dub": {
                 "season": 0,

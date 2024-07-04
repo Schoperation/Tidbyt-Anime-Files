@@ -1,5 +1,5 @@
 {
-    "total_count": 1310,
+    "total_count": 1311,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11142,6 +11142,18 @@
                 "season": 2,
                 "episode": 26,
                 "title": "El incidente de Honno-ji"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "senpai-is-an-otokonoko": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mi compañero se traviste"
             },
             "dub": {
                 "season": 0,
