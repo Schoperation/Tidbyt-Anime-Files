@@ -1,5 +1,5 @@
 {
-    "total_count": 1306,
+    "total_count": 1307,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14526,6 +14526,18 @@
                 "season": 1,
                 "episode": 14,
                 "title": "Tiro peligroso"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "twilight-out-of-focus": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Toma 1"
             },
             "dub": {
                 "season": 0,

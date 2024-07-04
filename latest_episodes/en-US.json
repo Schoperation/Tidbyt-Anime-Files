@@ -1,5 +1,5 @@
 {
-    "total_count": 1759,
+    "total_count": 1760,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19518,6 +19518,18 @@
                 "season": 1,
                 "episode": 14,
                 "title": "Dangerous Shoot"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "twilight-out-of-focus": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "If This Love Is Going to be Over Before It Even Begins..."
             },
             "dub": {
                 "season": 0,
