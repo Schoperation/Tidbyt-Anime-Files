@@ -1,5 +1,5 @@
 {
-    "total_count": 1762,
+    "total_count": 1763,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5039,6 +5039,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "The Sky (Azure)"
+            }
+        },
+        "failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Goddess Announcing Her Summons"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "fairies-album": {

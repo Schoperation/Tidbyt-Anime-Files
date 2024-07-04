@@ -1,5 +1,5 @@
 {
-    "total_count": 1309,
+    "total_count": 1310,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3642,6 +3642,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Amanecer"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "01. La diosa anuncia su convocatoria"
             },
             "dub": {
                 "season": 0,
