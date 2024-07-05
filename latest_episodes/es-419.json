@@ -1,5 +1,5 @@
 {
-    "total_count": 1311,
+    "total_count": 1312,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10031,6 +10031,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "quality-assurance-in-another-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Nikola, la sirvienta"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Nikola, la sirvienta"
             }
         },
         "radiant": {

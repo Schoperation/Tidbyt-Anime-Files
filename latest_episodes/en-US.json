@@ -1,5 +1,5 @@
 {
-    "total_count": 1764,
+    "total_count": 1765,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13835,6 +13835,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "quality-assurance-in-another-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Nikola the Servant Girl"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Nikola the Servant Girl"
             }
         },
         "r-15": {
