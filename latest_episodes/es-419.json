@@ -1,5 +1,5 @@
 {
-    "total_count": 1314,
+    "total_count": 1315,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6184,13 +6184,13 @@
         "kaiju-no-8": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "El kaiju número 8 es capturado"
+                "episode": 12,
+                "title": "Kafka Hibino"
             },
             "dub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Expuesto"
+                "episode": 11,
+                "title": "El kaiju número 8 es capturado"
             }
         },
         "kaina-of-the-great-snow-sea": {
@@ -8202,6 +8202,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Goodbye"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "monogatari-series-off--monster-season": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tsukihi Undo"
             },
             "dub": {
                 "season": 0,

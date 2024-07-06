@@ -1,5 +1,5 @@
 {
-    "total_count": 1767,
+    "total_count": 1768,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8644,13 +8644,13 @@
         "kaiju-no-8": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Kaiju No. 8 Captured"
+                "episode": 12,
+                "title": "Kafka Hibino"
             },
             "dub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Secret Revealed"
+                "episode": 11,
+                "title": "Kaiju No. 8 Captured"
             }
         },
         "kaina-of-the-great-snow-sea": {
@@ -11310,6 +11310,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Hitagi End Part Six"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "monogatari-series-off--monster-season": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "OROKAMONOGATARI Tsukihi Undo"
             },
             "dub": {
                 "season": 0,
