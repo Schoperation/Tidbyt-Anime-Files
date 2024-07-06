@@ -1,5 +1,5 @@
 {
-    "total_count": 1769,
+    "total_count": 1770,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17610,6 +17610,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Red String of Fate"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-elusive-samurai": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "May 22nd"
             },
             "dub": {
                 "season": 0,

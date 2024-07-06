@@ -1,5 +1,5 @@
 {
-    "total_count": 1316,
+    "total_count": 1317,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12870,6 +12870,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El hilo rojo del destino"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-elusive-samurai": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Prólogo"
             },
             "dub": {
                 "season": 0,
