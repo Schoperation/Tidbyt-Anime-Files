@@ -1,5 +1,5 @@
 {
-    "total_count": 1766,
+    "total_count": 1767,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -263,6 +263,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "The Color Of The Sea. The Color Of The Land. The Color Of The Wind. The Color Of The Heart. The Color Of You. ~Earth color of a calm~"
+            }
+        },
+        "a-nobodys-way-up-to-an-exploration-hero": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The Second Servant Card"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-place-further-than-the-universe": {

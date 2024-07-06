@@ -1,5 +1,5 @@
 {
-    "total_count": 1313,
+    "total_count": 1314,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -186,6 +186,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El rescate"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-nobodys-way-up-to-an-exploration-hero": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La segunda carta de sirviente"
             },
             "dub": {
                 "season": 0,
