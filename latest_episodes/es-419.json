@@ -1,5 +1,5 @@
 {
-    "total_count": 1315,
+    "total_count": 1316,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10847,6 +10847,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "To be continued"
+            }
+        },
+        "sakuna-of-rice-and-ruin": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La princesa Sakuna del Reino Superior"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "sakura-quest": {

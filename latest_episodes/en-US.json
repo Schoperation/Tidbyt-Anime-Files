@@ -1,5 +1,5 @@
 {
-    "total_count": 1768,
+    "total_count": 1769,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14855,6 +14855,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "TO BE CONTINUED"
+            }
+        },
+        "sakuna-of-rice-and-ruin": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Princess Sakuna of the Lofty Realm"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "sakura-quest": {
