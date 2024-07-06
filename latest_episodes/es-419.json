@@ -1,5 +1,5 @@
 {
-    "total_count": 1317,
+    "total_count": 1318,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11502,6 +11502,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "El comienzo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "shoshimin-how-to-become-ordinary": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Con piel de cordero"
             },
             "dub": {
                 "season": 0,

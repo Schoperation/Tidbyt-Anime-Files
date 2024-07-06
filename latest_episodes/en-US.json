@@ -1,5 +1,5 @@
 {
-    "total_count": 1770,
+    "total_count": 1771,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -15815,6 +15815,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Beginning"
+            }
+        },
+        "shoshimin-how-to-become-ordinary": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sheep Costume"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "show-by-rock": {
