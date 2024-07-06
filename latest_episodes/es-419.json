@@ -1,5 +1,5 @@
 {
-    "total_count": 1312,
+    "total_count": 1313,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2646,6 +2646,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Da Capo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El sueño de Dahlia"
             },
             "dub": {
                 "season": 0,
