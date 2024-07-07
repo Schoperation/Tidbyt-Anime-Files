@@ -1,5 +1,5 @@
 {
-    "total_count": 1322,
+    "total_count": 1323,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -191,6 +191,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "a-journey-through-another-world-raising-kids-while-adventuring": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Hola, Joule"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Otro mundo y unos gemelos"
             }
         },
         "a-nobodys-way-up-to-an-exploration-hero": {

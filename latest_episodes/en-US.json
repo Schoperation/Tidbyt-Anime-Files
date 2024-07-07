@@ -1,5 +1,5 @@
 {
-    "total_count": 1775,
+    "total_count": 1776,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -251,6 +251,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "a-journey-through-another-world-raising-kids-while-adventuring": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Nice to Meet You, Joule"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Nice to Meet You, Joule"
             }
         },
         "a-lull-in-the-sea-nagi-asu-nagi-no-asukara": {
