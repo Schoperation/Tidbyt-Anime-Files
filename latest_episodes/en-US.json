@@ -1,5 +1,5 @@
 {
-    "total_count": 1772,
+    "total_count": 1773,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11658,6 +11658,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "I'm Home, Dad"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "my-deer-friend-nokotan": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "GIRL MEETS DEER"
             },
             "dub": {
                 "season": 0,

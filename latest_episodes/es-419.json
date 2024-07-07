@@ -1,5 +1,5 @@
 {
-    "total_count": 1319,
+    "total_count": 1320,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -8502,6 +8502,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Papá, ya estoy en casa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "my-deer-friend-nokotan": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,
