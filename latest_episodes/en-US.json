@@ -1,5 +1,5 @@
 {
-    "total_count": 1774,
+    "total_count": 1775,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12071,6 +12071,18 @@
                 "season": 1,
                 "episode": 25,
                 "title": "Sarabaka"
+            }
+        },
+        "narenare--cheer-for-you-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Front Tuck Somersault Full Twist Layout"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "naruto": {

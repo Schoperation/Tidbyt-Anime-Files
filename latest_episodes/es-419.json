@@ -1,5 +1,5 @@
 {
-    "total_count": 1321,
+    "total_count": 1322,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -8826,6 +8826,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Especial"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "narenare--cheer-for-you-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Composición de pliegue frontal con salto mortal y giro completo"
             },
             "dub": {
                 "season": 0,
