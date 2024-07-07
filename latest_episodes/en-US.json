@@ -1,5 +1,5 @@
 {
-    "total_count": 1776,
+    "total_count": 1777,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20555,6 +20555,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "And So, Off into the World..."
+            }
+        },
+        "wistoria-wand-and-sword": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Like a Lone Sword"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "witch-craft-works": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 1323,
+    "total_count": 1324,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15371,6 +15371,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Y así, en el mundo ..."
+            }
+        },
+        "wistoria-wand-and-sword": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Como una espada solitaria"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "witch-craft-works": {
