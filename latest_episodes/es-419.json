@@ -1,5 +1,5 @@
 {
-    "total_count": 1320,
+    "total_count": 1321,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15066,6 +15066,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Voz de la verdad"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Me olvidé de cerrar el stream y me convertí en leyenda"
             },
             "dub": {
                 "season": 0,

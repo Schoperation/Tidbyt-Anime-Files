@@ -1,5 +1,5 @@
 {
-    "total_count": 1773,
+    "total_count": 1774,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20166,6 +20166,18 @@
                 "season": 1,
                 "episode": 6,
                 "title": "Endless Legend"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I Forgot To Turn My Stream Off, And Became a Legend"
             },
             "dub": {
                 "season": 0,
