@@ -1,5 +1,5 @@
 {
-    "total_count": 1318,
+    "total_count": 1319,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3738,6 +3738,18 @@
                 "season": 3,
                 "episode": 328,
                 "title": "Amigos irreemplazables"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "fairy-tail-100-years-quest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El primer gremio y el mejor gremio"
             },
             "dub": {
                 "season": 0,

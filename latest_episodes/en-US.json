@@ -1,5 +1,5 @@
 {
-    "total_count": 1771,
+    "total_count": 1772,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5147,6 +5147,18 @@
                 "season": 3,
                 "episode": 328,
                 "title": "Dearest Friends"
+            }
+        },
+        "fairy-tail-100-years-quest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The \"First\" Guild and the \"Strongest\" Guild"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "fan-chronicles-a-crunchyroll-documentary-series": {
