@@ -1,5 +1,5 @@
 {
-    "total_count": 1324,
+    "total_count": 1325,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13482,6 +13482,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Nanaki es un reflejo del corazón"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "No mataré por amor"
             },
             "dub": {
                 "season": 0,
