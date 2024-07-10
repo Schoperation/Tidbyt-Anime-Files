@@ -1,5 +1,5 @@
 {
-    "total_count": 1779,
+    "total_count": 1780,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9947,6 +9947,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "Naru"
+            }
+        },
+        "love-is-indivisible-by-twins": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Let’s End It Tonight"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "love-is-like-a-cocktail": {

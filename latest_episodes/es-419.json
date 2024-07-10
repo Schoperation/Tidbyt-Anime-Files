@@ -1,5 +1,5 @@
 {
-    "total_count": 1326,
+    "total_count": 1327,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7134,6 +7134,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "0-0. A jugar"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "love-is-indivisible-by-twins": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Dejémoslo esta noche"
             },
             "dub": {
                 "season": 0,
