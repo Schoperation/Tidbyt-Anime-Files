@@ -10201,18 +10201,6 @@
                 "title": ""
             }
         },
-        "ramen-akaneko": {
-            "sub": {
-                "season": 1,
-                "episode": 1,
-                "title": "Contrato a puertas cerradas / El chiquero del gato negro"
-            },
-            "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
-            }
-        },
         "ranking-of-kings": {
             "sub": {
                 "season": 42,
@@ -10343,6 +10331,18 @@
                 "season": 13,
                 "episode": 10,
                 "title": "En una noche de luna"
+            }
+        },
+        "red-cat-ramen": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La curiosidad mató al gato"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "red-garden": {
