@@ -1,5 +1,5 @@
 {
-    "total_count": 1780,
+    "total_count": 1781,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2603,6 +2603,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Ryoma and the Town of Gimul"
+            }
+        },
+        "bye-bye-earth": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Departure at the Red Hour"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "c3-anime": {

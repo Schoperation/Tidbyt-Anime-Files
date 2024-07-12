@@ -1,5 +1,5 @@
 {
-    "total_count": 1327,
+    "total_count": 1328,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1979,6 +1979,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Ryoma y la ciudad de Gimul"
+            }
+        },
+        "bye-bye-earth": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Partida a la hora roja"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "caligula": {
