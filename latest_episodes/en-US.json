@@ -1,5 +1,5 @@
 {
-    "total_count": 1783,
+    "total_count": 1784,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10566,6 +10566,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Pillar 12 - Realist but Romanticist"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "makeine-too-many-losing-heroines": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Professional Childhood Friend Yanami Anna's Style of Losing"
             },
             "dub": {
                 "season": 0,

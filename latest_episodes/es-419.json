@@ -1,5 +1,5 @@
 {
-    "total_count": 1330,
+    "total_count": 1331,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7638,6 +7638,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Realista, pero romántico"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "makeine-too-many-losing-heroines": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La derrota de Anna Yanami, amiga de la infancia profesional"
             },
             "dub": {
                 "season": 0,
