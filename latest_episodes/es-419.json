@@ -1,5 +1,5 @@
 {
-    "total_count": 1328,
+    "total_count": 1329,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15366,6 +15366,18 @@
                 "season": 1,
                 "episode": 9,
                 "title": "Sin título"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "why-does-nobody-remember-me-in-this-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El chico olvidado por el mundo"
             },
             "dub": {
                 "season": 0,

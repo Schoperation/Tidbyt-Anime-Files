@@ -1,5 +1,5 @@
 {
-    "total_count": 1781,
+    "total_count": 1782,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20550,6 +20550,18 @@
                 "season": 1,
                 "episode": 210,
                 "title": "March 12th 2018"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "why-does-nobody-remember-me-in-this-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Boy Forgotten by the World"
             },
             "dub": {
                 "season": 0,
