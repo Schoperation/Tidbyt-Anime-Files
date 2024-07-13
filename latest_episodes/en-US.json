@@ -1,5 +1,5 @@
 {
-    "total_count": 1782,
+    "total_count": 1783,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1506,6 +1506,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Changing Days"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "atri--my-dear-moments-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "To the Cradle in the Ocean"
             },
             "dub": {
                 "season": 0,

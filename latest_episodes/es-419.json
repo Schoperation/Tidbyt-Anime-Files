@@ -1,5 +1,5 @@
 {
-    "total_count": 1329,
+    "total_count": 1330,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1182,6 +1182,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Los días cambiantes"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "atri--my-dear-moments-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Hacia la cuna del mar"
             },
             "dub": {
                 "season": 0,
