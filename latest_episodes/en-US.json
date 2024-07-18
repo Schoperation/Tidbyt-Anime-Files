@@ -14077,6 +14077,18 @@
                 "title": ""
             }
         },
+        "ramen-akaneko": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Nothing Wrong With That / Service First/ The Masked Handyman"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "ramen-fighter-miki": {
             "sub": {
                 "season": 1,
@@ -14231,18 +14243,6 @@
                 "season": 13,
                 "episode": 10,
                 "title": "On a Moonlit Evening"
-            }
-        },
-        "red-cat-ramen": {
-            "sub": {
-                "season": 1,
-                "episode": 2,
-                "title": "Hana-chan's Professionalism / The Tiger in the Noodle Room"
-            },
-            "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
             }
         },
         "red-data-girl": {
