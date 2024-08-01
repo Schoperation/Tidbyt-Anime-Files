@@ -1,5 +1,5 @@
 {
-    "total_count": 1784,
+    "total_count": 1785,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2075,6 +2075,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Another Reincarnated"
+            }
+        },
+        "blackfox": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "BLACKFOX"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "blade-and-soul": {

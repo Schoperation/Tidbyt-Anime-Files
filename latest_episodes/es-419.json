@@ -1,5 +1,5 @@
 {
-    "total_count": 1331,
+    "total_count": 1332,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1542,6 +1542,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Otro reencarnado"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "blackfox": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "BLACKFOX"
             },
             "dub": {
                 "season": 0,
