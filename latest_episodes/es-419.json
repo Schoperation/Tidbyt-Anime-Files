@@ -1,5 +1,5 @@
 {
-    "total_count": 1333,
+    "total_count": 1334,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14694,6 +14694,18 @@
                 "season": 1,
                 "episode": 46,
                 "title": "¡Brilla tropicalmente! ¡Nuestro presente!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "true-beauty": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 01"
             },
             "dub": {
                 "season": 0,

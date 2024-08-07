@@ -1,5 +1,5 @@
 {
-    "total_count": 1786,
+    "total_count": 1787,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19662,6 +19662,18 @@
                 "season": 1,
                 "episode": 46,
                 "title": "Tropica-shine! Our Now!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "true-beauty": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Goddess descends?!"
             },
             "dub": {
                 "season": 0,
