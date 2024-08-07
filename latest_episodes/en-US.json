@@ -1,5 +1,5 @@
 {
-    "total_count": 1785,
+    "total_count": 1786,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4086,6 +4086,18 @@
                 "season": 1,
                 "episode": 45,
                 "title": "Deliciousmile! Everyone, Get Together! Let's Eat!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "delicos-nursery": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Welcome to the Nursery"
             },
             "dub": {
                 "season": 0,

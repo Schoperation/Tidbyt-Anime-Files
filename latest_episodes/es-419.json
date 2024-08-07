@@ -1,5 +1,5 @@
 {
-    "total_count": 1332,
+    "total_count": 1333,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2994,6 +2994,18 @@
                 "season": 1,
                 "episode": 45,
                 "title": "¡Deliciousmile! ¡Reunámonos! ¡Buen provecho!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "delicos-nursery": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Bienvenidos a la guardería"
             },
             "dub": {
                 "season": 0,
