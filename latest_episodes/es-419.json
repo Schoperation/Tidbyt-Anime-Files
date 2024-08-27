@@ -1,5 +1,5 @@
 {
-    "total_count": 1334,
+    "total_count": 1335,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10038,6 +10038,18 @@
                 "season": 1,
                 "episode": 52,
                 "title": "Hasta que nos volvamos redondos otra vez"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "precure-splash-star": {
+            "sub": {
+                "season": 1,
+                "episode": 49,
+                "title": "¡En plena forma! ¡Amigas para siempre bajo el cielo estrellado!"
             },
             "dub": {
                 "season": 0,
