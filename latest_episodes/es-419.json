@@ -1,5 +1,5 @@
 {
-    "total_count": 1335,
+    "total_count": 1336,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10038,6 +10038,18 @@
                 "season": 1,
                 "episode": 52,
                 "title": "Hasta que nos volvamos redondos otra vez"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "precure-max-heart": {
+            "sub": {
+                "season": 1,
+                "episode": 47,
+                "title": "¡Abre la puerta! Una historia que comienza aquí."
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1788,
+    "total_count": 1789,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13734,6 +13734,18 @@
                 "season": 1,
                 "episode": 49,
                 "title": "Believe in the Future! Believe in Tomorrow! We Won't Let You Say Goodbye!!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "precure-max-heart": {
+            "sub": {
+                "season": 1,
+                "episode": 47,
+                "title": "Open the Door! Our Story Begins Now!"
             },
             "dub": {
                 "season": 0,
