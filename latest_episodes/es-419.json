@@ -1,5 +1,5 @@
 {
-    "total_count": 1336,
+    "total_count": 1337,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14886,6 +14886,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Señoritas, enciendan los motores"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tying-the-knot-with-an-amagami-sister": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tying the Knot with an Amagami Sister - Tráiler"
             },
             "dub": {
                 "season": 0,

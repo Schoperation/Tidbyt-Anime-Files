@@ -1,5 +1,5 @@
 {
-    "total_count": 1789,
+    "total_count": 1790,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19890,6 +19890,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Ladies, Start Your Engines!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tying-the-knot-with-an-amagami-sister": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Teaser PV"
             },
             "dub": {
                 "season": 0,
