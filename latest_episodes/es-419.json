@@ -1,5 +1,5 @@
 {
-    "total_count": 1337,
+    "total_count": 1338,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6990,6 +6990,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episodio final: Salvar Noa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "let-this-grieving-soul-retire": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Solo quiero irme a casa"
             },
             "dub": {
                 "season": 0,

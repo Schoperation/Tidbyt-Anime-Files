@@ -1,5 +1,5 @@
 {
-    "total_count": 1790,
+    "total_count": 1791,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9726,6 +9726,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Save Noa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "let-this-grieving-soul-retire": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Today, I Just Want to Go Homecc"
             },
             "dub": {
                 "season": 0,
