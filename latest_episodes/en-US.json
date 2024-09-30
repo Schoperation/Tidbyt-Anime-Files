@@ -1,5 +1,5 @@
 {
-    "total_count": 1791,
+    "total_count": 1792,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18575,6 +18575,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "True Intentions"
+            }
+        },
+        "the-most-notorious-talker-runs-the-worlds-greatest-clan": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Why the Weakest Aims to be the Strongest"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-mystic-archives-of-dantalian": {

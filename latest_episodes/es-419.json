@@ -1,5 +1,5 @@
 {
-    "total_count": 1338,
+    "total_count": 1339,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13746,6 +13746,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "Autenticidad"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-most-notorious-talker-runs-the-worlds-greatest-clan": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Por qué el más débil aspira a ser el más fuerte"
             },
             "dub": {
                 "season": 0,
