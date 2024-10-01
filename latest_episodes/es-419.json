@@ -1,5 +1,5 @@
 {
-    "total_count": 1339,
+    "total_count": 1340,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5670,6 +5670,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Guerra Civil En La Calle Sunshine, Parte 2"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ill-become-a-villainess-who-goes-down-in-history": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La villana y el ejercicio"
             },
             "dub": {
                 "season": 0,
