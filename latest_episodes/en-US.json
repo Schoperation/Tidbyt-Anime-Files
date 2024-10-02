@@ -1,5 +1,5 @@
 {
-    "total_count": 1793,
+    "total_count": 1794,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -450,6 +450,18 @@
                 "season": 3,
                 "episode": 52,
                 "title": "Ace of Diamond"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "acro-trip": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Go To the Path of Evil"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1340,
+    "total_count": 1341,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -354,6 +354,18 @@
                 "season": 3,
                 "episode": 52,
                 "title": "Ace of Diamond"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "acro-trip": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El primer encuentro"
             },
             "dub": {
                 "season": 0,
