@@ -1,5 +1,5 @@
 {
-    "total_count": 1343,
+    "total_count": 1344,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -42,6 +42,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Pista de aterrizaje"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "365-days-to-the-wedding": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¿Y si nos casamos?"
             },
             "dub": {
                 "season": 0,

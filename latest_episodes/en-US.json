@@ -1,5 +1,5 @@
 {
-    "total_count": 1796,
+    "total_count": 1797,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -71,6 +71,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Runway"
+            }
+        },
+        "365-days-to-the-wedding": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Why Don't We Get Married?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy": {
