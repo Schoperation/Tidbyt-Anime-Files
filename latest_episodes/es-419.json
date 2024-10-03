@@ -1,5 +1,5 @@
 {
-    "total_count": 1344,
+    "total_count": 1345,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2766,6 +2766,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Lalala, lalala, lalala lala"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dan-da-dan": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Yo diría que así inicia el amor, ¿no crees?"
             },
             "dub": {
                 "season": 0,

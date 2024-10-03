@@ -1,5 +1,5 @@
 {
-    "total_count": 1797,
+    "total_count": 1798,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3827,6 +3827,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "dan-da-dan": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "That's How Love Starts, Ya Know!"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "That's How Love Starts, Ya Know!"
             }
         },
         "dance-dance-danseur": {
