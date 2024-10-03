@@ -1,5 +1,5 @@
 {
-    "total_count": 1794,
+    "total_count": 1795,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9251,6 +9251,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "The Battle of the World Tree"
+            }
+        },
+        "kinokoinu-mushroom-pup": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": " Kinokoinu Is Born"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "kinos-journey--the-beautiful-world--the-animated-series": {

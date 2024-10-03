@@ -1,5 +1,5 @@
 {
-    "total_count": 1341,
+    "total_count": 1342,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6606,6 +6606,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "The Battle of the World Tree"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kinokoinu-mushroom-pup": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El nacimiento de Can-piñón"
             },
             "dub": {
                 "season": 0,
