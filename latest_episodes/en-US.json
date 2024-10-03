@@ -1,5 +1,5 @@
 {
-    "total_count": 1800,
+    "total_count": 1801,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19775,6 +19775,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "High Noon at July"
+            }
+        },
+        "trillion-game": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "START UP"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "trinity-blood": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 1347,
+    "total_count": 1348,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14807,6 +14807,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "High Noon at July"
+            }
+        },
+        "trillion-game": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Nueva empresa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "trinity-blood": {
