@@ -1,5 +1,5 @@
 {
-    "total_count": 1345,
+    "total_count": 1346,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7938,6 +7938,18 @@
                 "season": 1,
                 "episode": 28,
                 "title": "Rodillas y Roboco"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mecha-ude-mechanical-arms": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Usuaria de Mecha-Ude"
             },
             "dub": {
                 "season": 0,

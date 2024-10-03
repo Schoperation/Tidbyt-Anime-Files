@@ -1,5 +1,5 @@
 {
-    "total_count": 1798,
+    "total_count": 1799,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10902,6 +10902,18 @@
                 "season": 1,
                 "episode": 28,
                 "title": "Knees \u0026 Roboco"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mecha-ude-mechanical-arms": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mecha-Ude User"
             },
             "dub": {
                 "season": 0,
