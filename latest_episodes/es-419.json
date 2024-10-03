@@ -1,5 +1,5 @@
 {
-    "total_count": 1342,
+    "total_count": 1343,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9066,6 +9066,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡¿Qué pasará con el último acertijo?!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "negative-positive-angler": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Pescador negativo"
             },
             "dub": {
                 "season": 0,

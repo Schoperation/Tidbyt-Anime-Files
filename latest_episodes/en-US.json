@@ -1,5 +1,5 @@
 {
-    "total_count": 1795,
+    "total_count": 1796,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12306,6 +12306,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Hmm?! What Happens in the Last Episode?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "negative-positive-angler": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Negative Angler"
             },
             "dub": {
                 "season": 0,
