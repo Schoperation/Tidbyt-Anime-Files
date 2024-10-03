@@ -1,5 +1,5 @@
 {
-    "total_count": 1799,
+    "total_count": 1800,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6455,6 +6455,18 @@
                 "season": 1,
                 "episode": 49,
                 "title": "The Vanished Kamuy"
+            }
+        },
+        "good-bye-dragon-life": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Goodbye, Dragon Life"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "good-luck-girl": {
