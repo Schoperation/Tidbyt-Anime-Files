@@ -1,5 +1,5 @@
 {
-    "total_count": 1801,
+    "total_count": 1802,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18983,6 +18983,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Enjoying New Year's to the Fullest"
+            }
+        },
+        "the-stories-of-girls-who-couldnt-be-magicians": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I Want to Be a Magician!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-strongest-magician-in-the-demon-lords-army-was-a-human": {

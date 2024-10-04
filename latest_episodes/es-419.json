@@ -1,5 +1,5 @@
 {
-    "total_count": 1348,
+    "total_count": 1349,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14147,6 +14147,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "A disfrutar del nuevo año"
+            }
+        },
+        "the-stories-of-girls-who-couldnt-be-magicians": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡Quiero convertirme en maga!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-strongest-magician-in-the-demon-lords-army-was-a-human": {
