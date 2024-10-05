@@ -1,5 +1,5 @@
 {
-    "total_count": 1349,
+    "total_count": 1350,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13362,6 +13362,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "El Samurái de la gimnasia"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-healer-who-was-banished-from-his-party-is-in-fact-the-strongest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Un encuentro que en realidad fue un reencuentro"
             },
             "dub": {
                 "season": 0,

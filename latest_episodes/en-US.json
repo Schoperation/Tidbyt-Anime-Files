@@ -1,5 +1,5 @@
 {
-    "total_count": 1802,
+    "total_count": 1803,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10689,8 +10689,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 10,
-                "title": "I Suppose It's a Bit too Early for Goodbye"
+                "episode": 11,
+                "title": "Let's Have a Talk about Responsibility"
             }
         },
         "maken-ki": {
@@ -18131,6 +18131,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "Gymnastic's Samurai"
+            }
+        },
+        "the-healer-who-was-banished-from-his-party-is-in-fact-the-strongest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Regarding Their Meeting, Which Was, in Fact, a Reunion"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-heike-story": {
