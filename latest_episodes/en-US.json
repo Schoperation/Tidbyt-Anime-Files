@@ -1,5 +1,5 @@
 {
-    "total_count": 1804,
+    "total_count": 1805,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19962,6 +19962,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "Full Moon Festival 2020"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tsumasho": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Right Now"
             },
             "dub": {
                 "season": 0,

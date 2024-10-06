@@ -1,5 +1,5 @@
 {
-    "total_count": 1351,
+    "total_count": 1352,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14970,6 +14970,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "Episodio 13"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tsumasho": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Ahora mismo."
             },
             "dub": {
                 "season": 0,
