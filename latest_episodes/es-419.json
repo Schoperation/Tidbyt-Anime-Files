@@ -1,5 +1,5 @@
 {
-    "total_count": 1350,
+    "total_count": 1351,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16050,6 +16050,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "El ombligo y la dignidad"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "you-are-ms-servant": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Nuestro encuentro predestinado"
             },
             "dub": {
                 "season": 0,

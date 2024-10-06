@@ -1,5 +1,5 @@
 {
-    "total_count": 1803,
+    "total_count": 1804,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21342,6 +21342,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Navel and Dignity"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "you-are-ms-servant": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "My Fateful Encounter with You."
             },
             "dub": {
                 "season": 0,
