@@ -1,5 +1,5 @@
 {
-    "total_count": 1807,
+    "total_count": 1808,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21222,6 +21222,18 @@
                 "season": 1,
                 "episode": 69,
                 "title": "Who Would You Serve Really Good Bread To!? Long Live Ja-pan!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "yakuza-fianc-raise-wa-tanin-ga-ii": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Ain't no place for losers here"
             },
             "dub": {
                 "season": 0,

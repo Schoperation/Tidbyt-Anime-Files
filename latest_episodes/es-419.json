@@ -1,5 +1,5 @@
 {
-    "total_count": 1354,
+    "total_count": 1355,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15978,6 +15978,18 @@
                 "season": 1,
                 "episode": 16,
                 "title": "Episodio 16"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "yakuza-fianc-raise-wa-tanin-ga-ii": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "No hay lugar para perdedores"
             },
             "dub": {
                 "season": 0,
