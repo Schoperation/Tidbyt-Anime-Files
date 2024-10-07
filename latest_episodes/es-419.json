@@ -9073,18 +9073,6 @@
                 "title": ""
             }
         },
-        "natsume-yujin-cho-4": {
-            "sub": {
-                "season": 2,
-                "episode": 13,
-                "title": "El lejano camino hacia la casa"
-            },
-            "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
-            }
-        },
         "natsume-yujin-cho-5": {
             "sub": {
                 "season": 1,
@@ -9102,6 +9090,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "Lo que importa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "natsumes-book-of-friends": {
+            "sub": {
+                "season": 5,
+                "episode": 11,
+                "title": "Al ser efímero"
             },
             "dub": {
                 "season": 0,

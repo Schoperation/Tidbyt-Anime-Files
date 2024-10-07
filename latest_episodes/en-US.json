@@ -12313,18 +12313,6 @@
                 "title": "Natsume's Book of Play"
             }
         },
-        "natsume-yujin-cho-4": {
-            "sub": {
-                "season": 4,
-                "episode": 13,
-                "title": "A Long Way Home"
-            },
-            "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
-            }
-        },
         "natsume-yujin-cho-5": {
             "sub": {
                 "season": 1,
@@ -12347,6 +12335,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "natsumes-book-of-friends": {
+            "sub": {
+                "season": 5,
+                "episode": 11,
+                "title": "To The Ephemeral Ones"
+            },
+            "dub": {
+                "season": 5,
+                "episode": 11,
+                "title": "To The Ephemeral Ones"
             }
         },
         "nazotokine": {
