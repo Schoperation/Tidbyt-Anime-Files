@@ -1,5 +1,5 @@
 {
-    "total_count": 1806,
+    "total_count": 1807,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12491,6 +12491,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "nina-the-starry-bride": {
+            "sub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Origin of Sin"
             }
         },
         "ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world": {

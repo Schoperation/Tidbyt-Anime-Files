@@ -1,5 +1,5 @@
 {
-    "total_count": 1353,
+    "total_count": 1354,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9227,6 +9227,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "nina-the-starry-bride": {
+            "sub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Primera noche: El comienzo del crimen"
             }
         },
         "ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world": {
