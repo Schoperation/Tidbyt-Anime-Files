@@ -1,5 +1,5 @@
 {
-    "total_count": 1352,
+    "total_count": 1353,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10302,6 +10302,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Punch Line"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "puniru-is-a-kawaii-slime": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "TE ODIO y TE QUIERO"
             },
             "dub": {
                 "season": 0,

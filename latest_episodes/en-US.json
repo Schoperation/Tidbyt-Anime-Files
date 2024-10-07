@@ -1,5 +1,5 @@
 {
-    "total_count": 1805,
+    "total_count": 1806,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14094,6 +14094,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Punch Line"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "puniru-is-a-kawaii-slime": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I HATE YOU and I LOVE YOU"
             },
             "dub": {
                 "season": 0,
