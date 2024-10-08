@@ -1,5 +1,5 @@
 {
-    "total_count": 1808,
+    "total_count": 1809,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -383,6 +383,18 @@
                 "season": 1,
                 "episode": 5,
                 "title": "The One Titan Pairing! | Attack on Titan Ep 42"
+            }
+        },
+        "a-terrified-teacher-at-ghoul-school": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Welcome to Hyakki Academy!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a3": {
