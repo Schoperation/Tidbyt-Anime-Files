@@ -1,5 +1,5 @@
 {
-    "total_count": 1356,
+    "total_count": 1357,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13146,6 +13146,18 @@
                 "season": 1,
                 "episode": 16,
                 "title": "Fireworks"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-do-over-damsel-conquers-the-dragon-emperor": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Traté de evitar la ruta mala y, por alguna razón, acabé proponiéndole matrimonio a mi mayor enemigo"
             },
             "dub": {
                 "season": 0,

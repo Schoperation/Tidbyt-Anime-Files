@@ -1,5 +1,5 @@
 {
-    "total_count": 1809,
+    "total_count": 1810,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17879,6 +17879,18 @@
                 "season": 1,
                 "episode": 16,
                 "title": "Fireworks"
+            }
+        },
+        "the-do-over-damsel-conquers-the-dragon-emperor": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I Tried to Avoid the Route to Destruction and Somehow Ended Up Courting My Greatest Enemy"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-duke-of-death-and-his-maid": {
