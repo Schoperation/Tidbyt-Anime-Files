@@ -1,5 +1,5 @@
 {
-    "total_count": 1810,
+    "total_count": 1811,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1182,6 +1182,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Stand by oneself"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "another-journey-to-the-west": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episode 2"
             },
             "dub": {
                 "season": 0,

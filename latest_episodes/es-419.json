@@ -1,5 +1,5 @@
 {
-    "total_count": 1357,
+    "total_count": 1358,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -930,6 +930,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El muerto"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "another-journey-to-the-west": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episodio 2"
             },
             "dub": {
                 "season": 0,
