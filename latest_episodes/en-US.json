@@ -1,5 +1,5 @@
 {
-    "total_count": 1811,
+    "total_count": 1812,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4619,6 +4619,18 @@
                 "season": 1,
                 "episode": 153,
                 "title": "The End, The Beginning"
+            }
+        },
+        "dragon-ball-daima": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Conspiracy"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "dragon-ball-gt": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 1358,
+    "total_count": 1359,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3414,6 +3414,18 @@
                 "season": 1,
                 "episode": 153,
                 "title": "The End, The Beginning"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-daima": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La conspiración"
             },
             "dub": {
                 "season": 0,
