@@ -1,5 +1,5 @@
 {
-    "total_count": 1359,
+    "total_count": 1360,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3078,6 +3078,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "¡No nos estás escuchando, Catherine!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "demon-lord-2099": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Shinjuku, ciudad ciperbunk"
             },
             "dub": {
                 "season": 0,
