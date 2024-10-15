@@ -1,5 +1,5 @@
 {
-    "total_count": 1813,
+    "total_count": 1814,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13739,6 +13739,18 @@
                 "season": 1,
                 "episode": 5,
                 "title": "Yumemi's Wish"
+            }
+        },
+        "planetes": {
+            "sub": {
+                "season": 1,
+                "episode": 26,
+                "title": "And The Days We Chance Upon…"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "plastic-memories": {
