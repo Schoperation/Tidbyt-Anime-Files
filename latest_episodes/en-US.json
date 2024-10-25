@@ -1,5 +1,5 @@
 {
-    "total_count": 1816,
+    "total_count": 1817,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6630,6 +6630,18 @@
                 "season": 1,
                 "episode": 1,
                 "title": "Movie"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "gridman-universe": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Gridman Universe"
             },
             "dub": {
                 "season": 0,
