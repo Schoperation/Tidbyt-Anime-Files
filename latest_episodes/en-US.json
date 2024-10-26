@@ -1,5 +1,5 @@
 {
-    "total_count": 1817,
+    "total_count": 1818,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2267,6 +2267,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The Time Has Come"
+            }
+        },
+        "blue-miburo": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "A World Where It's Okay to Cry"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "blue-reflection-ray": {
