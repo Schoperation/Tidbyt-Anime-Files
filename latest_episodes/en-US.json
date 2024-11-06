@@ -1,5 +1,5 @@
 {
-    "total_count": 1818,
+    "total_count": 1819,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6287,6 +6287,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Her Resolve, and..."
+            }
+        },
+        "girls-band-cry": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "Rock 'n' Roll Will Never Stop"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "girls-bravo": {
