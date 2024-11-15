@@ -1,5 +1,5 @@
 {
-    "total_count": 1362,
+    "total_count": 1363,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14742,6 +14742,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Lo que más me importa es…"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tomorrows-joe": {
+            "sub": {
+                "season": 1,
+                "episode": 15,
+                "title": "La nana de la lona blanca"
             },
             "dub": {
                 "season": 0,

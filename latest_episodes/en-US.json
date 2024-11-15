@@ -1,5 +1,5 @@
 {
-    "total_count": 1819,
+    "total_count": 1820,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19727,6 +19727,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "What's Most Important to Me Is..."
+            }
+        },
+        "tomorrows-joe": {
+            "sub": {
+                "season": 1,
+                "episode": 35,
+                "title": "You Can Do It, Nishi!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "tonari-no-seki-kun-the-master-of-killing-time": {
