@@ -1,5 +1,5 @@
 {
-    "total_count": 1820,
+    "total_count": 1821,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8183,6 +8183,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Relocating, Building, Flying, and the Earth"
+            }
+        },
+        "in-this-corner-and-other-corners-of-the-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "In This Corner (and Other Corners) of the World"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "inazma-delivery": {
