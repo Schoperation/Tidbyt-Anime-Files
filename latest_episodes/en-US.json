@@ -1,5 +1,5 @@
 {
-    "total_count": 1821,
+    "total_count": 1822,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11478,6 +11478,18 @@
                 "season": 1,
                 "episode": 50,
                 "title": "PHASE-50: THE FINAL POWER"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mobile-suit-gundam-seed-freedom": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mobile Suit Gundam SEED Freedom (English Dub)"
             },
             "dub": {
                 "season": 0,
