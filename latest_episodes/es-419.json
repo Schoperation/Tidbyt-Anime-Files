@@ -1,5 +1,5 @@
 {
-    "total_count": 1363,
+    "total_count": 1364,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13890,6 +13890,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Este mundo de mierda va a llegar a su fin"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-master-of-diabolism": {
+            "sub": {
+                "season": 2,
+                "episode": 15,
+                "title": "Peace"
             },
             "dub": {
                 "season": 0,

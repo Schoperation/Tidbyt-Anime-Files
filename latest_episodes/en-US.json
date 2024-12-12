@@ -1,5 +1,5 @@
 {
-    "total_count": 1823,
+    "total_count": 1824,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18762,6 +18762,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Shitty World Will in Fact Come to an End"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-master-of-diabolism": {
+            "sub": {
+                "season": 2,
+                "episode": 15,
+                "title": "Peace"
             },
             "dub": {
                 "season": 0,
