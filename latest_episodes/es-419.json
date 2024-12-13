@@ -1,5 +1,5 @@
 {
-    "total_count": 1364,
+    "total_count": 1365,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6786,6 +6786,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Si el Sistema Kizuna se extendiese por todo el mundo..."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kizumonogatari": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Kizumonogatari - Vampiro Koyomi"
             },
             "dub": {
                 "season": 0,

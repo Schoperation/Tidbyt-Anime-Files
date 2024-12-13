@@ -1,5 +1,5 @@
 {
-    "total_count": 1824,
+    "total_count": 1825,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9467,6 +9467,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "If The Kizna System Spread Throughout The World"
+            }
+        },
+        "kizumonogatari": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "KIZUMONOGATARI -Koyomi Vamp-"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "kizuna-no-allele": {
