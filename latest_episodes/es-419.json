@@ -1,5 +1,5 @@
 {
-    "total_count": 1365,
+    "total_count": 1366,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13127,6 +13127,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Su deseo"
+            }
+        },
+        "the-concierge": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Concierge"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-crunchyroll-anime-awards": {

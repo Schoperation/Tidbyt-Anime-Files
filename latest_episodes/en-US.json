@@ -1,5 +1,5 @@
 {
-    "total_count": 1825,
+    "total_count": 1826,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17903,6 +17903,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "His Wish"
+            }
+        },
+        "the-concierge": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Concierge"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-crunchyroll-anime-awards": {
