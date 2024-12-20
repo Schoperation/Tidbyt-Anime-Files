@@ -1,5 +1,5 @@
 {
-    "total_count": 1366,
+    "total_count": 1367,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7650,6 +7650,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "¡Magic-Kyun para ti!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "magic-maker-how-to-make-magic-in-another-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Magic Maker: How to Make Magic in Another World - PV1"
             },
             "dub": {
                 "season": 0,

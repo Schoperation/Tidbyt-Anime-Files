@@ -1,5 +1,5 @@
 {
-    "total_count": 1826,
+    "total_count": 1827,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10566,6 +10566,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Magic-Kyun For You!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "magic-maker-how-to-make-magic-in-another-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "PV1"
             },
             "dub": {
                 "season": 0,
