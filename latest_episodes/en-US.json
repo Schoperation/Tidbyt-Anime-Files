@@ -1,5 +1,5 @@
 {
-    "total_count": 1828,
+    "total_count": 1829,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7919,6 +7919,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Yuuya and Kaori"
+            }
+        },
+        "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "PV1"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "i-shall-survive-using-potions": {
