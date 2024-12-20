@@ -1,5 +1,5 @@
 {
-    "total_count": 1367,
+    "total_count": 1368,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4014,6 +4014,18 @@
                 "season": 1,
                 "episode": 25,
                 "title": "Epílogo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "fatestay-night-heavens-feel": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Fate/stay night [Heaven's Feel] III. spring song"
             },
             "dub": {
                 "season": 0,

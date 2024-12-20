@@ -1,5 +1,5 @@
 {
-    "total_count": 1827,
+    "total_count": 1828,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5447,6 +5447,18 @@
                 "season": 1,
                 "episode": 25,
                 "title": "Epilogue"
+            }
+        },
+        "fatestay-night-heavens-feel": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Fate/stay night [Heaven's Feel] III. spring song"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "fatezero": {
