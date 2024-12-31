@@ -1,5 +1,5 @@
 {
-    "total_count": 1369,
+    "total_count": 1370,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1746,6 +1746,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Mejorando la defensa y la gran batalla final."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El ingrediente único"
             },
             "dub": {
                 "season": 0,

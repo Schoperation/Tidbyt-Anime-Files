@@ -1,5 +1,5 @@
 {
-    "total_count": 1830,
+    "total_count": 1831,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2351,6 +2351,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Maxing Defense and the Big Final Battle"
+            }
+        },
+        "bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Only Ingredient"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "boku-no-imoutowaosaka-okan": {
