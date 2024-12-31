@@ -1,5 +1,5 @@
 {
-    "total_count": 1829,
+    "total_count": 1830,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5459,6 +5459,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "fatestrange-fake": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Heroic Spirit Incident"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Heroic Spirit Incident"
             }
         },
         "fatezero": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 1368,
+    "total_count": 1369,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4026,6 +4026,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "Fate/stay night [Heaven's Feel] III. spring song"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "fatestrange-fake": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El incidente del Espíritu Heroico"
             },
             "dub": {
                 "season": 0,
