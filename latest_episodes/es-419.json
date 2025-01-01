@@ -1,5 +1,5 @@
 {
-    "total_count": 1370,
+    "total_count": 1371,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4854,6 +4854,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El cuento que no conoce nadie"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "grisaia-phantom-trigger": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Cuna materna"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1833,
+    "total_count": 1834,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6726,6 +6726,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "A Fairy Tale Nobody Knows"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "grisaia-phantom-trigger": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mother's Cradle I"
             },
             "dub": {
                 "season": 0,
