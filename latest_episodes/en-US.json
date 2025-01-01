@@ -1,5 +1,5 @@
 {
-    "total_count": 1834,
+    "total_count": 1835,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -918,6 +918,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Let Me See Your Universe"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ameku-md-doctor-detective": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Blue Blood Cells and Dragon Fangs"
             },
             "dub": {
                 "season": 0,
