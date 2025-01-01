@@ -1,5 +1,5 @@
 {
-    "total_count": 1831,
+    "total_count": 1832,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7278,6 +7278,18 @@
                 "season": 2,
                 "episode": 25,
                 "title": "It's really a story about a young lady and her butler."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "headhunted-to-another-world-from-salaryman-to-big-four": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tips on How to Pass the Entrance Exam in Another World"
             },
             "dub": {
                 "season": 0,
