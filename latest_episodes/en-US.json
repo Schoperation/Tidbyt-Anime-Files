@@ -1,5 +1,5 @@
 {
-    "total_count": 1832,
+    "total_count": 1833,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14039,6 +14039,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Endless Love"
+            }
+        },
+        "possibly-the-greatest-alchemist-of-all-time": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I Was Summoned By Accident"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "power-of-hope-precure-full-bloom": {
