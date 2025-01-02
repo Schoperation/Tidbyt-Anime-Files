@@ -1,5 +1,5 @@
 {
-    "total_count": 1836,
+    "total_count": 1837,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11711,6 +11711,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Goodbye"
+            }
+        },
+        "momentary-lily": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Saury Hitsumabushi After the Loneliness"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "mon-colle-knights": {
