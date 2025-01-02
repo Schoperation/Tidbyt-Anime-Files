@@ -1,5 +1,5 @@
 {
-    "total_count": 1835,
+    "total_count": 1836,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1607,6 +1607,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Attack! Titan Junior High School"
+            }
+        },
+        "ave-mujica---the-die-is-cast--": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sub rosa."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "aware-meisaku-kun": {
