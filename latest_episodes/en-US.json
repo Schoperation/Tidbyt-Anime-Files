@@ -1,5 +1,5 @@
 {
-    "total_count": 1838,
+    "total_count": 1839,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13199,6 +13199,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Okami-san and the Girl Who Doesn't Sell Matches But Is Misfortunate Anyway"
+            }
+        },
+        "okitsura-fell-in-love-with-an-okinawan-girl-but-i-just-wish-i-know-what-shes-saying": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Girl I Like Speaks in Uchinaaguchi"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "omamori-himari": {
