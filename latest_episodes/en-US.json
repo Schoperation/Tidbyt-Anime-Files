@@ -1,5 +1,5 @@
 {
-    "total_count": 1839,
+    "total_count": 1840,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8015,6 +8015,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "I Shall Survive Using Potions!"
+            }
+        },
+        "i-want-to-escape-from-princess-lessons": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 1"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "i-was-reincarnated-as-the-7th-prince-so-i-can-take-my-time-perfecting-my-magical-ability": {
