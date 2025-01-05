@@ -1,5 +1,5 @@
 {
-    "total_count": 1371,
+    "total_count": 1372,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16422,6 +16422,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Yuuna and the Haunted Hot Springs, and…"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "zenshu": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "ZENSHU - PV"
             },
             "dub": {
                 "season": 0,
