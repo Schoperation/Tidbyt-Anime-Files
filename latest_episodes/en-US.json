@@ -1,5 +1,5 @@
 {
-    "total_count": 1843,
+    "total_count": 1844,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8183,6 +8183,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "The Villainess and the Past"
+            }
+        },
+        "im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Liam Tries Using Magic For the First Time"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "im-getting-married-to-a-girl-i-hate-in-my-class": {
