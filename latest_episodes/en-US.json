@@ -1,5 +1,5 @@
 {
-    "total_count": 1841,
+    "total_count": 1842,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14327,6 +14327,18 @@
                 "season": 1,
                 "episode": 6,
                 "title": "Enter the Super Weapon! The Last Battle for Earth!"
+            }
+        },
+        "promise-of-wizard": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Wind Is Strong, and the Cats Are in a Frenzy"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "protocol-rain": {
