@@ -1,5 +1,5 @@
 {
-    "total_count": 1372,
+    "total_count": 1373,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5190,6 +5190,18 @@
                 "season": 2,
                 "episode": 25,
                 "title": "De verdad es una historia sobre una señorita y su mayordomo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "headhunted-to-another-world-from-salaryman-to-big-four": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The Art of Negotiation in Captivating a Stubborn Tribal Chief"
             },
             "dub": {
                 "season": 0,
