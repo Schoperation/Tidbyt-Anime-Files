@@ -1,5 +1,5 @@
 {
-    "total_count": 1842,
+    "total_count": 1843,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11166,6 +11166,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Even Then, We Continue Onward"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "medaka-kuroiwa-is-impervious-to-my-charms": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Can't Charm Him"
             },
             "dub": {
                 "season": 0,
