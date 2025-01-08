@@ -1,5 +1,5 @@
 {
-    "total_count": 1374,
+    "total_count": 1375,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -726,6 +726,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Déjame ver tu universo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ameku-md-doctor-detective": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Hacia el hechizo de luz resplandeciente"
             },
             "dub": {
                 "season": 0,
