@@ -1,5 +1,5 @@
 {
-    "total_count": 1845,
+    "total_count": 1846,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1218,6 +1218,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Supreme Wish"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "anyway-im-falling-in-love-with-you": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Teaser"
             },
             "dub": {
                 "season": 0,
