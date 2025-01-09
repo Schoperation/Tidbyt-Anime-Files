@@ -1,5 +1,5 @@
 {
-    "total_count": 1846,
+    "total_count": 1847,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18155,6 +18155,18 @@
                 "season": 2024,
                 "episode": 1,
                 "title": "Crunchyroll Anime Awards"
+            }
+        },
+        "the-daily-life-of-a-middle-aged-online-shopper-in-another-world": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "An Unfamiliar Forest"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-daily-life-of-the-immortal-king": {
