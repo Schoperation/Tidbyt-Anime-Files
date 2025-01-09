@@ -1,5 +1,5 @@
 {
-    "total_count": 1378,
+    "total_count": 1379,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -8574,6 +8574,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Goodbye"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "momentary-lily": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Estofado de tomate a la italiana y caballa en lata juntas"
             },
             "dub": {
                 "season": 0,
