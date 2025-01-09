@@ -1,5 +1,5 @@
 {
-    "total_count": 1376,
+    "total_count": 1377,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1271,6 +1271,18 @@
                 "season": 4,
                 "episode": 87,
                 "title": "El amanecer de la humanidad"
+            }
+        },
+        "ave-mujica---the-die-is-cast--": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Exitus acta probat"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "aware-meisaku-kun": {
