@@ -1,5 +1,5 @@
 {
-    "total_count": 1380,
+    "total_count": 1381,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1055,6 +1055,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "En el séptimo cielo"
+            }
+        },
+        "aquarion-myth-of-emotions": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Las palabras de una joven"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "are-you-lost": {

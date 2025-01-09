@@ -1,5 +1,5 @@
 {
-    "total_count": 1848,
+    "total_count": 1849,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1307,6 +1307,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "OVER THE MOON"
+            }
+        },
+        "aquarion-myth-of-emotions": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "What She Told"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "arakawa-under-the-bridge": {
