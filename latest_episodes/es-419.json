@@ -1,5 +1,5 @@
 {
-    "total_count": 1377,
+    "total_count": 1378,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3810,6 +3810,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "EUREKA: EUREKA SEVEN HI-EVOLUTION 3"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "even-given-the-worthless-appraiser-class--im-actually-the-strongest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El trabajo de la peor clase posible"
             },
             "dub": {
                 "season": 0,

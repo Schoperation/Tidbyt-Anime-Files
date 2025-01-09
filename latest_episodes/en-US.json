@@ -1,5 +1,5 @@
 {
-    "total_count": 1847,
+    "total_count": 1848,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5183,6 +5183,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "EUREKA: EUREKA SEVEN HI-EVOLUTION"
+            }
+        },
+        "even-given-the-worthless-appraiser-class--im-actually-the-strongest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "\"Appraiser\" Is A Worthless Class"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "evil-or-live": {
