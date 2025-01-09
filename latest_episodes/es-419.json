@@ -1,5 +1,5 @@
 {
-    "total_count": 1379,
+    "total_count": 1380,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -966,6 +966,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Deseo supremo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "anyway-im-falling-in-love-with-you": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El peor cumpleaños de todos"
             },
             "dub": {
                 "season": 0,
