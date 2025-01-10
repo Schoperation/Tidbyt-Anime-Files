@@ -1,5 +1,5 @@
 {
-    "total_count": 1383,
+    "total_count": 1384,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5783,6 +5783,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Yuya y Kaori"
+            }
+        },
+        "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Soy una recepcionista de gremio que solo quiere vivir tranquila"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "i-shall-survive-using-potions": {
