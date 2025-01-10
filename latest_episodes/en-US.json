@@ -1,5 +1,5 @@
 {
-    "total_count": 1849,
+    "total_count": 1850,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21227,6 +21227,18 @@
                 "season": 3,
                 "episode": 21,
                 "title": "Words for My Friends"
+            }
+        },
+        "welcome-to-japan-ms-elf": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Good Morning, Ms. Elf."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "welcome-to-the-japari-park": {
