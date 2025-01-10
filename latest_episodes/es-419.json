@@ -1,5 +1,5 @@
 {
-    "total_count": 1381,
+    "total_count": 1382,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4026,6 +4026,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "Quienes forman los cimientos"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "farmagia": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Las semillas de la guerra"
             },
             "dub": {
                 "season": 0,
