@@ -1,5 +1,5 @@
 {
-    "total_count": 1384,
+    "total_count": 1385,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9798,6 +9798,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Hige-san y los malvaviscos del sueño"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "okitsura-fell-in-love-with-an-okinawan-girl-but-i-just-wish-i-know-what-shes-saying": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¿Nos reunimos en una fiesta en la playa?"
             },
             "dub": {
                 "season": 0,
