@@ -1,5 +1,5 @@
 {
-    "total_count": 1385,
+    "total_count": 1386,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5802,6 +5802,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Sobreviviré a base de pociones!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "i-want-to-escape-from-princess-lessons": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episodio 2"
             },
             "dub": {
                 "season": 0,
