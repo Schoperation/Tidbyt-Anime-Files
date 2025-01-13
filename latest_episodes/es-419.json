@@ -1,5 +1,5 @@
 {
-    "total_count": 1388,
+    "total_count": 1389,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5946,6 +5946,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "La villana y el príncipe"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Liam intenta hablar con un dragón despiadado"
             },
             "dub": {
                 "season": 0,
