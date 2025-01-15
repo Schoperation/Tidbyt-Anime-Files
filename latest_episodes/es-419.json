@@ -1,5 +1,5 @@
 {
-    "total_count": 1389,
+    "total_count": 1390,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5586,6 +5586,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Condiciones de sucesión"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "honey-lemon-soda": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Convirtiéndose en un tesoro"
             },
             "dub": {
                 "season": 0,
