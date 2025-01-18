@@ -1,5 +1,5 @@
 {
-    "total_count": 1391,
+    "total_count": 1392,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5795,6 +5795,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Yuya y Kaori"
+            }
+        },
+        "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Un bosque repleto de bestias mágicas"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time": {
