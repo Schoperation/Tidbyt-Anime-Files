@@ -1,5 +1,5 @@
 {
-    "total_count": 1853,
+    "total_count": 1854,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21474,6 +21474,18 @@
                 "season": 1,
                 "episode": 50,
                 "title": "Cure Up Rapapa! The Future is Looking Bright!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "witchy-precure-mirai-days": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Back to the Magic World!"
             },
             "dub": {
                 "season": 0,
