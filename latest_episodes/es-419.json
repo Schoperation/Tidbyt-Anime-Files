@@ -1,5 +1,5 @@
 {
-    "total_count": 1392,
+    "total_count": 1393,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14483,6 +14483,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Guerra de hermanas (Segunda parte)"
+            }
+        },
+        "the-red-ranger-becomes-an-adventurer-in-another-world": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Sentai Red y los aventureros"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-reflection": {
