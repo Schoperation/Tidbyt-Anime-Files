@@ -1,5 +1,5 @@
 {
-    "total_count": 1394,
+    "total_count": 1395,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -8514,6 +8514,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Los sacrificios rescatados del infierno por un demonio de alas negras que devora a otros demonios será venerado como un dios sin importar si su acto lo vuelve un siervo del cielo o un mero caníbal salvaje"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "miss-monochrome---the-animation": {
+            "sub": {
+                "season": 3,
+                "episode": 13,
+                "title": "Miss Monochrome 3"
             },
             "dub": {
                 "season": 0,
