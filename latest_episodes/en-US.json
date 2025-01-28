@@ -1,5 +1,5 @@
 {
-    "total_count": 1854,
+    "total_count": 1855,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6143,6 +6143,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Please Live"
+            }
+        },
+        "garakowa--restore-the-world-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Garakowa - Director Q\u0026A"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "gargantia-on-the-verdurous-planet": {
