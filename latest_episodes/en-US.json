@@ -1,5 +1,5 @@
 {
-    "total_count": 1855,
+    "total_count": 1856,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21918,6 +21918,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Rokuhoudou Yotsuiro Biyori"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "you-and-idol-precure": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Cure Idol Debuts!"
             },
             "dub": {
                 "season": 0,
