@@ -1,5 +1,5 @@
 {
-    "total_count": 1857,
+    "total_count": 1858,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11663,6 +11663,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Don't You Think They're Alike?"
+            }
+        },
+        "mizu-no-kotoba": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mizu no kotoba / Aquatic Language (Japanese)"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "mob-psycho-100": {
