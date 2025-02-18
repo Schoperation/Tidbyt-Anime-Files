@@ -1,5 +1,5 @@
 {
-    "total_count": 1396,
+    "total_count": 1397,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4158,6 +4158,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Desecha y construye"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "final-fantasy-xv-episode-ardyn--prologue": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 0"
             },
             "dub": {
                 "season": 0,

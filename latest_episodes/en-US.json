@@ -1,5 +1,5 @@
 {
-    "total_count": 1856,
+    "total_count": 1857,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5586,6 +5586,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Scrap and Build"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "final-fantasy-xv-episode-ardyn--prologue": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "PROLOGUE"
             },
             "dub": {
                 "season": 0,
