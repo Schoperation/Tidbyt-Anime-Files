@@ -1,5 +1,5 @@
 {
-    "total_count": 1858,
+    "total_count": 1859,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18947,6 +18947,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Love and Revenge"
+            }
+        },
+        "the-kings-avatar": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "10 Years of Glory, and It Continues"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-last-summoner": {
