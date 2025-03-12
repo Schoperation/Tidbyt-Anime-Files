@@ -1,5 +1,5 @@
 {
-    "total_count": 1860,
+    "total_count": 1862,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4295,6 +4295,30 @@
                 "season": 168,
                 "episode": 8,
                 "title": "The Hashira Unite"
+            }
+        },
+        "demon-slayer-kimetsu-no-yaiba--orchestra-concert-": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Demon Slayer: Kimetsu no Yaiba -Orchestra Concert- Mugen Train Arc"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "demon-slayer-kimetsu-no-yaiba-on-stage": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Demon Slayer: Kimetsu no Yaiba ON STAGE -Mugen Train Arc-"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "demonbane": {
