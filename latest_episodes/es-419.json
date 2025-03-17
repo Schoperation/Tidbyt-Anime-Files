@@ -1,5 +1,5 @@
 {
-    "total_count": 1398,
+    "total_count": 1399,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5574,6 +5574,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Puede que pueda"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "hiwou-war-chronicles": {
+            "sub": {
+                "season": 1,
+                "episode": 26,
+                "title": "So Long, Ryoma! To the Town That'll Be Called Tokyo"
             },
             "dub": {
                 "season": 0,

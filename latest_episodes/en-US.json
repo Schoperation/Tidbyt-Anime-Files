@@ -1,5 +1,5 @@
 {
-    "total_count": 1862,
+    "total_count": 1863,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7830,6 +7830,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Maybe I Just Might"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "hiwou-war-chronicles": {
+            "sub": {
+                "season": 1,
+                "episode": 26,
+                "title": "So Long, Ryoma! To the Town That'll Be Called Tokyo"
             },
             "dub": {
                 "season": 0,
