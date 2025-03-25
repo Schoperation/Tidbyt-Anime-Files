@@ -1,5 +1,5 @@
 {
-    "total_count": 1864,
+    "total_count": 1865,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5315,6 +5315,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "The Sky (Azure)"
+            }
+        },
+        "fafner-the-beyond": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Beyond the Azure"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells": {
