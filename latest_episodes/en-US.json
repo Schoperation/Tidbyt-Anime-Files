@@ -1,5 +1,5 @@
 {
-    "total_count": 1863,
+    "total_count": 1864,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8387,6 +8387,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "On a Million Lives"
+            }
+        },
+        "im-the-evil-lord-of-an-intergalactic-empire": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Rebirth"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "im-the-villainess-so-im-taming-the-final-boss": {
