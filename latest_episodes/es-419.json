@@ -1,5 +1,5 @@
 {
-    "total_count": 1399,
+    "total_count": 1400,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6071,6 +6071,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Un millón de vidas"
+            }
+        },
+        "im-the-evil-lord-of-an-intergalactic-empire": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "El Camino del Destello"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "im-the-villainess-so-im-taming-the-final-boss": {
