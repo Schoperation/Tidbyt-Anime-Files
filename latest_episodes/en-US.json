@@ -1,5 +1,5 @@
 {
-    "total_count": 1867,
+    "total_count": 1868,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3011,6 +3011,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Goodbye, Nuku Nuku"
+            }
+        },
+        "catch-me-at-the-ballpark": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Ruriko the Beer Vendor Girl / Welcome, Regular / Candy and Tears"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "cautious-hero-the-hero-is-overpowered-but-overly-cautious": {
