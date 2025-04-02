@@ -1,5 +1,5 @@
 {
-    "total_count": 1868,
+    "total_count": 1869,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14238,6 +14238,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Cool and Awkward Guys"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "please-put-them-on-takamine-san": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Become My Closet"
             },
             "dub": {
                 "season": 0,
