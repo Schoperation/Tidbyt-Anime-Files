@@ -1,5 +1,5 @@
 {
-    "total_count": 1870,
+    "total_count": 1871,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18258,6 +18258,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Former Hero Lives as He Pleases"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-beginning-after-the-end": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Rebirth of the King"
             },
             "dub": {
                 "season": 0,
