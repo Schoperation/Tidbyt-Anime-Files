@@ -1,5 +1,5 @@
 {
-    "total_count": 1869,
+    "total_count": 1870,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19734,6 +19734,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The Story That Begins Here"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-too-perfect-saint-tossed-aside-by-my-fianc-and-sold-to-another-kingdom": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Saint Who Never Smiled"
             },
             "dub": {
                 "season": 0,
