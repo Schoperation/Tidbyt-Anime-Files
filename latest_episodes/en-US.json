@@ -1,5 +1,5 @@
 {
-    "total_count": 1871,
+    "total_count": 1872,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18282,6 +18282,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Connected Hearts"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-brilliant-healers-new-life-in-the-shadows": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "An Equal Price"
             },
             "dub": {
                 "season": 0,
