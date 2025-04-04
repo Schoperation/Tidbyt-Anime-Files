@@ -1,5 +1,5 @@
 {
-    "total_count": 1872,
+    "total_count": 1873,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2814,6 +2814,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Tale of the God-slayer"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "can-a-boy-girl-friendship-survive": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Anemone Flaccida and Queen of the Night"
             },
             "dub": {
                 "season": 0,

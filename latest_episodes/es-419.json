@@ -1,5 +1,5 @@
 {
-    "total_count": 1402,
+    "total_count": 1403,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2166,6 +2166,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "La Historia del Asesino de Dioses"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "can-a-boy-girl-friendship-survive": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Anemone Flaccida y Reina de la Noche"
             },
             "dub": {
                 "season": 0,
