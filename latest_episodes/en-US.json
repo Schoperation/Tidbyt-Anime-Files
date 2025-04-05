@@ -1,5 +1,5 @@
 {
-    "total_count": 1875,
+    "total_count": 1876,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9990,6 +9990,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Movie"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kowloon-generic-romance": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 1"
             },
             "dub": {
                 "season": 0,
