@@ -1,5 +1,5 @@
 {
-    "total_count": 1873,
+    "total_count": 1874,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1170,6 +1170,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "A Happy Outdoor School"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "anne-shirley": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "It's Such an Interesting World"
             },
             "dub": {
                 "season": 0,
