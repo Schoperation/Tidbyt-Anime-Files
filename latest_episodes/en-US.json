@@ -1,5 +1,5 @@
 {
-    "total_count": 1874,
+    "total_count": 1875,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6959,6 +6959,18 @@
                 "season": 1,
                 "episode": 22,
                 "title": "convergence (Prayer)"
+            }
+        },
+        "guilty-gear-strive-dual-rulers": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Ceremony"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "gun-x-sword": {
