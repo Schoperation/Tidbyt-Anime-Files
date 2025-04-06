@@ -1,5 +1,5 @@
 {
-    "total_count": 1403,
+    "total_count": 1404,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14771,6 +14771,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "the-unaware-atelier-meister": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Mi primera vez en un taller"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Mi primera vez en un taller"
             }
         },
         "the-unlimited-hyobu-kyosuke": {
