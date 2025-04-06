@@ -1,5 +1,5 @@
 {
-    "total_count": 1877,
+    "total_count": 1878,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20178,6 +20178,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Stay With Me, Daddy!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "to-be-hero-x": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "NICE"
             },
             "dub": {
                 "season": 0,
