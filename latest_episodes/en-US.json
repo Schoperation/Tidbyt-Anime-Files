@@ -1,5 +1,5 @@
 {
-    "total_count": 1878,
+    "total_count": 1879,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21731,6 +21731,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Time to tell"
+            }
+        },
+        "witch-watch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "WITCH'S RETURN"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "witchblade": {
