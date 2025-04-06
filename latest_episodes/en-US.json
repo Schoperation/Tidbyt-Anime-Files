@@ -1,5 +1,5 @@
 {
-    "total_count": 1880,
+    "total_count": 1881,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10835,6 +10835,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Recoil of Lycoris"
+            }
+        },
+        "maebashi-witches": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "What’s Wrong with the Status Quo?!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "maerchen-maedchen": {
