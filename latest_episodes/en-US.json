@@ -1,5 +1,5 @@
 {
-    "total_count": 1879,
+    "total_count": 1880,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18779,6 +18779,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "GOD/GOD"
+            }
+        },
+        "the-gorilla-gods-go-to-girl": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Gorilla Life of a Lady and Blessings"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-great-cleric": {
