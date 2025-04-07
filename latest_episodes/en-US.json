@@ -1,5 +1,5 @@
 {
-    "total_count": 1884,
+    "total_count": 1885,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3630,6 +3630,18 @@
                 "season": 1,
                 "episode": 20,
                 "title": "What Kind of Place Is a Mental Clinic?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "compass20-animation-project": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "This Is #COMPASS2.0"
             },
             "dub": {
                 "season": 0,
