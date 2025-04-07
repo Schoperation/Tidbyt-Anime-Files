@@ -1,5 +1,5 @@
 {
-    "total_count": 1881,
+    "total_count": 1882,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -22511,6 +22511,18 @@
                 "season": 1,
                 "episode": 1,
                 "title": "Blossom"
+            }
+        },
+        "zatsutabi--thats-journey-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The First 1,225 Steps"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "zenshu": {
