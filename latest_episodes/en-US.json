@@ -1,5 +1,5 @@
 {
-    "total_count": 1882,
+    "total_count": 1883,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17639,6 +17639,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "A New Form"
+            }
+        },
+        "summer-pockets": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Welcome to Torishirojima Island"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "summoned-to-another-world-for-a-second-time": {
