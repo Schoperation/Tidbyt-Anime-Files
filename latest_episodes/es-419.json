@@ -1,5 +1,5 @@
 {
-    "total_count": 1405,
+    "total_count": 1406,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2238,6 +2238,18 @@
                 "season": 1,
                 "episode": 25,
                 "title": "Case file n221 : Kabukicho OVA"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "catch-me-at-the-ballpark": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La definición de un fan del béisbol"
             },
             "dub": {
                 "season": 0,
