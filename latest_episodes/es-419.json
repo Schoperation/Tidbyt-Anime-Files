@@ -1,5 +1,5 @@
 {
-    "total_count": 1404,
+    "total_count": 1405,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9954,6 +9954,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Onara Goro y la ceremonia de graduación"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "once-upon-a-witchs-death": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La aprendiz de bruja y la gente de Lapis"
             },
             "dub": {
                 "season": 0,
