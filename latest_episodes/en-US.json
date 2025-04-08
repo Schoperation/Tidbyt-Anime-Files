@@ -1,5 +1,5 @@
 {
-    "total_count": 1886,
+    "total_count": 1887,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1302,6 +1302,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Trapped for 70 Years"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "apocalypse-hotel": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A True Hotel Is Always Storied"
             },
             "dub": {
                 "season": 0,
