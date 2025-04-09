@@ -1,5 +1,5 @@
 {
-    "total_count": 1406,
+    "total_count": 1407,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10482,6 +10482,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Cool and Awkward Guys"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "please-put-them-on-takamine-san": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Lo reharé hasta que me quede satisfecha."
             },
             "dub": {
                 "season": 0,
