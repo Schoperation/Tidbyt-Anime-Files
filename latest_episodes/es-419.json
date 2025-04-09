@@ -1,5 +1,5 @@
 {
-    "total_count": 1407,
+    "total_count": 1408,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13446,6 +13446,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El antiguo héroe vive como quiere"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-beginning-after-the-end": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Atacan al rey"
             },
             "dub": {
                 "season": 0,
