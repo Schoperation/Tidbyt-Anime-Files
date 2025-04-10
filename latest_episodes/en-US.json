@@ -1,5 +1,5 @@
 {
-    "total_count": 1887,
+    "total_count": 1888,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -287,6 +287,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "The Color Of The Sea. The Color Of The Land. The Color Of The Wind. The Color Of The Heart. The Color Of You. ~Earth color of a calm~"
+            }
+        },
+        "a-ninja-and-an-assassin-under-one-roof": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Ninja and an Assassin Meet"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-nobodys-way-up-to-an-exploration-hero": {
