@@ -1,5 +1,5 @@
 {
-    "total_count": 1889,
+    "total_count": 1890,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18191,6 +18191,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "No Way, Why Is It So Big... / You Mustn't Touch That..."
+            }
+        },
+        "teogonia": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Kai of Lag Village"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "teppen-laughing-til-you-cry": {

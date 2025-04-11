@@ -1,5 +1,5 @@
 {
-    "total_count": 1408,
+    "total_count": 1409,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13254,6 +13254,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "No puede ser. ¿Por qué es tan grande...? / No toquen eso..."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "teogonia": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Kai, el chico de la aldea Lag"
             },
             "dub": {
                 "season": 0,
