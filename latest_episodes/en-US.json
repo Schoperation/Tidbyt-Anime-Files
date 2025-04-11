@@ -1,5 +1,5 @@
 {
-    "total_count": 1888,
+    "total_count": 1889,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2310,6 +2310,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Counterattack"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "bloody-escape-bats-out-of-hell": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Bloody Escape: Bats out of Hell"
             },
             "dub": {
                 "season": 0,
