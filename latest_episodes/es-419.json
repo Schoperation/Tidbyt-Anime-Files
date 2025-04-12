@@ -1,5 +1,5 @@
 {
-    "total_count": 1409,
+    "total_count": 1410,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -918,6 +918,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Una excursión feliz"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "anne-shirley": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Amo las cosas bonitas"
             },
             "dub": {
                 "season": 0,
