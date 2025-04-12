@@ -1,5 +1,5 @@
 {
-    "total_count": 1411,
+    "total_count": 1412,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7230,6 +7230,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Sin título"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kowloon-generic-romance": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episodio 2"
             },
             "dub": {
                 "season": 0,
