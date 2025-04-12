@@ -1,5 +1,5 @@
 {
-    "total_count": 1412,
+    "total_count": 1413,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -8814,6 +8814,18 @@
                 "season": 1,
                 "episode": 14,
                 "title": "¡Kappou para siempre!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mono": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El viaje de mono"
             },
             "dub": {
                 "season": 0,

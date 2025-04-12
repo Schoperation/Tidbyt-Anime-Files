@@ -1,5 +1,5 @@
 {
-    "total_count": 1890,
+    "total_count": 1891,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12095,6 +12095,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "America"
+            }
+        },
+        "mono": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "mono Trip"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "monogatari-second-season": {
