@@ -1,5 +1,5 @@
 {
-    "total_count": 1410,
+    "total_count": 1411,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4998,6 +4998,18 @@
                 "season": 1,
                 "episode": 43,
                 "title": "La batalla final de Onizuka"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "guilty-gear-strive-dual-rulers": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La creencia en la paz"
             },
             "dub": {
                 "season": 0,
