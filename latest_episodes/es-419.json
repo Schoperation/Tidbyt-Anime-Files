@@ -1,5 +1,5 @@
 {
-    "total_count": 1413,
+    "total_count": 1414,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2550,6 +2550,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Mi amor sigue y sigue"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "classicstars": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La serenata se convertirá en alas"
             },
             "dub": {
                 "season": 0,
