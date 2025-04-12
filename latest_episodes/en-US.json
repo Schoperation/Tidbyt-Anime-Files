@@ -1,5 +1,5 @@
 {
-    "total_count": 1891,
+    "total_count": 1892,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5862,6 +5862,18 @@
                 "season": 2,
                 "episode": 50,
                 "title": "The Gongen-sama on the Northern Mountain | Anchin and Kiyohime"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "food-for-the-soul": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Welcome to the Food Culture Research Club"
             },
             "dub": {
                 "season": 0,
