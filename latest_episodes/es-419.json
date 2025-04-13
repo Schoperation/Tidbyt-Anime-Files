@@ -1,5 +1,5 @@
 {
-    "total_count": 1417,
+    "total_count": 1418,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7883,6 +7883,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Retroceso de las Lycoris"
+            }
+        },
+        "maebashi-witches": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Eres tan endeble como tu ropa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "maerchen-maedchen": {
