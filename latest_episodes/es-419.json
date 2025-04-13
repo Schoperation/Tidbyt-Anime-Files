@@ -1,5 +1,5 @@
 {
-    "total_count": 1415,
+    "total_count": 1416,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16422,6 +16422,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Takamiya-kun y Weekend, tercera parte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "witch-watch": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Un gran novato. ¡Vamos al restaurante! Aula voladora"
             },
             "dub": {
                 "season": 0,
