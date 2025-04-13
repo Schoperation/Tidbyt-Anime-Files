@@ -20332,13 +20332,13 @@
         "to-be-hero-x": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "NICE"
+                "episode": 2,
+                "title": "Moon"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 2,
+                "title": "Moon"
             }
         },
         "to-be-heroine": {
