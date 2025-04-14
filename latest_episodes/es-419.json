@@ -1,5 +1,5 @@
 {
-    "total_count": 1419,
+    "total_count": 1420,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12966,6 +12966,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Una nueva era"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "summer-pockets": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Cómo pasar las vacaciones de verano"
             },
             "dub": {
                 "season": 0,
