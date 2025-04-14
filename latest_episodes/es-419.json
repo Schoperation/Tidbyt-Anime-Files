@@ -1,5 +1,5 @@
 {
-    "total_count": 1421,
+    "total_count": 1422,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2694,6 +2694,18 @@
                 "season": 1,
                 "episode": 20,
                 "title": "¿Qué hacen en clínicas mentales?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "compass20-animation-project": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¿Seremos compañeros?"
             },
             "dub": {
                 "season": 0,
