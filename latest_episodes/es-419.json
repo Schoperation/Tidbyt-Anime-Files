@@ -1,5 +1,5 @@
 {
-    "total_count": 1420,
+    "total_count": 1421,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9191,6 +9191,18 @@
                 "season": 7,
                 "episode": 159,
                 "title": "Combate sin Dones"
+            }
+        },
+        "my-hero-academia-vigilantes": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Despegue"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Despegue"
             }
         },
         "my-home-hero": {
