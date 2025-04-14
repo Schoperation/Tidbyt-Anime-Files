@@ -1,5 +1,5 @@
 {
-    "total_count": 1418,
+    "total_count": 1419,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16974,6 +16974,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Yuuna and the Haunted Hot Springs, and…"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "zatsutabi--thats-journey-": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¡De verdad! Un viaje animado en pareja"
             },
             "dub": {
                 "season": 0,
