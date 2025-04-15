@@ -1,5 +1,5 @@
 {
-    "total_count": 1422,
+    "total_count": 1423,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14843,6 +14843,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Bendición"
+            }
+        },
+        "the-shiunji-family-children": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¿Y ahora qué?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-silver-guardian": {
