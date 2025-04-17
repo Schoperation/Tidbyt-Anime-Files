@@ -1,5 +1,5 @@
 {
-    "total_count": 1424,
+    "total_count": 1425,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -215,6 +215,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Adiós! ¡Hasta otra!"
+            }
+        },
+        "a-ninja-and-an-assassin-under-one-roof": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "El día a día de una ninja y una asesina"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-nobodys-way-up-to-an-exploration-hero": {
