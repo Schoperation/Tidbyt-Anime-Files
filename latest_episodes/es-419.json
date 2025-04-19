@@ -1,5 +1,5 @@
 {
-    "total_count": 1425,
+    "total_count": 1426,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4338,6 +4338,18 @@
                 "season": 2,
                 "episode": 50,
                 "title": "Gongen-sama en la montaña del norte / Anchin y Kiyojime"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "food-for-the-soul": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Yo podría cocinar"
             },
             "dub": {
                 "season": 0,
