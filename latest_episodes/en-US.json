@@ -1,5 +1,5 @@
 {
-    "total_count": 1892,
+    "total_count": 1893,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16746,6 +16746,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "Goodbye, Tetsuya-kun..."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "shirohiyo---reincarnated-as-a-neglected-noble-raising-my-baby-brother-with-memories-from-my-past-life": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "My First Time Meeting My Brother"
             },
             "dub": {
                 "season": 0,
