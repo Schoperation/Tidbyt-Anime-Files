@@ -1,5 +1,5 @@
 {
-    "total_count": 1426,
+    "total_count": 1427,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7458,6 +7458,18 @@
                 "season": 1,
                 "episode": 6,
                 "title": "Un día que amamos"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "left-hand-layup": {
+            "sub": {
+                "season": 2,
+                "episode": 9,
+                "title": "Episodio 16"
             },
             "dub": {
                 "season": 0,
