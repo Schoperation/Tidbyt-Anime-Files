@@ -1,5 +1,5 @@
 {
-    "total_count": 1428,
+    "total_count": 1429,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6786,6 +6786,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Gran Mitama, diosa del trono divino y la más grande de todos los dioses, no somos dignos. Gracias a tu inmensa y generosa gracia podemos trabajar gozando de buena salud sin que los dioses malignos nos afecten. Esto es gracias a tu obra milagrosa, Mitama, "
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kamisama-kiss": {
+            "sub": {
+                "season": 2,
+                "episode": 12,
+                "title": "Piden matrimonio a la diosa"
             },
             "dub": {
                 "season": 0,
