@@ -1,5 +1,5 @@
 {
-    "total_count": 1894,
+    "total_count": 1895,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4655,6 +4655,18 @@
                 "season": 1,
                 "episode": 15,
                 "title": "I'll Never Forget You"
+            }
+        },
+        "dnangel": {
+            "sub": {
+                "season": 1,
+                "episode": 26,
+                "title": "Final Stage: Eternal Dark"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "do-it-yourself": {
