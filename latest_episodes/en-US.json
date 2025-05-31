@@ -1,5 +1,5 @@
 {
-    "total_count": 1895,
+    "total_count": 1896,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8051,6 +8051,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Honey Lemon Soda"
+            }
+        },
+        "honor-of-kings": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Episode 6"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "horimiya": {
