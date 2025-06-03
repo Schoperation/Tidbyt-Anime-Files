@@ -1,5 +1,5 @@
 {
-    "total_count": 1896,
+    "total_count": 1897,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10931,6 +10931,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Recoil of Lycoris"
+            }
+        },
+        "maburaho": {
+            "sub": {
+                "season": 1,
+                "episode": 11,
+                "title": "I Opened It"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "maebashi-witches": {
