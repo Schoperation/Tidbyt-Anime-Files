@@ -1,5 +1,5 @@
 {
-    "total_count": 1429,
+    "total_count": 1430,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7955,6 +7955,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Retroceso de las Lycoris"
+            }
+        },
+        "maburaho": {
+            "sub": {
+                "season": 1,
+                "episode": 24,
+                "title": "Se terminó"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "maebashi-witches": {
