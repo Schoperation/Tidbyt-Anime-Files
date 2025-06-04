@@ -1,5 +1,5 @@
 {
-    "total_count": 1897,
+    "total_count": 1898,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6359,6 +6359,18 @@
                 "season": 1,
                 "episode": 23,
                 "title": "ASSAULT MOON"
+            }
+        },
+        "gate-keepers": {
+            "sub": {
+                "season": 1,
+                "episode": 24,
+                "title": "For the Smiles of Tomorrow"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "gdgd-fairies": {
