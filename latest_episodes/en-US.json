@@ -1,5 +1,5 @@
 {
-    "total_count": 1898,
+    "total_count": 1899,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11358,6 +11358,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "It's Anime Time"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "manie-manie-neo-tokyo": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Manie Manie: Neo Tokyo"
             },
             "dub": {
                 "season": 0,
