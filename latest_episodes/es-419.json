@@ -1,5 +1,5 @@
 {
-    "total_count": 1430,
+    "total_count": 1431,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5730,6 +5730,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Refresco de miel y limón"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "honor-of-kings": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Episodio 7"
             },
             "dub": {
                 "season": 0,
