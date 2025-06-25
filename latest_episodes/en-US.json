@@ -1,5 +1,5 @@
 {
-    "total_count": 1899,
+    "total_count": 1900,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6894,6 +6894,18 @@
                 "season": 2,
                 "episode": 14,
                 "title": "The Masked Cypher Descends! / A Tale of St. Albion Girls' Academy"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "grand-blue-dreaming": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Otori"
             },
             "dub": {
                 "season": 0,
