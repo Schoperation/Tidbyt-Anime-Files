@@ -1,5 +1,5 @@
 {
-    "total_count": 1900,
+    "total_count": 1901,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18042,6 +18042,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Merry-Go-Round"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "takopis-original-sin": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "To You in 2016"
             },
             "dub": {
                 "season": 0,
