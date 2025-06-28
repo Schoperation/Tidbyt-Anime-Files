@@ -1,5 +1,5 @@
 {
-    "total_count": 1902,
+    "total_count": 1903,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5884,8 +5884,8 @@
         "food-for-the-soul": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Are You Free for Christmas?"
+                "episode": 12,
+                "title": "Thanks for the Feast!"
             },
             "dub": {
                 "season": 0,
@@ -14778,6 +14778,18 @@
                 "season": 1,
                 "episode": 9,
                 "title": "Episode 9"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "private-tutor-to-the-dukes-daughter": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Duke's Magically Impaired Daughter"
             },
             "dub": {
                 "season": 0,
