@@ -1,5 +1,5 @@
 {
-    "total_count": 1901,
+    "total_count": 1902,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10595,6 +10595,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "The Widening World"
+            }
+        },
+        "lord-of-mysteries": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Beyonder"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "lord-of-vermilion-the-crimson-king": {
