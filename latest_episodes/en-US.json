@@ -1,5 +1,5 @@
 {
-    "total_count": 1904,
+    "total_count": 1905,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13098,6 +13098,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Hmm?! What Happens in the Last Episode?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "necronomico-and-the-cosmic-horror-show": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "[No Spoilers!] Let's play the Old Ones' demo [Cthulhu]"
             },
             "dub": {
                 "season": 0,
