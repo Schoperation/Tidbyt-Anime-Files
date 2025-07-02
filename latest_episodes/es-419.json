@@ -1,5 +1,5 @@
 {
-    "total_count": 1433,
+    "total_count": 1434,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2639,6 +2639,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "clevatess": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El Rey de las Bestias Mágicas"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El Rey de las Bestias Mágicas"
             }
         },
         "clockwork-planet": {
