@@ -1,5 +1,5 @@
 {
-    "total_count": 1434,
+    "total_count": 1436,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9781,6 +9781,18 @@
                 "title": ""
             }
         },
+        "new-saga": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Cambiaré el destino"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "nichijou---my-ordinary-life": {
             "sub": {
                 "season": 1,
@@ -10254,6 +10266,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "La conclusión y el porvenir de Mahiro"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "onmyo-kaiten-rebirth-verse": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡No admitiré la derrota ni muerto! ¡Un delincuente en Denji Heiankyo!"
             },
             "dub": {
                 "season": 0,

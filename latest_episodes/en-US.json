@@ -1,5 +1,5 @@
 {
-    "total_count": 1906,
+    "total_count": 1908,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13201,6 +13201,18 @@
                 "title": "Make Sure You Buy It"
             }
         },
+        "new-saga": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I'll Change My Fate"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "ng-knight-lamune--40": {
             "sub": {
                 "season": 1,
@@ -13818,6 +13830,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Mahiro's Future as a Sister"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "onmyo-kaiten-rebirth-verse": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Don't Admit Defeat Even If You're Dead! A Delinquent in Denji Heian-kyo!"
             },
             "dub": {
                 "season": 0,
