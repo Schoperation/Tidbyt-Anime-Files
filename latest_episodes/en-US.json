@@ -1,5 +1,5 @@
 {
-    "total_count": 1905,
+    "total_count": 1906,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3570,6 +3570,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Reason Behind Aoyama-kun's Choice"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "clevatess": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Lord of Dark Beasts"
             },
             "dub": {
                 "season": 0,
