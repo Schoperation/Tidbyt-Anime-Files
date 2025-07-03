@@ -1,5 +1,5 @@
 {
-    "total_count": 1909,
+    "total_count": 1910,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9479,6 +9479,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "The God Receives a Marriage Proposal"
+            }
+        },
+        "kamitsubaki-city-under-construction": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Witchling- Part 1"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "kancolle": {
