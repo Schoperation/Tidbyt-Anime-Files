@@ -1,5 +1,5 @@
 {
-    "total_count": 1911,
+    "total_count": 1912,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20267,6 +20267,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Five Dumb Matches"
+            }
+        },
+        "the-water-magician": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Slow, But Dangerous, Life "
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-weakest-tamer-began-a-journey-to-pick-up-trash": {
