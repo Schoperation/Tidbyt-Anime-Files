@@ -1,5 +1,5 @@
 {
-    "total_count": 1910,
+    "total_count": 1911,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4463,6 +4463,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The Demon Revealed"
+            }
+        },
+        "detective-conan": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Company President's Daughter Kidnapping Case"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "detectives-these-days-are-crazy": {
