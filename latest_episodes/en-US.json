@@ -1,5 +1,5 @@
 {
-    "total_count": 1912,
+    "total_count": 1913,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18604,8 +18604,8 @@
         "the-apothecary-diaries": {
             "sub": {
                 "season": 2,
-                "episode": 47,
-                "title": "The Shi Clan"
+                "episode": 48,
+                "title": "The Beginning"
             },
             "dub": {
                 "season": 2,
@@ -21803,6 +21803,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Welcome to Tateyama Base!!"
+            }
+        },
+        "watari-kuns--is-about-to-collapse": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Day Peace Began to Collapse"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "wataten-an-angel-flew-down-to-me": {
