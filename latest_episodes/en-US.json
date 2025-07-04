@@ -1,5 +1,5 @@
 {
-    "total_count": 1913,
+    "total_count": 1914,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16398,6 +16398,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "Try Alive"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "secrets-of-the-silent-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Colleague Arrives and Acts Unreasonably"
             },
             "dub": {
                 "season": 0,
