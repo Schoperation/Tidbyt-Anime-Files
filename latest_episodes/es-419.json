@@ -1,5 +1,5 @@
 {
-    "total_count": 1437,
+    "total_count": 1438,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10914,6 +10914,18 @@
                 "season": 1,
                 "episode": 9,
                 "title": "Episodio 9"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "private-tutor-to-the-dukes-daughter": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Aquello que la rechaza"
             },
             "dub": {
                 "season": 0,
