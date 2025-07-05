@@ -1,5 +1,5 @@
 {
-    "total_count": 1917,
+    "total_count": 1918,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -22230,6 +22230,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Dog and Cat"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "with-you-and-the-rain": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Rainy Days"
             },
             "dub": {
                 "season": 0,
