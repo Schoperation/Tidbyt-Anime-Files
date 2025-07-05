@@ -1,5 +1,5 @@
 {
-    "total_count": 1915,
+    "total_count": 1916,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20087,6 +20087,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "Finally"
+            }
+        },
+        "the-shy-hero-and-the-assassin-princesses": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Shy Hero and the Three Princesses"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-silver-guardian": {
