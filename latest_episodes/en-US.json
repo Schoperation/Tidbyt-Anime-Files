@@ -1,5 +1,5 @@
 {
-    "total_count": 1916,
+    "total_count": 1917,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16367,6 +16367,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "I Tried to Prove that You Are Fine Just as You Are."
+            }
+        },
+        "scooped-up-by-an-s-rank-adventurer": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Lloyd is Cast Out"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "scorching-ping-pong-girls": {
