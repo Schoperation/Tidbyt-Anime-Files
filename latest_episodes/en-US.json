@@ -1,5 +1,5 @@
 {
-    "total_count": 1924,
+    "total_count": 1925,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21383,6 +21383,18 @@
                 "season": 1,
                 "episode": 8,
                 "title": "Star of Hopes, Star of Dreams"
+            }
+        },
+        "uglymug-epicfighter": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "An Epicgod is Born"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "ulysses-jeanne-darc-and-the-alchemist-knight": {
