@@ -1,5 +1,5 @@
 {
-    "total_count": 1919,
+    "total_count": 1920,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -15786,6 +15786,18 @@
                 "season": 1,
                 "episode": 23,
                 "title": "In The Wind"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ruri-rocks": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "My First Mineral Hunt"
             },
             "dub": {
                 "season": 0,
