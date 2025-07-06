@@ -1,5 +1,5 @@
 {
-    "total_count": 1925,
+    "total_count": 1926,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8207,6 +8207,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Promise"
+            }
+        },
+        "hotel-inhumans": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sister Sister"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "how-a-realist-hero-rebuilt-the-kingdom": {
