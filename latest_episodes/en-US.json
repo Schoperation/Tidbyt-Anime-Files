@@ -1,5 +1,5 @@
 {
-    "total_count": 1922,
+    "total_count": 1923,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3882,6 +3882,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The End of the Beginning"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "cultural-exchange-with-a-game-centre-girl": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Boy Meets the Game Centre Girl"
             },
             "dub": {
                 "season": 0,
