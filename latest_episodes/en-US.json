@@ -1,5 +1,5 @@
 {
-    "total_count": 1921,
+    "total_count": 1922,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13607,6 +13607,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Omnibus Episode"
+            }
+        },
+        "nyaight-of-the-living-cat": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Everything Becomes Cat"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "nyanbo": {
