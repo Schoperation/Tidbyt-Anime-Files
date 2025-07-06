@@ -1,5 +1,5 @@
 {
-    "total_count": 1918,
+    "total_count": 1919,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4331,6 +4331,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Resolution"
+            }
+        },
+        "dekin-no-mogura-the-earthbound-mole": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "At a Certain Location in Tokyo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "delicious-party-precure": {
