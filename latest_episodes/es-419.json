@@ -1,5 +1,5 @@
 {
-    "total_count": 1439,
+    "total_count": 1440,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4566,6 +4566,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Gabriel DropOut!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "gachiakuta": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La Esfera"
             },
             "dub": {
                 "season": 0,
