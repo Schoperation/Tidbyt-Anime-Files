@@ -1,5 +1,5 @@
 {
-    "total_count": 1926,
+    "total_count": 1927,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16518,6 +16518,18 @@
                 "season": 1,
                 "episode": 1,
                 "title": "A Colleague Arrives and Acts Unreasonably"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "see-you-tomorrow-at-the-food-court": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "WADA1234 / Nazca Lines Aliens / Psibola / Change Before You Have To"
             },
             "dub": {
                 "season": 0,
