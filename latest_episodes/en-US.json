@@ -1,5 +1,5 @@
 {
-    "total_count": 1927,
+    "total_count": 1928,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21306,6 +21306,18 @@
                 "season": 1,
                 "episode": 14,
                 "title": "Dangerous Shoot"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "turkey-time-to-strike": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Knock Down the Snake Eyes!"
             },
             "dub": {
                 "season": 0,
