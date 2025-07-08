@@ -1,5 +1,5 @@
 {
-    "total_count": 1440,
+    "total_count": 1441,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3306,6 +3306,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The Demon Revealed"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "detectives-these-days-are-crazy": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Ve por las rodillas de los fantasmas / ¡Encuentra al verdadero culpable! / Tres minutos antes de que Mashiro explote"
             },
             "dub": {
                 "season": 0,
