@@ -1,5 +1,5 @@
 {
-    "total_count": 1441,
+    "total_count": 1442,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9738,6 +9738,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡¿Qué pasará con el último acertijo?!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "necronomico-and-the-cosmic-horror-show": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "[Tirada de cordura] ¡Colaboración entre pequeños streamers (Los Grandes Antiguos)"
             },
             "dub": {
                 "season": 0,
