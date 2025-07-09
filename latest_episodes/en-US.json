@@ -1,5 +1,5 @@
 {
-    "total_count": 1928,
+    "total_count": 1929,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4290,6 +4290,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Red Sea Bream for a Spring Dawn"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dealing-with-mikadono-sisters-is-a-breeze": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Prodigy and Mediocrity"
             },
             "dub": {
                 "season": 0,
