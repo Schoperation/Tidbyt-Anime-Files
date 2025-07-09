@@ -1,5 +1,5 @@
 {
-    "total_count": 1442,
+    "total_count": 1443,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3162,6 +3162,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Besugo en un amanecer de primavera"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dealing-with-mikadono-sisters-is-a-breeze": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "home.02: Su secreto"
             },
             "dub": {
                 "season": 0,
