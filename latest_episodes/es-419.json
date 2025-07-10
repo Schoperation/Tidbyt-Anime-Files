@@ -1,5 +1,5 @@
 {
-    "total_count": 1444,
+    "total_count": 1445,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6870,6 +6870,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Piden matrimonio a la diosa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kamitsubaki-city-under-construction": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Melobruja: Segunda parte"
             },
             "dub": {
                 "season": 0,
