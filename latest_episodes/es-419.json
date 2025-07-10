@@ -1,5 +1,5 @@
 {
-    "total_count": 1445,
+    "total_count": 1446,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15263,6 +15263,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Five Dumb Matches"
+            }
+        },
+        "the-water-magician": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Abel el náufrago"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-weakest-tamer-began-a-journey-to-pick-up-trash": {
