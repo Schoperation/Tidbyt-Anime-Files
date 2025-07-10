@@ -1,5 +1,5 @@
 {
-    "total_count": 1443,
+    "total_count": 1444,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3604,13 +3604,13 @@
         "dr-stone": {
             "sub": {
                 "season": 4,
-                "episode": 12,
-                "title": "Reencuentro"
+                "episode": 13,
+                "title": "Mirando la misma luna"
             },
             "dub": {
                 "season": 4,
                 "episode": 13,
-                "title": "Untitled"
+                "title": "Mirando la misma luna"
             }
         },
         "dragon-ball": {
@@ -16614,6 +16614,18 @@
                 "season": 1,
                 "episode": 36,
                 "title": "Episodio 36"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "welcome-to-the-outcasts-restaurant": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¡Está de rechupete!"
             },
             "dub": {
                 "season": 0,
