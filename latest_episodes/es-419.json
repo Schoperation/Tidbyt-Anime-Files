@@ -1,5 +1,5 @@
 {
-    "total_count": 1451,
+    "total_count": 1452,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16878,6 +16878,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Episodio 24"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "with-you-and-the-rain": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "El sol de la tarde"
             },
             "dub": {
                 "season": 0,
