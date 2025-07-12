@@ -1,5 +1,5 @@
 {
-    "total_count": 1450,
+    "total_count": 1451,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12131,6 +12131,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Intenté demostrar que puedes seguir siendo como eres."
+            }
+        },
+        "scooped-up-by-an-s-rank-adventurer": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Reclutan a Lloyd"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "scorching-ping-pong-girls": {
