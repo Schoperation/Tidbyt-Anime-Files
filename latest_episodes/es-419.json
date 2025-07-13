@@ -1,5 +1,5 @@
 {
-    "total_count": 1453,
+    "total_count": 1454,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11694,6 +11694,18 @@
                 "season": 1,
                 "episode": 23,
                 "title": "En el viento"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ruri-rocks": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "El valor del dorado"
             },
             "dub": {
                 "season": 0,
