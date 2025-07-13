@@ -1,5 +1,5 @@
 {
-    "total_count": 1455,
+    "total_count": 1456,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2874,6 +2874,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "El fin del comienzo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "cultural-exchange-with-a-game-centre-girl": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Si empujar no funciona, prueba a tirar"
             },
             "dub": {
                 "season": 0,
