@@ -1,5 +1,5 @@
 {
-    "total_count": 1452,
+    "total_count": 1453,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3239,6 +3239,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Resolution"
+            }
+        },
+        "dekin-no-mogura-the-earthbound-mole": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Espíritu = Humano"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "delicious-party-precure": {
