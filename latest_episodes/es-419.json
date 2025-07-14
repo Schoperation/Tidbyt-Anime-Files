@@ -1,5 +1,5 @@
 {
-    "total_count": 1457,
+    "total_count": 1458,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12246,6 +12246,18 @@
                 "season": 1,
                 "episode": 2,
                 "title": "Dar el paso"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "see-you-tomorrow-at-the-food-court": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Máquinas de gancho arregladas / Rollo de doble capa / Historia de ensueño / Una propuesta de perros"
             },
             "dub": {
                 "season": 0,
