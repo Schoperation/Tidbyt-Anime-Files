@@ -1,5 +1,5 @@
 {
-    "total_count": 1458,
+    "total_count": 1459,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16146,6 +16146,18 @@
                 "season": 1,
                 "episode": 14,
                 "title": "Tiro peligroso"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "turkey-time-to-strike": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Perdidas y fuera"
             },
             "dub": {
                 "season": 0,
