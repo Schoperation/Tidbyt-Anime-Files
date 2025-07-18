@@ -1,5 +1,5 @@
 {
-    "total_count": 1460,
+    "total_count": 1461,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15863,6 +15863,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "tougen-anki": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Si quieres lograrlo, sigue ganando"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Si quieres lograrlo, sigue ganando"
             }
         },
         "touken-ranbu---hanamaru": {
