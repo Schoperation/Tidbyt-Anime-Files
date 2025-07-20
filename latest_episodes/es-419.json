@@ -1,5 +1,5 @@
 {
-    "total_count": 1461,
+    "total_count": 1462,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5874,6 +5874,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Promesa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "hotel-inhumans": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Un servicio de muerte 2"
             },
             "dub": {
                 "season": 0,
