@@ -1,5 +1,5 @@
 {
-    "total_count": 1931,
+    "total_count": 1932,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10530,6 +10530,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "I Want to Win the Bid No Matter What "
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "lets-go-karaoke": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Encounter"
             },
             "dub": {
                 "season": 0,
