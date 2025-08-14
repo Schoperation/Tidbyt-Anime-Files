@@ -1,5 +1,5 @@
 {
-    "total_count": 1463,
+    "total_count": 1464,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3347,6 +3347,18 @@
                 "season": 209,
                 "episode": 8,
                 "title": "La movilización de los Pilares"
+            }
+        },
+        "demon-slayer-kimetsu-no-yaiba-infinity-castle": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Demon Slayer: Kimetsu no Yaiba Castillo Infinito |  Tráiler"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "denki-gai": {

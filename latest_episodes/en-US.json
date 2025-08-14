@@ -1,5 +1,5 @@
 {
-    "total_count": 1932,
+    "total_count": 1933,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4470,6 +4470,18 @@
                 "season": 1,
                 "episode": 2,
                 "title": "Demon Slayer: Kimetsu no Yaiba -Orchestra Concert- Mugen Train Arc"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "demon-slayer-kimetsu-no-yaiba-infinity-castle": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | Trailer (Castilian Dub)"
             },
             "dub": {
                 "season": 0,
