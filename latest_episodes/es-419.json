@@ -1,5 +1,5 @@
 {
-    "total_count": 1464,
+    "total_count": 1465,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2255,6 +2255,18 @@
                 "season": 1,
                 "episode": 39,
                 "title": "Tsubasa alza el vuelo"
+            }
+        },
+        "captivated-by-you": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¿Te gustaría ser mi amigo? / Los que prefieren dibujar"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "cardcaptor-sakura-clear-card": {
