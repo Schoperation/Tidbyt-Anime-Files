@@ -1,5 +1,5 @@
 {
-    "total_count": 1934,
+    "total_count": 1935,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20195,6 +20195,18 @@
                 "season": 4,
                 "episode": 7,
                 "title": "Arriving in Q’ten Lo"
+            }
+        },
+        "the-roots-of-to-your-eternity": {
+            "sub": {
+                "season": 10,
+                "episode": 1,
+                "title": "The Roots of To Your Eternity"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-royal-tutor": {

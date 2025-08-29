@@ -1,5 +1,5 @@
 {
-    "total_count": 1465,
+    "total_count": 1466,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15203,6 +15203,18 @@
                 "season": 4,
                 "episode": 7,
                 "title": "Llegada a Q'ten Lo"
+            }
+        },
+        "the-roots-of-to-your-eternity": {
+            "sub": {
+                "season": 10,
+                "episode": 1,
+                "title": "Las raíces de To Your Eternity"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-royal-tutor": {
