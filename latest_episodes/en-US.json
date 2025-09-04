@@ -1,5 +1,5 @@
 {
-    "total_count": 1935,
+    "total_count": 1936,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16535,6 +16535,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Symphony of the Protectors"
+            }
+        },
+        "scumbag-system": {
+            "sub": {
+                "season": 1,
+                "episode": 10,
+                "title": "Episode 10"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "sd-gundam-world-heroes": {
