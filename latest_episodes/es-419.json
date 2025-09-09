@@ -1,5 +1,5 @@
 {
-    "total_count": 1466,
+    "total_count": 1467,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13463,6 +13463,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¿Y si un niño de los soldaditos del último calabozo se acostumbrara a la vida de la ciudad?"
+            }
+        },
+        "swallowed-star": {
+            "sub": {
+                "season": 1,
+                "episode": 48,
+                "title": "Episodio 48"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "sweet-reincarnation": {
