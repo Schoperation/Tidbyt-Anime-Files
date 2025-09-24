@@ -1,5 +1,5 @@
 {
-    "total_count": 1937,
+    "total_count": 1938,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -23238,6 +23238,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "We Want to Protect"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "zzz-series-2-interim-avails-test": {
+            "sub": {
+                "season": 2,
+                "episode": 3,
+                "title": "2025091617389Title 2 Interim Avails Test Series 01 Season 02 Episode 03"
             },
             "dub": {
                 "season": 0,
