@@ -1,5 +1,5 @@
 {
-    "total_count": 1938,
+    "total_count": 1939,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11994,6 +11994,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "We're In Taiwan!!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "miru-paths-to-my-future": {
+            "sub": {
+                "season": 1,
+                "episode": 5,
+                "title": "Wait, I'll Be There"
             },
             "dub": {
                 "season": 0,
