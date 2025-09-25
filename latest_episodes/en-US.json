@@ -1,5 +1,5 @@
 {
-    "total_count": 1939,
+    "total_count": 1940,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20723,6 +20723,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "I Am Graduating from Bread Crusts"
+            }
+        },
+        "throne-of-seal": {
+            "sub": {
+                "season": 1,
+                "episode": 4,
+                "title": "Episode 4"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "thunderbolt-fantasy": {
