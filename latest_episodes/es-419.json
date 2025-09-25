@@ -1,5 +1,5 @@
 {
-    "total_count": 1467,
+    "total_count": 1468,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15630,6 +15630,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episodio 12"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "throne-of-seal": {
+            "sub": {
+                "season": 1,
+                "episode": 44,
+                "title": "Episodio 44"
             },
             "dub": {
                 "season": 0,
