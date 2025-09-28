@@ -1,5 +1,5 @@
 {
-    "total_count": 1468,
+    "total_count": 1469,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14267,6 +14267,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "La que llama al amanecer"
+            }
+        },
+        "the-fated-magical-princess-who-made-me-a-princess": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "La princesa del Imperio de Obelia"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-fire-hunter": {

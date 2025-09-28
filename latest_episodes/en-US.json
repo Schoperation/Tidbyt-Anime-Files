@@ -1,5 +1,5 @@
 {
-    "total_count": 1940,
+    "total_count": 1941,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19187,6 +19187,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Calldawn"
+            }
+        },
+        "the-fated-magical-princess-who-made-me-a-princess": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Princess of the Obelia Empire"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-fire-hunter": {
