@@ -1,5 +1,5 @@
 {
-    "total_count": 1469,
+    "total_count": 1470,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -179,6 +179,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "La princesa y los fuegos artificiales"
+            }
+        },
+        "a-gatherers-adventure-in-isekai": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-girl--her-guard-dog": {
