@@ -1,5 +1,5 @@
 {
-    "total_count": 1470,
+    "total_count": 1471,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -330,6 +330,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Lazos continuos. ¡Me esforzaré como profesor de espíritus!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-wild-last-boss-appeared": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡Una jefa final salvaje apareció!"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1942,
+    "total_count": 1943,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -414,6 +414,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The Bond Continuing with Ren-Ren. The Teacher from Ghoul School Will Do His Best!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-wild-last-boss-appeared": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Wild Last Boss Appears!"
             },
             "dub": {
                 "season": 0,
