@@ -1,5 +1,5 @@
 {
-    "total_count": 1472,
+    "total_count": 1473,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11531,6 +11531,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Re:Inicio"
+            }
+        },
+        "renegade-immortal": {
+            "sub": {
+                "season": 1,
+                "episode": 24,
+                "title": "Episodio 24"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "rent-a-girlfriend": {
