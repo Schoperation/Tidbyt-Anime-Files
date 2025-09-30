@@ -1,5 +1,5 @@
 {
-    "total_count": 1943,
+    "total_count": 1944,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -22830,6 +22830,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Lilith"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "yano-kuns-ordinary-days": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Yano-kun"
             },
             "dub": {
                 "season": 0,

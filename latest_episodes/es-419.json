@@ -1,5 +1,5 @@
 {
-    "total_count": 1471,
+    "total_count": 1472,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -17363,6 +17363,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Me gustas, Shiraishi!"
+            }
+        },
+        "yano-kuns-ordinary-days": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Yano"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "yashahime-princess-half-demon": {
