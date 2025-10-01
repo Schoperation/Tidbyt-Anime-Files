@@ -1,5 +1,5 @@
 {
-    "total_count": 1473,
+    "total_count": 1474,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6918,6 +6918,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "Esperanza en aumento"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kakuriyo--bed--breakfast-for-spirits-": {
+            "sub": {
+                "season": 1,
+                "episode": 26,
+                "title": "Delicious Dishes are Served at the Inn for Spirits."
             },
             "dub": {
                 "season": 0,
