@@ -1,5 +1,5 @@
 {
-    "total_count": 1474,
+    "total_count": 1475,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2358,6 +2358,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El héroe es dominado pero demasiado cauteloso"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "cells-at-work": {
+            "sub": {
+                "season": 2,
+                "episode": 8,
+                "title": "Células cancerosas II, parte 2"
             },
             "dub": {
                 "season": 0,
