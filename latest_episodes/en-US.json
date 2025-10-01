@@ -1,5 +1,5 @@
 {
-    "total_count": 1945,
+    "total_count": 1946,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10602,6 +10602,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "I'm Making a Mug!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "lets-play": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Life is S-Rank"
             },
             "dub": {
                 "season": 0,
