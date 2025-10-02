@@ -1,5 +1,5 @@
 {
-    "total_count": 1476,
+    "total_count": 1477,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -17711,6 +17711,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "zzz-series-2-interim-avails-test": {
+            "sub": {
+                "season": 2,
+                "episode": 3,
+                "title": "2025091617389Title 2 Interim Avails Test Series 01 Season 02 Episode 03"
+            },
+            "dub": {
+                "season": 2,
+                "episode": 3,
+                "title": "2025091617389Title 2 Interim Avails Test Series 01 Season 02 Episode 03"
             }
         }
     }
