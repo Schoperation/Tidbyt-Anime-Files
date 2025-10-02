@@ -1,5 +1,5 @@
 {
-    "total_count": 1947,
+    "total_count": 1948,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20766,6 +20766,18 @@
                 "season": 1,
                 "episode": 4,
                 "title": "Untitled"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "this-monster-wants-to-eat-me": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Girl Who Seeks Death Waits for the Sea"
             },
             "dub": {
                 "season": 0,
