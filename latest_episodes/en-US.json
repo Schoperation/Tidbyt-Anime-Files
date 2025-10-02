@@ -1,5 +1,5 @@
 {
-    "total_count": 1946,
+    "total_count": 1947,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12750,6 +12750,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The World Moves On"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "my-awkward-senpai": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "ME? THE MENTOR?!"
             },
             "dub": {
                 "season": 0,

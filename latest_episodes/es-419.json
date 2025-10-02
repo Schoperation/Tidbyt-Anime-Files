@@ -1,5 +1,5 @@
 {
-    "total_count": 1477,
+    "total_count": 1478,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9450,6 +9450,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "El mundo sigue"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "my-awkward-senpai": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡¿Soy la encargada de capacitarlo?!"
             },
             "dub": {
                 "season": 0,
