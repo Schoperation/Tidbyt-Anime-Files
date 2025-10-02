@@ -1,5 +1,5 @@
 {
-    "total_count": 1479,
+    "total_count": 1480,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10789,6 +10789,18 @@
                 "title": ""
             }
         },
+        "pass-the-monster-meat-milady": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Cecina y la prueba de una promesa ~Skatzbitt~"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "pastel-memories": {
             "sub": {
                 "season": 1,
@@ -13607,6 +13619,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "t00354409": {
+            "sub": {
+                "season": 2,
+                "episode": 3,
+                "title": "E00354424A00354425"
+            },
+            "dub": {
+                "season": 2,
+                "episode": 3,
+                "title": "E00354424A00354425"
             }
         },
         "tabimachi-lateshow": {
@@ -17735,18 +17759,6 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
-            }
-        },
-        "zzz-series-2-interim-avails-test": {
-            "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "2025091617389Title 2 Interim Avails Test Series 01 Season 02 Episode 03"
-            },
-            "dub": {
-                "season": 2,
-                "episode": 3,
-                "title": "2025091617389Title 2 Interim Avails Test Series 01 Season 02 Episode 03"
             }
         }
     }
