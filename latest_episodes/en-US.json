@@ -1,5 +1,5 @@
 {
-    "total_count": 1949,
+    "total_count": 1950,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13991,6 +13991,18 @@
                 "season": 14,
                 "episode": 1133,
                 "title": "To Save His Daughter - Kuma the Timid Pacifist"
+            }
+        },
+        "one-punch-man": {
+            "sub": {
+                "season": 42,
+                "episode": 1,
+                "title": "Road to Hero"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "onee-chan-ga-kita": {
