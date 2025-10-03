@@ -1,5 +1,5 @@
 {
-    "total_count": 1951,
+    "total_count": 1952,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11735,6 +11735,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Mash Burnedead and His Good Friends"
+            }
+        },
+        "may-i-ask-for-one-final-thing": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "May I Offer You the Taste of My Fist as the Ladylike Thing to Do?"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "May I Offer You the Taste of My Fist as the Ladylike Thing to Do?"
             }
         },
         "mayonaka-punch": {
