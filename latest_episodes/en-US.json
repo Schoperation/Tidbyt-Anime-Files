@@ -1,5 +1,5 @@
 {
-    "total_count": 1950,
+    "total_count": 1951,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16938,6 +16938,18 @@
                 "season": 7,
                 "episode": 358,
                 "title": "Keroro: The World's Sergeant Keroro, Sir! / Keroro: Keron Army Style XKERsion Revealed, Sir!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "shabake": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Dark Night"
             },
             "dub": {
                 "season": 0,
