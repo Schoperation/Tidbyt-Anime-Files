@@ -1,5 +1,5 @@
 {
-    "total_count": 1483,
+    "total_count": 1484,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14118,6 +14118,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Reencuentro"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-banished-court-magician-aims-to-become-the-strongest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡Alec expulsado!"
             },
             "dub": {
                 "season": 0,

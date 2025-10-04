@@ -1,5 +1,5 @@
 {
-    "total_count": 1953,
+    "total_count": 1954,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19002,6 +19002,18 @@
                 "season": 2,
                 "episode": 24,
                 "title": "Reunion"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-banished-court-magician-aims-to-become-the-strongest": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Alec, Banished!"
             },
             "dub": {
                 "season": 0,
