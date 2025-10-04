@@ -1,5 +1,5 @@
 {
-    "total_count": 1482,
+    "total_count": 1483,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6443,6 +6443,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Mudanza, construcción, volar y la tierra"
+            }
+        },
+        "inexpressive-kashiwada-and-expressive-oota": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Kashiwada nunca cambia la cara y Oota no puede ocultar sus sentimientos por más que lo intente"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "inferno-cop": {
