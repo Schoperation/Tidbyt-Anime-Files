@@ -1,5 +1,5 @@
 {
-    "total_count": 1955,
+    "total_count": 1956,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21071,6 +21071,18 @@
                 "season": 2,
                 "episode": 23,
                 "title": "One-way Train to the Far Shore"
+            }
+        },
+        "tojima-wants-to-be-a-kamen-rider": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tojima Wants to Be a Kamen Rider"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "tokyo-24th-ward": {
