@@ -1,5 +1,5 @@
 {
-    "total_count": 1956,
+    "total_count": 1957,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12851,6 +12851,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "My First Confession"
+            }
+        },
+        "my-friends-little-sister-has-it-in-for-me": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "My Friend's Little Sister Has It In for Me"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "my-hero-academia": {

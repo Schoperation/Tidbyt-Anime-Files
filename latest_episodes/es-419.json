@@ -1,5 +1,5 @@
 {
-    "total_count": 1486,
+    "total_count": 1487,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9546,6 +9546,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "La primera declaración"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "my-friends-little-sister-has-it-in-for-me": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Le gusto a la hermanita de mi amigo"
             },
             "dub": {
                 "season": 0,
