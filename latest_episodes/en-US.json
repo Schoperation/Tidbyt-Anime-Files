@@ -1,5 +1,5 @@
 {
-    "total_count": 1954,
+    "total_count": 1955,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21282,6 +21282,18 @@
                 "season": 1,
                 "episode": 8,
                 "title": "Honnoji In Flames"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "touring-after-the-apocalypse": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Hakone"
             },
             "dub": {
                 "season": 0,

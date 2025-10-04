@@ -1,5 +1,5 @@
 {
-    "total_count": 1484,
+    "total_count": 1485,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16158,6 +16158,18 @@
                 "season": 1,
                 "episode": 8,
                 "title": "Honnoji en llamas"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "touring-after-the-apocalypse": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Hakone"
             },
             "dub": {
                 "season": 0,
