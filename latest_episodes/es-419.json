@@ -1,5 +1,5 @@
 {
-    "total_count": 1488,
+    "total_count": 1489,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3510,6 +3510,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Nuestro Futuro: Quinta Parte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "digimon-beatbreak": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 01"
             },
             "dub": {
                 "season": 0,

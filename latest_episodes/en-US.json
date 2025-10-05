@@ -1,5 +1,5 @@
 {
-    "total_count": 1958,
+    "total_count": 1959,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4691,6 +4691,18 @@
                 "season": 1,
                 "episode": 6,
                 "title": "Digimon Adventure tri. 6: Future (English Dub)"
+            }
+        },
+        "digimon-beatbreak": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 01"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "digimon-ghost-game": {
