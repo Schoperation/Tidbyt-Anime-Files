@@ -1,5 +1,5 @@
 {
-    "total_count": 1962,
+    "total_count": 1963,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7643,6 +7643,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Handa-kun and the Cultural Festival"
+            }
+        },
+        "hands-off-sawaranaide-kotesashi-kun": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Hands Off, Kotesashi-kun"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "handyman-fellow-jellyfish": {

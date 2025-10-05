@@ -1,5 +1,5 @@
 {
-    "total_count": 1492,
+    "total_count": 1493,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5502,6 +5502,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Handa-kun and the Cultural Festival"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "hands-off-sawaranaide-kotesashi-kun": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,
