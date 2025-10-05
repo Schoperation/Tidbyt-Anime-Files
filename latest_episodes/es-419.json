@@ -1,5 +1,5 @@
 {
-    "total_count": 1489,
+    "total_count": 1490,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -8742,6 +8742,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "A pesar de todo, seguimos adelante"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mechanical-marie": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La engañosa y misteriosa Marie"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 1959,
+    "total_count": 1960,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11814,6 +11814,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Even Then, We Continue Onward"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mechanical-marie": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Deceitful, Mysterious Marie"
             },
             "dub": {
                 "season": 0,
