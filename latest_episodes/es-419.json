@@ -1,5 +1,5 @@
 {
-    "total_count": 1490,
+    "total_count": 1491,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -714,6 +714,18 @@
                 "season": 1,
                 "episode": 8,
                 "title": "El paisaje que ves antes de perderte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "alma-chan-wants-to-be-a-family": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Encantada de conocerlos"
             },
             "dub": {
                 "season": 0,
