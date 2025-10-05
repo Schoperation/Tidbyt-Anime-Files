@@ -1,5 +1,5 @@
 {
-    "total_count": 1961,
+    "total_count": 1962,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4038,6 +4038,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Da Capo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Hero Returns"
             },
             "dub": {
                 "season": 0,

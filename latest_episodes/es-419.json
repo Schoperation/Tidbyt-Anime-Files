@@ -1,5 +1,5 @@
 {
-    "total_count": 1491,
+    "total_count": 1492,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3018,6 +3018,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Da Capo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dad-is-a-hero-mom-is-a-spirit-im-a-reincarnator": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El regreso del héroe"
             },
             "dub": {
                 "season": 0,
