@@ -1,5 +1,5 @@
 {
-    "total_count": 1965,
+    "total_count": 1966,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13115,6 +13115,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "my-status-as-an-assassin-obviously-exceeds-the-heros": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Assassin Easts Bread"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Assassin Easts Bread"
             }
         },
         "my-stepmoms-daughter-is-my-ex": {
