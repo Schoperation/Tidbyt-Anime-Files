@@ -1,5 +1,5 @@
 {
-    "total_count": 1493,
+    "total_count": 1495,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -227,6 +227,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Adiós! ¡Hasta otra!"
+            }
+        },
+        "a-mangakas-weirdly-wonderful-workplace": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Cierta mangaka y su editora"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-ninja-and-an-assassin-under-one-roof": {
@@ -11111,6 +11123,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "My Ace"
+            }
+        },
+        "plus-sized-misadventures-in-love": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡Pensando positivo!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "pocos-udon-world": {

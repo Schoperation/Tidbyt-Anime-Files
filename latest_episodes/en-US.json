@@ -1,5 +1,5 @@
 {
-    "total_count": 1963,
+    "total_count": 1965,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -299,6 +299,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "The Color Of The Sea. The Color Of The Land. The Color Of The Wind. The Color Of The Heart. The Color Of You. ~Earth color of a calm~"
+            }
+        },
+        "a-mangakas-weirdly-wonderful-workplace": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Certain Mangaka and Their Editor"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-ninja-and-an-assassin-under-one-roof": {
@@ -14951,6 +14963,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "My Ace"
+            }
+        },
+        "plus-sized-misadventures-in-love": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Positive Thinking!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "pocos-udon-world": {
