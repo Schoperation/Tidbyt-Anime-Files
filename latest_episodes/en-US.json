@@ -1,5 +1,5 @@
 {
-    "total_count": 1968,
+    "total_count": 1969,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6791,6 +6791,18 @@
                 "season": 3,
                 "episode": 316,
                 "title": "Farewell Shinsengumi Arc Part Nine: Farewell Shinsengumi"
+            }
+        },
+        "gintama-mr-ginpachis-zany-class": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Cram Schools Teachers Say, You Don't Have to Get a 100, 70's Enough."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "girl-friend-beta": {

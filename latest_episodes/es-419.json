@@ -1,5 +1,5 @@
 {
-    "total_count": 1497,
+    "total_count": 1498,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4962,6 +4962,18 @@
                 "season": 4,
                 "episode": 367,
                 "title": "Los villanos también tienen sus límites"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "gintama-mr-ginpachis-zany-class": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Los profes de academias dicen que no necesitas sacar un 10, con un 7 alcanza"
             },
             "dub": {
                 "season": 0,
