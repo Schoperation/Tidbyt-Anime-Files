@@ -1,5 +1,5 @@
 {
-    "total_count": 1967,
+    "total_count": 1968,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3275,6 +3275,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "KATANA VS. CHAINSAW"
+            }
+        },
+        "chainsaw-man---the-movie-reze-arc": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Chainsaw Man - The Movie: Reze Arc - Trailer"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "chainsaw-man-festival": {
