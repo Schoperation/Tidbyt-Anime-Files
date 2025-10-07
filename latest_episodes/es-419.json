@@ -1,5 +1,5 @@
 {
-    "total_count": 1498,
+    "total_count": 1499,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2471,6 +2471,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episodio 12"
+            }
+        },
+        "chainsaw-man---the-movie-reze-arc": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Chainsaw Man - The Movie: Reze Arc - Trailer"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Chainsaw Man - The Movie: Reze Arc - Trailer"
             }
         },
         "chainsaw-man-festival": {
