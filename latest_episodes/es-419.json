@@ -1,5 +1,5 @@
 {
-    "total_count": 1499,
+    "total_count": 1500,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14418,6 +14418,18 @@
                 "season": 4,
                 "episode": 9,
                 "title": "Rong corre peligro"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-dark-history-of-the-reincarnated-villainess": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Lo importante es la magia, no los estudios"
             },
             "dub": {
                 "season": 0,
