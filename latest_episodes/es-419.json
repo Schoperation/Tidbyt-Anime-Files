@@ -1,5 +1,5 @@
 {
-    "total_count": 1500,
+    "total_count": 1501,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5094,6 +5094,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Reading with a Bear"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "gnosia": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Punto de partida"
             },
             "dub": {
                 "season": 0,

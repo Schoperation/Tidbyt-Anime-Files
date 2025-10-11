@@ -1,5 +1,5 @@
 {
-    "total_count": 1970,
+    "total_count": 1971,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6947,6 +6947,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Reading with a Bear"
+            }
+        },
+        "gnosia": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Starting Point"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "go-lion": {
