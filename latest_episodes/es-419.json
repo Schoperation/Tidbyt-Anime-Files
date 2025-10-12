@@ -1,5 +1,5 @@
 {
-    "total_count": 1501,
+    "total_count": 1502,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7962,6 +7962,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El señor que renació como un bombón y…"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "lil-miss-vampire-cant-suck-right": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La pequeña vampira lo hace muy mal"
             },
             "dub": {
                 "season": 0,

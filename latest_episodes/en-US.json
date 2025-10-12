@@ -1,5 +1,5 @@
 {
-    "total_count": 1971,
+    "total_count": 1972,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10799,6 +10799,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "A Guy Who Reincarnated as a Fantasy Knockout and"
+            }
+        },
+        "lil-miss-vampire-cant-suck-right": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Li'l Miss Vampire Is Very Bad"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "lilpri": {
