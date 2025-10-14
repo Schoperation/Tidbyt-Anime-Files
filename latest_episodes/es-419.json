@@ -1,5 +1,5 @@
 {
-    "total_count": 1502,
+    "total_count": 1503,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -17478,6 +17478,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Oigo el sonido de la lluvia"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "with-you-our-love-will-make-it-through": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,
