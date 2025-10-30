@@ -1,5 +1,5 @@
 {
-    "total_count": 1503,
+    "total_count": 1504,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4506,6 +4506,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "El hombre llamado Kenshiro Kasumi"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "fist-of-the-north-star": {
+            "sub": {
+                "season": 6,
+                "episode": 152,
+                "title": "¡Adiós, Kenshiro! ¡Adiós, Puño Divino de la Estrella del Norte!"
             },
             "dub": {
                 "season": 0,
@@ -15988,8 +16000,8 @@
         "this-monster-wants-to-eat-me": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "El mar de la esperanza"
+                "episode": 5,
+                "title": "La bestia del afecto"
             },
             "dub": {
                 "season": 0,
