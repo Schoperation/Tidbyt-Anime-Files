@@ -4623,14 +4623,14 @@
         },
         "detective-conan": {
             "sub": {
-                "season": 3,
-                "episode": 1179,
-                "title": "The Crimson Skeleton of Mt. Washio (Part Two)"
+                "season": 1,
+                "episode": 425,
+                "title": "Black Impact! The Moment the Organization Reaches Out"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 425,
+                "title": "Black Impact! The Moment the Organization Reaches Out"
             }
         },
         "detectives-these-days-are-crazy": {
@@ -21509,12 +21509,12 @@
             "sub": {
                 "season": 2,
                 "episode": 26,
-                "title": "The Dawn of the Departure"
+                "title": "The Dawn of Departure"
             },
             "dub": {
                 "season": 2,
                 "episode": 26,
-                "title": "The Dawn of the Departure"
+                "title": "The Dawn of Departure"
             }
         },
         "train-to-the-end-of-the-world": {
