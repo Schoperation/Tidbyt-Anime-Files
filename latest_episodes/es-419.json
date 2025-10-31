@@ -1,5 +1,5 @@
 {
-    "total_count": 1504,
+    "total_count": 1505,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13295,6 +13295,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Aún soy una araña, ¿y qué?"
+            }
+        },
+        "so-youre-raising-a-warrior": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "Primer día de trabajo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "soaring-sky-precure": {

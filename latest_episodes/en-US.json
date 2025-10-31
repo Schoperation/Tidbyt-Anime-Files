@@ -1,5 +1,5 @@
 {
-    "total_count": 1973,
+    "total_count": 1974,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17843,6 +17843,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "So I'm Still a Spider, So What?"
+            }
+        },
+        "so-youre-raising-a-warrior": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "First Day of Work"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "soaring-sky-precure": {
