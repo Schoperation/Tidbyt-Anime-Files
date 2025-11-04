@@ -1,5 +1,5 @@
 {
-    "total_count": 1974,
+    "total_count": 1975,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1278,6 +1278,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episode 12"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "another-world": {
+            "sub": {
+                "season": 8,
+                "episode": 1,
+                "title": "Another World"
             },
             "dub": {
                 "season": 0,
@@ -4623,14 +4635,14 @@
         },
         "detective-conan": {
             "sub": {
-                "season": 3,
-                "episode": 1180,
-                "title": "The Lucky Cat Saw Everything"
+                "season": 1,
+                "episode": 425,
+                "title": "Black Impact! The Moment the Organization Reaches Out"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 425,
+                "title": "Black Impact! The Moment the Organization Reaches Out"
             }
         },
         "detectives-these-days-are-crazy": {

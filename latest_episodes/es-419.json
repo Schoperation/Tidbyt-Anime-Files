@@ -1,5 +1,5 @@
 {
-    "total_count": 1505,
+    "total_count": 1506,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1026,6 +1026,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episodio 12"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "another-world": {
+            "sub": {
+                "season": 8,
+                "episode": 1,
+                "title": "Isekai Quartet, La Película: Otro Mundo"
             },
             "dub": {
                 "season": 0,
