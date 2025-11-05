@@ -4635,14 +4635,14 @@
         },
         "detective-conan": {
             "sub": {
-                "season": 1,
-                "episode": 425,
-                "title": "Black Impact! The Moment the Organization Reaches Out"
+                "season": 3,
+                "episode": 1180,
+                "title": "The Lucky Cat Saw Everything"
             },
             "dub": {
-                "season": 1,
-                "episode": 425,
-                "title": "Black Impact! The Moment the Organization Reaches Out"
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "detectives-these-days-are-crazy": {
@@ -7515,7 +7515,7 @@
         },
         "haikyu": {
             "sub": {
-                "season": 65,
+                "season": 66,
                 "episode": 2,
                 "title": "The Path of the Ball"
             },
@@ -9645,8 +9645,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 3,
-                "title": "The Curtain Rises on New Turmoil."
+                "episode": 4,
+                "title": "I’m Opening a Food Truck."
             }
         },
         "kakushigoto": {
