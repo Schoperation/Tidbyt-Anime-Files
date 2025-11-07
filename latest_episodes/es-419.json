@@ -1,5 +1,5 @@
 {
-    "total_count": 1507,
+    "total_count": 1508,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10674,6 +10674,18 @@
                 "season": 14,
                 "episode": 1148,
                 "title": "La historia perdida. Joyboy, el Primer Pirata"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "one-punch-man": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "EL HOMBRE MÁS FUERTE"
             },
             "dub": {
                 "season": 0,
