@@ -1,5 +1,5 @@
 {
-    "total_count": 1506,
+    "total_count": 1507,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3892,8 +3892,8 @@
         "dragon-raja--the-blazing-dawn-": {
             "sub": {
                 "season": 2,
-                "episode": 18,
-                "title": "Episodio 18"
+                "episode": 19,
+                "title": "Episodio 19"
             },
             "dub": {
                 "season": 0,
@@ -6030,6 +6030,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Refresco de miel y limón"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "honkai-star-rail-featured-videos": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Video promocional de la versión 3.7 «Hacia ese mañana del ayer» | Honkai: Star Rail"
             },
             "dub": {
                 "season": 0,

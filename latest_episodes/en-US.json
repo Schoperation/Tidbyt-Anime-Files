@@ -1,5 +1,5 @@
 {
-    "total_count": 1975,
+    "total_count": 1976,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5152,8 +5152,8 @@
         "dragon-raja--the-blazing-dawn-": {
             "sub": {
                 "season": 2,
-                "episode": 18,
-                "title": "The Labyrinth"
+                "episode": 19,
+                "title": "Your Real Name"
             },
             "dub": {
                 "season": 0,
@@ -8339,6 +8339,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Honey Lemon Soda"
+            }
+        },
+        "honkai-star-rail-featured-videos": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Honkai: Star Rail Version 3.7 Trailer: \"As Tomorrow Became Yesterday\""
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Honkai: Star Rail 2025 HoYoFair \"Chimerric Park\""
             }
         },
         "honor-of-kings": {
