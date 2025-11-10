@@ -1,5 +1,5 @@
 {
-    "total_count": 1508,
+    "total_count": 1509,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13559,6 +13559,18 @@
                 "season": 3,
                 "episode": 40,
                 "title": "Los recuerdos de ____ II"
+            }
+        },
+        "spy-x-family-code-white": {
+            "sub": {
+                "season": 45,
+                "episode": 1,
+                "title": "SPY x FAMILY: Código Blanco"
+            },
+            "dub": {
+                "season": 45,
+                "episode": 1,
+                "title": "SPY x FAMILY: Código Blanco"
             }
         },
         "squid-girl": {

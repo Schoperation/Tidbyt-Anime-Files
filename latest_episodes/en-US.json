@@ -1,5 +1,5 @@
 {
-    "total_count": 1976,
+    "total_count": 1977,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18191,6 +18191,18 @@
                 "season": 3,
                 "episode": 41,
                 "title": "Behind the Scandal | The Path to an Imperial Scholar"
+            }
+        },
+        "spy-x-family-code-white": {
+            "sub": {
+                "season": 45,
+                "episode": 1,
+                "title": "CODE: White "
+            },
+            "dub": {
+                "season": 45,
+                "episode": 1,
+                "title": "CODE: White "
             }
         },
         "squid-girl": {
