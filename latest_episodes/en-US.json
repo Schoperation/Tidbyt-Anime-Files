@@ -1,5 +1,5 @@
 {
-    "total_count": 1978,
+    "total_count": 1979,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18587,6 +18587,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Cool Wind"
+            }
+        },
+        "suzume": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Suzume"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Suzume"
             }
         },
         "swallowed-star": {

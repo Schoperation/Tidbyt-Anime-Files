@@ -1,5 +1,5 @@
 {
-    "total_count": 1510,
+    "total_count": 1511,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13847,6 +13847,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¿Y si un niño de los soldaditos del último calabozo se acostumbrara a la vida de la ciudad?"
+            }
+        },
+        "suzume": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Suzume"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Suzume"
             }
         },
         "swallowed-star": {
