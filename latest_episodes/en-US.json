@@ -1,5 +1,5 @@
 {
-    "total_count": 1979,
+    "total_count": 1980,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9443,6 +9443,18 @@
                 "season": 2,
                 "episode": 47,
                 "title": "Shibuya Incident - Gate, Close"
+            }
+        },
+        "jujutsu-kaisen-jujutsu-kaisen-0": {
+            "sub": {
+                "season": 44,
+                "episode": 1,
+                "title": "JUJUTSU KAISEN 0"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "juni-taisenzodiac-war": {
