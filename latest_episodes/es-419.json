@@ -1,5 +1,5 @@
 {
-    "total_count": 1512,
+    "total_count": 1514,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5533,6 +5533,18 @@
                 "title": ""
             }
         },
+        "hana-kimi": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Quiero estar contigo"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Quiero estar contigo"
+            }
+        },
         "hana-yori-dango-boys-over-flowers": {
             "sub": {
                 "season": 1,
@@ -7722,6 +7734,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Decision"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kunon-the-sorcerer-can-see": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "To the School for Noble Children"
             },
             "dub": {
                 "season": 0,
