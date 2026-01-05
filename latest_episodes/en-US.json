@@ -1,5 +1,5 @@
 {
-    "total_count": 1983,
+    "total_count": 1985,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13849,6 +13849,18 @@
                 "title": "Tonight I Shall Die, I Ride So That It Will Kill Me"
             }
         },
+        "noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Thirteenth Imperial Prince Noah Ararat"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "noblesse": {
             "sub": {
                 "season": 1,
@@ -19429,6 +19441,18 @@
                 "title": ""
             }
         },
+        "the-daily-life-of-a-part-time-torturer": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Part-Time Job: Day 1"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-daily-life-of-the-immortal-king": {
             "sub": {
                 "season": 5,
@@ -21568,13 +21592,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {

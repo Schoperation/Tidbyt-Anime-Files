@@ -1,5 +1,5 @@
 {
-    "total_count": 1514,
+    "total_count": 1516,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10405,6 +10405,18 @@
                 "title": ""
             }
         },
+        "noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Noah Ararat, el decimotercer príncipe imperial"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "noblesse": {
             "sub": {
                 "season": 1,
@@ -14557,6 +14569,18 @@
                 "title": ""
             }
         },
+        "the-daily-life-of-a-part-time-torturer": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Primer día en mi trabajo de medio tiempo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-daily-life-of-the-immortal-king": {
             "sub": {
                 "season": 5,
@@ -16456,13 +16480,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
