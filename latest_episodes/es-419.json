@@ -1,5 +1,5 @@
 {
-    "total_count": 1521,
+    "total_count": 1522,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12851,6 +12851,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "sentenced-to-be-a-hero": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Apoyo a la retirada del bosque de Couveunge"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Apoyo a la retirada del bosque de Couveunge"
             }
         },
         "senyu": {

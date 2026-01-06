@@ -1,5 +1,5 @@
 {
-    "total_count": 1990,
+    "total_count": 1991,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17147,6 +17147,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "sentenced-to-be-a-hero": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sentence: Support Retreat From Couveunge Forest"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sentence: Support Retreat From Couveunge Forest"
             }
         },
         "senyu": {
