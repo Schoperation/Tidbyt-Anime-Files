@@ -1,5 +1,5 @@
 {
-    "total_count": 1989,
+    "total_count": 1990,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21628,13 +21628,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -23471,6 +23471,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "From Now On"
+            }
+        },
+        "yoroi-shinden-samurai-troopers": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Prologue"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "yosuga-no-sora-in-solitude-where-we-are-least-alone": {

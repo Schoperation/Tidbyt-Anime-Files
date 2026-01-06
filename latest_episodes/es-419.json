@@ -1,5 +1,5 @@
 {
-    "total_count": 1520,
+    "total_count": 1521,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16516,13 +16516,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -17994,6 +17994,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Desde ahora"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "yoroi-shinden-samurai-troopers": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Prólogo"
             },
             "dub": {
                 "season": 0,
