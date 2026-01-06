@@ -1,5 +1,5 @@
 {
-    "total_count": 1991,
+    "total_count": 1992,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19504,13 +19504,13 @@
         "the-dark-history-of-the-reincarnated-villainess": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "I Choose the Beauty of the Elves Over the Normies of the Human World"
+                "episode": 12,
+                "title": "Kindness, Strength, and the Man I Must Erase"
             },
             "dub": {
                 "season": 1,
-                "episode": 8,
-                "title": "\"Original\" Is a Magical Set of Letters"
+                "episode": 9,
+                "title": "Self-Evaluations Are Unreliable"
             }
         },
         "the-dawn-of-the-witch": {
@@ -21186,6 +21186,18 @@
                 "season": 15,
                 "episode": 13,
                 "title": "Memories"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I Tried Confessing"
             },
             "dub": {
                 "season": 0,
