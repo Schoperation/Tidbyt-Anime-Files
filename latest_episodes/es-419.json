@@ -1,5 +1,5 @@
 {
-    "total_count": 1516,
+    "total_count": 1517,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14622,6 +14622,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El día que eliges"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-demon-kings-daughter-is-too-kind": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¡La hija del rey demonio impone demasiado!"
             },
             "dub": {
                 "season": 0,
