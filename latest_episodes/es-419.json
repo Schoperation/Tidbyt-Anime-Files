@@ -1,5 +1,5 @@
 {
-    "total_count": 1519,
+    "total_count": 1520,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14543,6 +14543,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Su deseo"
+            }
+        },
+        "the-casebook-of-arne": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Los que cavan hoyos para otros acaban cayendo en ellos"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-concierge": {

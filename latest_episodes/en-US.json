@@ -1,5 +1,5 @@
 {
-    "total_count": 1988,
+    "total_count": 1989,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19415,6 +19415,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "His Wish"
+            }
+        },
+        "the-casebook-of-arne": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Those Who Dig Pits for Others Will Fall in Themselves"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-concierge": {
