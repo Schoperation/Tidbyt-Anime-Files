@@ -1,5 +1,5 @@
 {
-    "total_count": 1523,
+    "total_count": 1526,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6942,6 +6942,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "La chica de preparatoria y el camino a casa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "journal-with-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Desbordamiento"
             },
             "dub": {
                 "season": 0,
@@ -16540,13 +16552,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "Mi amigo"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 23,
+                "title": "Mi amigo"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -17401,6 +17413,18 @@
                 "title": ""
             }
         },
+        "wash-it-all-away": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Déjeselo a Kinme"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "watari-kuns--is-about-to-collapse": {
             "sub": {
                 "season": 1,
@@ -18095,6 +18119,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Las buenas noticias que traen"
+            }
+        },
+        "you-cant-be-in-a-rom-com-with-your-childhood-friends": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¿De camino al instituto? ¿Un beso indirecto? ¿Se sientan encima? Ni así empezaría una comedia romántica"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "you-dont-know-gunma-yet": {

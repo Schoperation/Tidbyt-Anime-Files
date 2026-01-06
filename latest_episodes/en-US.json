@@ -1,5 +1,5 @@
 {
-    "total_count": 1992,
+    "total_count": 1995,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9438,6 +9438,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The High School Girl and the Road Home"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "journal-with-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Overflow"
             },
             "dub": {
                 "season": 0,
@@ -21652,13 +21664,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "My Friend"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 23,
+                "title": "My Friend"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -22693,6 +22705,18 @@
                 "title": "Welcome to Tateyama Base!!"
             }
         },
+        "wash-it-all-away": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "You Can Count on Kinme"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "watari-kuns--is-about-to-collapse": {
             "sub": {
                 "season": 1,
@@ -23579,6 +23603,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Joyous Tidings You All Bring."
+            }
+        },
+        "you-cant-be-in-a-rom-com-with-your-childhood-friends": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Road to School? Indirect Kiss? Butt on Lap? Still Won't Start a Rom-Com"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "you-dont-know-gunma-yet": {
