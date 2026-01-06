@@ -1,5 +1,5 @@
 {
-    "total_count": 1987,
+    "total_count": 1988,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9186,6 +9186,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Ale from the Ancient City"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "I Got a Job"
             },
             "dub": {
                 "season": 0,

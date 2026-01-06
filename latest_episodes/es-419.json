@@ -1,5 +1,5 @@
 {
-    "total_count": 1518,
+    "total_count": 1519,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6750,6 +6750,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Cerveza de la Antigua Ciudad"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Conseguí un trabajo"
             },
             "dub": {
                 "season": 0,
