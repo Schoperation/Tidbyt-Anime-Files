@@ -1,5 +1,5 @@
 {
-    "total_count": 1517,
+    "total_count": 1518,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16492,13 +16492,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -16806,6 +16806,18 @@
                 "season": 1,
                 "episode": 14,
                 "title": "Tiro peligroso"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tune-in-to-the-midnight-heart": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Se despide Arisu Yamabuki"
             },
             "dub": {
                 "season": 0,
