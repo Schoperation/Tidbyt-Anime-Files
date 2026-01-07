@@ -1,5 +1,5 @@
 {
-    "total_count": 1526,
+    "total_count": 1527,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13045,6 +13045,18 @@
                 "title": ""
             }
         },
+        "shiboyugi-playing-death-games-to-put-food-on-the-table": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "All You Need Is …"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "All You Need Is …"
+            }
+        },
         "shikimoris-not-just-a-cutie": {
             "sub": {
                 "season": 1,
@@ -16552,13 +16564,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "Mi amigo"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

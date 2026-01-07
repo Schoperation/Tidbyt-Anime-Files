@@ -1,5 +1,5 @@
 {
-    "total_count": 1995,
+    "total_count": 1996,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17401,6 +17401,18 @@
                 "title": ""
             }
         },
+        "shiboyugi-playing-death-games-to-put-food-on-the-table": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "All You Need Is ----"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "All You Need Is ----"
+            }
+        },
         "shigurui-death-frenzy": {
             "sub": {
                 "season": 1,
@@ -21664,13 +21676,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
