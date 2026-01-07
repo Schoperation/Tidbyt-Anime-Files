@@ -1,5 +1,5 @@
 {
-    "total_count": 1996,
+    "total_count": 1997,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18995,6 +18995,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Pitch Without Regret"
+            }
+        },
+        "tamons-b-side": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Do You Like Me?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "tantei-team-kz-jiken-note": {

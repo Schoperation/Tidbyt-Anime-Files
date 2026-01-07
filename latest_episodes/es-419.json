@@ -1,5 +1,5 @@
 {
-    "total_count": 1527,
+    "total_count": 1528,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14178,6 +14178,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Lanzar sin arrepentimiento"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "tamons-b-side": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¿Yo te gusto?"
             },
             "dub": {
                 "season": 0,
