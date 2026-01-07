@@ -1,5 +1,5 @@
 {
-    "total_count": 1999,
+    "total_count": 2000,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -251,6 +251,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episode 12"
+            }
+        },
+        "a-gentle-nobles-vacation-recommendation": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Vacation Recommendation"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-girl--her-guard-dog": {

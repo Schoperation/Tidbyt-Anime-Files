@@ -1,5 +1,5 @@
 {
-    "total_count": 1530,
+    "total_count": 1531,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -186,6 +186,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episodio 12"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-gentle-nobles-vacation-recommendation": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Vacaciones recomendadas"
             },
             "dub": {
                 "season": 0,
