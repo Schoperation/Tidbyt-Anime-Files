@@ -1,5 +1,5 @@
 {
-    "total_count": 1528,
+    "total_count": 1530,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -798,6 +798,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Ahogamiento en una habitación cerrada: Tercera parte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "an-adventurers-daily-grind-at-age-29": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El encuentro del soltero y la niña"
             },
             "dub": {
                 "season": 0,
@@ -3990,6 +4002,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El antichehizo supremo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "easygoing-territory-defense-by-the-optimistic-lord": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El duro destierro del joven prodigio"
             },
             "dub": {
                 "season": 0,
@@ -16576,13 +16600,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "Mi amigo"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 23,
+                "title": "Mi amigo"
             }
         },
         "touken-ranbu---hanamaru": {
