@@ -1,5 +1,5 @@
 {
-    "total_count": 2003,
+    "total_count": 2004,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14805,8 +14805,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 10,
-                "title": "The Blood-Mad Duke's Intentions"
+                "episode": 11,
+                "title": "Sweet or Sour Fruit"
             }
         },
         "pastel-memories": {
@@ -16206,6 +16206,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Our Dream School Lives Have Begun"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Beginning and the End"
             },
             "dub": {
                 "season": 0,

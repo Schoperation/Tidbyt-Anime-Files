@@ -1,5 +1,5 @@
 {
-    "total_count": 1534,
+    "total_count": 1535,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11145,8 +11145,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 11,
-                "title": "¿Es un fruto dulce o amargo?"
+                "episode": 12,
+                "title": "La presentación de la noble glotona"
             }
         },
         "pastel-memories": {
@@ -12114,6 +12114,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡El inicio de una vida escolar ideal!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "roll-over-and-die-i-will-fight-for-an-ordinary-life-with-my-love-and-cursed-sword": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Principio y fin"
             },
             "dub": {
                 "season": 0,
