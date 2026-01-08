@@ -1,5 +1,5 @@
 {
-    "total_count": 2000,
+    "total_count": 2001,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20065,6 +20065,18 @@
                 "title": ""
             }
         },
+        "the-holy-grail-of-eris": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "At the Grand Merillian"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-honor-at-magic-high-school": {
             "sub": {
                 "season": 1,
@@ -21724,13 +21736,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "My Friend"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
