@@ -1,5 +1,5 @@
 {
-    "total_count": 2002,
+    "total_count": 2003,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20245,6 +20245,18 @@
                 "title": ""
             }
         },
+        "the-invisible-man-and-his-soon-to-be-wife": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Soon-to-be Couple"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-irregular-at-magic-high-school": {
             "sub": {
                 "season": 3,
@@ -21748,13 +21760,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "My Friend"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 23,
+                "title": "My Friend"
             }
         },
         "touken-ranbu---hanamaru": {
