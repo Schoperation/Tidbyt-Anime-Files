@@ -1,5 +1,5 @@
 {
-    "total_count": 2001,
+    "total_count": 2002,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -3318,6 +3318,18 @@
                 "season": 1,
                 "episode": 1,
                 "title": "Evening "
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "champignon-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The Destined One"
             },
             "dub": {
                 "season": 0,
