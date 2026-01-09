@@ -1,5 +1,5 @@
 {
-    "total_count": 1535,
+    "total_count": 1536,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3227,6 +3227,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "dark-moon-the-blood-altar": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Luna nueva: Encuentro"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Luna nueva: Encuentro"
             }
         },
         "darling-in-the-franxx": {

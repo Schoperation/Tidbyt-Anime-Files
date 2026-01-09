@@ -1,5 +1,5 @@
 {
-    "total_count": 2004,
+    "total_count": 2005,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4295,6 +4295,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Goodbye, Despair High School"
+            }
+        },
+        "dark-moon-the-blood-altar": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "New Moon - Meeting -"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "New Moon - Meeting -"
             }
         },
         "darling-in-the-franxx": {
