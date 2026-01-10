@@ -1,5 +1,5 @@
 {
-    "total_count": 1536,
+    "total_count": 1537,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12738,6 +12738,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Symphony of the Protectors"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "scum-of-the-brave": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Encuentro con los Héroes"
             },
             "dub": {
                 "season": 0,

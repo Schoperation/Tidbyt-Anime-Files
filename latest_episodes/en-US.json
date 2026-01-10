@@ -1,5 +1,5 @@
 {
-    "total_count": 2005,
+    "total_count": 2006,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -17003,6 +17003,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Symphony of the Protectors"
+            }
+        },
+        "scum-of-the-brave": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Meeting of the Braves"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "scumbag-system": {
