@@ -1,5 +1,5 @@
 {
-    "total_count": 1537,
+    "total_count": 1539,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -246,6 +246,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "A veces hay que tomarse un descanso"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-misanthrope-teaches-a-class-for-demi-humans": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El misántropo y la clase del destino"
             },
             "dub": {
                 "season": 0,
@@ -3325,6 +3337,18 @@
                 "title": ""
             }
         },
+        "dead-account": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Este tipo es un flamer"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "dead-dead-demons-dededede-destruction": {
             "sub": {
                 "season": 1,
@@ -5188,13 +5212,13 @@
         "gnosia": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Aracosia"
+                "episode": 13,
+                "title": "Interludio"
             },
             "dub": {
                 "season": 1,
-                "episode": 10,
-                "title": "El moho simbiótico de un pueblo"
+                "episode": 11,
+                "title": "Episode 11"
             }
         },
         "go-princess-precure": {
@@ -16684,13 +16708,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "Mi amigo"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 23,
+                "title": "Mi amigo"
             }
         },
         "touken-ranbu---hanamaru": {

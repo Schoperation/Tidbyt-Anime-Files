@@ -1,5 +1,5 @@
 {
-    "total_count": 2006,
+    "total_count": 2008,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -318,6 +318,18 @@
                 "season": 1,
                 "episode": 10,
                 "title": "Let's Take a Day Off Work for a Change."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-misanthrope-teaches-a-class-for-demi-humans": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Misanthrope and the Fateful Classroom"
             },
             "dub": {
                 "season": 0,
@@ -4393,6 +4405,18 @@
                 "title": ""
             }
         },
+        "dead-account": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "He's a Flamebaiter"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "dead-dead-demons-dededede-destruction": {
             "sub": {
                 "season": 1,
@@ -7036,13 +7060,13 @@
         "gnosia": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Allacosia"
+                "episode": 13,
+                "title": "Interlude"
             },
             "dub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Citizen Slime"
+                "episode": 11,
+                "title": "Episode 11"
             }
         },
         "go-lion": {
@@ -21796,13 +21820,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "My Friend"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 23,
+                "title": "My Friend"
             }
         },
         "touken-ranbu---hanamaru": {
