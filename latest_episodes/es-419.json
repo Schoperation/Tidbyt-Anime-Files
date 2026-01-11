@@ -1,5 +1,5 @@
 {
-    "total_count": 1539,
+    "total_count": 1540,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16708,13 +16708,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "Mi amigo"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 23,
+                "title": "Mi amigo"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -18227,6 +18227,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "you-and-i-are-polar-opposites": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tú, mi polo opuesto"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tú, mi polo opuesto"
             }
         },
         "you-and-idol-precure": {

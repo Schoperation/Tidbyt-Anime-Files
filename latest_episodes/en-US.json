@@ -1,5 +1,5 @@
 {
-    "total_count": 2008,
+    "total_count": 2009,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21820,13 +21820,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 23,
+                "title": "My Friend"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 23,
+                "title": "My Friend"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -23711,6 +23711,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "you-and-i-are-polar-opposites": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "You, My Polar Opposite"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "You, My Polar Opposite"
             }
         },
         "you-and-idol-precure": {
