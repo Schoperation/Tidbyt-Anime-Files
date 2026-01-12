@@ -1,5 +1,5 @@
 {
-    "total_count": 1540,
+    "total_count": 1542,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6661,6 +6661,18 @@
                 "title": ""
             }
         },
+        "in-the-clear-moonlit-dusk": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Príncipe y príncipe"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "in-the-heart-of-kunoichi-tsubaki": {
             "sub": {
                 "season": 1,
@@ -7398,6 +7410,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Ahora o nunca"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kaya-chan-isnt-scary": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¿Kaya no da miedo?"
             },
             "dub": {
                 "season": 0,
