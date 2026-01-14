@@ -1,5 +1,5 @@
 {
-    "total_count": 1542,
+    "total_count": 1543,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -832,8 +832,8 @@
         "an-adventurers-daily-grind-at-age-29": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "El encuentro del soltero y la niña"
+                "episode": 2,
+                "title": "El talento de Rirui"
             },
             "dub": {
                 "season": 0,
@@ -5620,13 +5620,13 @@
         "hana-kimi": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Quiero estar contigo"
+                "episode": 3,
+                "title": "¡No pienso perder!"
             },
             "dub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Quiero estar contigo"
+                "episode": 3,
+                "title": "¡No pienso perder!"
             }
         },
         "hana-yori-dango-boys-over-flowers": {
@@ -11034,6 +11034,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Childhood Girlfriend"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "oshi-no-ko": {
+            "sub": {
+                "season": 3,
+                "episode": 1,
+                "title": "Entusiasmado"
             },
             "dub": {
                 "season": 0,

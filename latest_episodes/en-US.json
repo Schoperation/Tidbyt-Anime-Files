@@ -1,5 +1,5 @@
 {
-    "total_count": 2011,
+    "total_count": 2012,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1024,8 +1024,8 @@
         "an-adventurers-daily-grind-at-age-29": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "A Single Man and a Little Girl Meet"
+                "episode": 2,
+                "title": "Rirui's Talent"
             },
             "dub": {
                 "season": 0,
@@ -7720,13 +7720,13 @@
         "hana-kimi": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "I Want to Be with You"
+                "episode": 3,
+                "title": "I Won't Lose!"
             },
             "dub": {
                 "season": 1,
-                "episode": 2,
-                "title": "I Want to Be with You"
+                "episode": 3,
+                "title": "I Won't Lose!"
             }
         },
         "hana-yori-dango-boys-over-flowers": {
@@ -14610,6 +14610,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Childhood Girlfriend"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "oshi-no-ko": {
+            "sub": {
+                "season": 3,
+                "episode": 1,
+                "title": "Down Bad"
             },
             "dub": {
                 "season": 0,
