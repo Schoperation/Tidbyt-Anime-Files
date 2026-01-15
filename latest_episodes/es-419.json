@@ -1,5 +1,5 @@
 {
-    "total_count": 1543,
+    "total_count": 1544,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10751,6 +10751,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "¿A dónde?"
+            }
+        },
+        "oedo-fire-slayer--the-legend-of-phoenix-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La chispa del renacimiento"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "offside": {

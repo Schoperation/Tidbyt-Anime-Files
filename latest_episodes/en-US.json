@@ -1,5 +1,5 @@
 {
-    "total_count": 2012,
+    "total_count": 2013,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -14267,6 +14267,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Where To?"
+            }
+        },
+        "oedo-fire-slayer--the-legend-of-phoenix-": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sparks of Rebirth"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "offside": {
