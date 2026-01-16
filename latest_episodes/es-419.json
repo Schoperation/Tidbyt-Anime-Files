@@ -1,5 +1,5 @@
 {
-    "total_count": 1544,
+    "total_count": 1545,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16223,6 +16223,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Five Dumb Matches"
+            }
+        },
+        "the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Un amor que comienza por el final"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-water-magician": {

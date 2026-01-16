@@ -1,5 +1,5 @@
 {
-    "total_count": 2013,
+    "total_count": 2014,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21265,6 +21265,18 @@
                 "title": "Five Dumb Matches"
             }
         },
+        "the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Love That Begins with the Ending"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-water-magician": {
             "sub": {
                 "season": 1,
@@ -22929,8 +22941,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "New Life"
+                "episode": 25,
+                "title": "The Shape of a Family"
             }
         },
         "wataten-an-angel-flew-down-to-me": {
