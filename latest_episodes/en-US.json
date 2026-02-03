@@ -1,5 +1,5 @@
 {
-    "total_count": 2016,
+    "total_count": 2017,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2483,6 +2483,18 @@
                 "season": 2,
                 "episode": 38,
                 "title": "Last Attack"
+            }
+        },
+        "blue-lock-blue-lock-the-movie--episode-nagi-": {
+            "sub": {
+                "season": 56,
+                "episode": 1,
+                "title": "BLUE LOCK THE MOVIE -EPISODE NAGI- "
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "blue-miburo": {
@@ -21904,13 +21916,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
