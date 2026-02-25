@@ -1887,14 +1887,14 @@
         },
         "blue-exorcist": {
             "sub": {
-                "season": 3,
+                "season": 5,
                 "episode": 12,
                 "title": "Gracias"
             },
             "dub": {
-                "season": 1,
-                "episode": 25,
-                "title": "Alto, tiempo"
+                "season": 2,
+                "episode": 12,
+                "title": "Con franqueza"
             }
         },
         "blue-lock": {
@@ -16780,13 +16780,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
