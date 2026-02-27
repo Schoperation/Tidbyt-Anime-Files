@@ -1,5 +1,5 @@
 {
-    "total_count": 2017,
+    "total_count": 2018,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18959,6 +18959,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "The Reason to Fight"
+            }
+        },
+        "sword-of-the-stranger": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sword of the Stranger (English Dub)"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sword of the Stranger (English Dub)"
             }
         },
         "symphogear": {

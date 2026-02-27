@@ -1,5 +1,5 @@
 {
-    "total_count": 1546,
+    "total_count": 1547,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14166,6 +14166,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "La razón para pelear"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "sword-of-the-stranger": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Sword of the Stranger"
             },
             "dub": {
                 "season": 0,
