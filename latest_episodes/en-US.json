@@ -1,5 +1,5 @@
 {
-    "total_count": 2019,
+    "total_count": 2020,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4432,13 +4432,13 @@
         "dead-account": {
             "sub": {
                 "season": 1,
-                "episode": 8,
-                "title": "Open the Window, and..."
+                "episode": 9,
+                "title": "The Battle at Sainokawara"
             },
             "dub": {
                 "season": 1,
-                "episode": 6,
-                "title": "An Encounter in the Mountains"
+                "episode": 7,
+                "title": "The A-B Battle"
             }
         },
         "dead-dead-demons-dededede-destruction": {
@@ -5111,6 +5111,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "dorohedoro": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "DEVILISH ANECDOTES / DISPARITY OF THE MASKS / A SHOP FOR YOU / THE SPRING OF THE UNDERLING / THE TALE OF THE INVISIBLE GYOZA FAIRY / THE DEVILS' DANCE / OHBA MEMORIES, IN THE NIGHT BREEZE"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 13,
+                "title": "DEVILISH ANECDOTES / DISPARITY OF THE MASKS / A SHOP FOR YOU / THE SPRING OF THE UNDERLING / THE TALE OF THE INVISIBLE GYOZA FAIRY / THE DEVILS' DANCE / OHBA MEMORIES, IN THE NIGHT BREEZE"
             }
         },
         "double-decker-doug--kirill": {

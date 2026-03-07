@@ -1,5 +1,5 @@
 {
-    "total_count": 1548,
+    "total_count": 1549,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3340,8 +3340,8 @@
         "dead-account": {
             "sub": {
                 "season": 1,
-                "episode": 8,
-                "title": "Cuando abrí esa ventana"
+                "episode": 9,
+                "title": "Batalla en el Sai no Kawara"
             },
             "dub": {
                 "season": 0,
@@ -3839,6 +3839,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "dorohedoro": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "ANÉCDOTAS DIABÓLICAS"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 13,
+                "title": "ANÉCDOTAS DIABÓLICAS"
             }
         },
         "double-decker-doug--kirill": {
