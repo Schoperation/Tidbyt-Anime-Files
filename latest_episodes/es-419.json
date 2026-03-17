@@ -1,5 +1,5 @@
 {
-    "total_count": 1549,
+    "total_count": 1550,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5526,6 +5526,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Come Forth, Gigantic!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "hackadoll-the-animation": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "Cuenta con las Hackadolls en el Comiket"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 2021,
+    "total_count": 2022,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7626,6 +7626,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "H2O"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "hackadoll-the-animation": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "HackaDolls Can Handle Anything, Even Comiket"
             },
             "dub": {
                 "season": 0,
