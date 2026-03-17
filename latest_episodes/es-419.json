@@ -1,5 +1,5 @@
 {
-    "total_count": 1550,
+    "total_count": 1551,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -16828,13 +16828,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -17454,6 +17454,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡¿El chico guapo hace un juramento?!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "vampire-knight": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "Cadenas escarlata"
             },
             "dub": {
                 "season": 0,

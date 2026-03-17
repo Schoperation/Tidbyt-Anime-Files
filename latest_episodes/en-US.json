@@ -1,5 +1,5 @@
 {
-    "total_count": 2022,
+    "total_count": 2023,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21976,13 +21976,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -22739,6 +22739,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Love 12. The pretty boy vows?!"
+            }
+        },
+        "vampire-knight": {
+            "sub": {
+                "season": 2,
+                "episode": 13,
+                "title": "Vampire Knight"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "vandread": {
