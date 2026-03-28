@@ -1,5 +1,5 @@
 {
-    "total_count": 1551,
+    "total_count": 1552,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1002,6 +1002,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Episodio 24"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "animejapan-awards": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "AnimeJapan Special Award: Live in Red"
             },
             "dub": {
                 "season": 0,

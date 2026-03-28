@@ -1,5 +1,5 @@
 {
-    "total_count": 2023,
+    "total_count": 2024,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1247,6 +1247,18 @@
                 "season": 1,
                 "episode": 44,
                 "title": "HxH Movie, Resident Evil 2 Demo, Kingdom Hearts III \u0026 MORE! | Anime Recap"
+            }
+        },
+        "animejapan-awards": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "AnimeJapan Special Award: Live in Red"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "anisong-station": {
