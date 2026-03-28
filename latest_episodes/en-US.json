@@ -1,5 +1,5 @@
 {
-    "total_count": 2024,
+    "total_count": 2025,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -671,6 +671,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Future"
+            }
+        },
+        "agents-of-the-four-seasons-dance-of-spring": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Dance of Spring"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "ah-my-buddha": {
@@ -21748,13 +21760,13 @@
         "to-your-eternity": {
             "sub": {
                 "season": 3,
-                "episode": 21,
-                "title": "Stay Here"
+                "episode": 22,
+                "title": "To Fushi"
             },
             "dub": {
                 "season": 3,
-                "episode": 21,
-                "title": "Stay Here"
+                "episode": 22,
+                "title": "To Fushi"
             }
         },
         "todays-menu-for-the-emiya-family": {
@@ -21988,13 +22000,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
