@@ -1,5 +1,5 @@
 {
-    "total_count": 2025,
+    "total_count": 2027,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20041,6 +20041,18 @@
                 "title": ""
             }
         },
+        "the-food-diary-of-miss-maid": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Taiyaki, Takoyaki, Odango, Convenience Store Onigiri, and Baumkuchen"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-foolish-angel-dances-with-the-devil": {
             "sub": {
                 "season": 1,
@@ -21217,6 +21229,18 @@
                 "title": ""
             }
         },
+        "the-strongest-job-is-apparently-not-a-hero-or-a-sage-but-an-appraiser-provisional": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Tutorial Is Already Running"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-strongest-magician-in-the-demon-lords-army-was-a-human": {
             "sub": {
                 "season": 1,
@@ -22000,13 +22024,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
