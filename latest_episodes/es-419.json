@@ -1,5 +1,5 @@
 {
-    "total_count": 1555,
+    "total_count": 1556,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5255,6 +5255,18 @@
                 "season": 1,
                 "episode": 20,
                 "title": "Al mundo de las estrellas"
+            }
+        },
+        "go-for-it-nakamura-kun": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¡Pánico! ¡La biblia secreta!"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "¡Pánico! ¡La biblia secreta!"
             }
         },
         "go-princess-precure": {
@@ -16876,13 +16888,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {

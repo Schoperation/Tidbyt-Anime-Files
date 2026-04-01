@@ -1,5 +1,5 @@
 {
-    "total_count": 2027,
+    "total_count": 2028,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7127,6 +7127,18 @@
                 "season": 1,
                 "episode": 20,
                 "title": "World of Stars"
+            }
+        },
+        "go-for-it-nakamura-kun": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Panic! The Secret Bible!!"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Panic! The Secret Bible!!"
             }
         },
         "go-lion": {
@@ -22024,13 +22036,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
