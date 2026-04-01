@@ -19671,14 +19671,14 @@
         },
         "the-beginning-after-the-end": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "The King’s Departure"
+                "season": 2,
+                "episode": 1,
+                "title": "Episode 1"
             },
             "dub": {
                 "season": 1,
-                "episode": 11,
-                "title": "The King's Decision"
+                "episode": 12,
+                "title": "The King’s Departure"
             }
         },
         "the-betrayal-knows-my-name": {
@@ -22024,13 +22024,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
