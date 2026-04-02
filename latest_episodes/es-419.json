@@ -1,5 +1,5 @@
 {
-    "total_count": 1558,
+    "total_count": 1559,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -7626,6 +7626,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Mas allá de la oscuridad sin fin"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "killed-again-mr-detective": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El asesinato del Queen Irie, primera parte"
             },
             "dub": {
                 "season": 0,
