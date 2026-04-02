@@ -1,5 +1,5 @@
 {
-    "total_count": 1557,
+    "total_count": 1558,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5586,6 +5586,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Cuenta con las Hackadolls en el Comiket"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "haibaras-teenage-new-game": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El plan de un introvertido para una adolescencia llena de color"
             },
             "dub": {
                 "season": 0,

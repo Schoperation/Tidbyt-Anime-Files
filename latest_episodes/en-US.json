@@ -1,5 +1,5 @@
 {
-    "total_count": 2029,
+    "total_count": 2030,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1389,8 +1389,8 @@
             },
             "dub": {
                 "season": 2,
-                "episode": 10,
-                "title": "Something I’ve Been Meaning to Say"
+                "episode": 11,
+                "title": "The Proposal"
             }
         },
         "ao-chan-cant-study": {
@@ -7703,6 +7703,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "I _____ Many Friends"
+            }
+        },
+        "haibaras-teenage-new-game": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Gray Boy's Plan For a Colorful Adolescence"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "haikyu": {
