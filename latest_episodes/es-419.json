@@ -1,5 +1,5 @@
 {
-    "total_count": 1556,
+    "total_count": 1557,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -779,6 +779,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "Quiero que seamos una familia"
+            }
+        },
+        "always-a-catch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El pez que se me escapó está buscando un buen partido"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "alya-sometimes-hides-her-feelings-in-russian": {

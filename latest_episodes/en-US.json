@@ -1,5 +1,5 @@
 {
-    "total_count": 2028,
+    "total_count": 2029,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -966,6 +966,18 @@
                 "season": 1,
                 "episode": 11,
                 "title": "I Want to Be a Family"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "always-a-catch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "How I Searched For A Promising Catch"
             },
             "dub": {
                 "season": 0,
