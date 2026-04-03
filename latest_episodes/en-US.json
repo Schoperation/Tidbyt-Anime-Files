@@ -1,5 +1,5 @@
 {
-    "total_count": 2031,
+    "total_count": 2032,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -1067,6 +1067,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Music At Night Is Lovely, But Maybe Too Much When You're Socially Awkward"
+            }
+        },
+        "an-observation-log-of-my-fiance-who-calls-herself-a-villainess": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "An Observation Log of Meeting a Self-Proclaimed Villainess."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "ancient-girls-frame": {
@@ -22072,13 +22084,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
