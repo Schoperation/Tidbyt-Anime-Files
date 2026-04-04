@@ -1,5 +1,5 @@
 {
-    "total_count": 1562,
+    "total_count": 1563,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9469,6 +9469,18 @@
                 "title": ""
             }
         },
+        "mistress-kanan-is-devilishly-easy": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Kanan es ingenua"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "mitchiri-neko": {
             "sub": {
                 "season": 1,
@@ -14992,8 +15004,8 @@
         "the-dark-history-of-the-reincarnated-villainess": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Dulzura, fortaleza y el personaje que yo misma debo eliminar"
+                "episode": 13,
+                "title": "Yomi, celos y un cumpleaños \u0026 El afiebrado día de Iana y Sol"
             },
             "dub": {
                 "season": 0,
@@ -16960,13 +16972,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {
