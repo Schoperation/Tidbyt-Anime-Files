@@ -1,5 +1,5 @@
 {
-    "total_count": 1563,
+    "total_count": 1564,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3162,6 +3162,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Entre humanos y espíritus"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "daemons-of-the-shadow-realm": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Asa y Yuru"
             },
             "dub": {
                 "season": 0,

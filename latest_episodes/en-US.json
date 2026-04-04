@@ -1,5 +1,5 @@
 {
-    "total_count": 2035,
+    "total_count": 2036,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4211,6 +4211,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "daemons-of-the-shadow-realm": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Asa and Yuru"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Asa and Yuru"
             }
         },
         "dagashi-kashi": {
