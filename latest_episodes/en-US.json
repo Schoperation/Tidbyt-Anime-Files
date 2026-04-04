@@ -1,5 +1,5 @@
 {
-    "total_count": 2033,
+    "total_count": 2034,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16331,6 +16331,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "To the Stage of Light"
+            }
+        },
+        "rilakkuma": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 1"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 1"
             }
         },
         "rin-daughters-of-mnemosyne": {

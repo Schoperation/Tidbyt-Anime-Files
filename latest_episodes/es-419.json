@@ -1,5 +1,5 @@
 {
-    "total_count": 1561,
+    "total_count": 1562,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12263,6 +12263,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "rilakkuma": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             }
         },
         "rinshi-ekodachan": {
