@@ -1,5 +1,5 @@
 {
-    "total_count": 2037,
+    "total_count": 2038,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13885,6 +13885,18 @@
                 "title": ""
             }
         },
+        "needy-girl-overdose": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "She's a Killer Queen"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "negative-positive-angler": {
             "sub": {
                 "season": 1,
@@ -22144,13 +22156,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
