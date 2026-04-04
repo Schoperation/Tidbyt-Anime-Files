@@ -1,5 +1,5 @@
 {
-    "total_count": 2036,
+    "total_count": 2037,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -673,7 +673,7 @@
                 "title": "Future"
             }
         },
-        "agents-of-the-four-seasons": {
+        "agents-of-the-four-seasons-dance-of-spring": {
             "sub": {
                 "season": 1,
                 "episode": 1,
@@ -7161,8 +7161,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 20,
-                "title": "World of Stars"
+                "episode": 21,
+                "title": "End Point and Starting Point"
             }
         },
         "go-for-it-nakamura-kun": {
@@ -10830,6 +10830,18 @@
                 "season": 4,
                 "episode": 75,
                 "title": "Again and Again"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kusunokis-garden-of-gods": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Mountain God Visits the Garden of Gods"
             },
             "dub": {
                 "season": 0,
@@ -22132,13 +22144,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
