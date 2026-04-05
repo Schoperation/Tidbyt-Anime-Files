@@ -1,5 +1,5 @@
 {
-    "total_count": 2038,
+    "total_count": 2039,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6882,6 +6882,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Final Flame: Until We Meet Again"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ghost-concert--missing-songs": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Heartbreaking Goodbye"
             },
             "dub": {
                 "season": 0,

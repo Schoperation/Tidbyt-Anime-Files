@@ -1,5 +1,5 @@
 {
-    "total_count": 1566,
+    "total_count": 1567,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5106,6 +5106,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Estaremos esperando en esa habitación"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "ghost-concert--missing-songs": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Separación de vida y muerte (Parte 1)"
             },
             "dub": {
                 "season": 0,
@@ -10912,8 +10924,8 @@
         "oedo-fire-slayer--the-legend-of-phoenix-": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "El gran incendio de Meiwa"
+                "episode": 12,
+                "title": "Cazafuegos de Oedo"
             },
             "dub": {
                 "season": 0,
