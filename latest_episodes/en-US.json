@@ -1,5 +1,5 @@
 {
-    "total_count": 2039,
+    "total_count": 2040,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -23543,6 +23543,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "witch-hat-atelier": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The School of the Grassland"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The School of the Grassland"
             }
         },
         "witch-hunter-robin": {

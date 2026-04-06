@@ -1,5 +1,5 @@
 {
-    "total_count": 1567,
+    "total_count": 1568,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -18143,6 +18143,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "witch-hat-atelier": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La escuela en la pradera"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La escuela en la pradera"
             }
         },
         "witch-watch": {
