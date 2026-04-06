@@ -1,5 +1,5 @@
 {
-    "total_count": 2041,
+    "total_count": 2042,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11123,6 +11123,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "I'll Definitely Defend It!"
+            }
+        },
+        "liar-game": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Legendary Con Artist"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "liar-liar": {
