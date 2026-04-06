@@ -1,5 +1,5 @@
 {
-    "total_count": 2040,
+    "total_count": 2041,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20737,6 +20737,18 @@
                 "title": ""
             }
         },
+        "the-klutzy-class-monitor-and-the-girl-with-the-short-skirt": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Class Monitor is a Klutz/The School Girl's Friends Get Involved With The Klutz/The Klutzy Class Monitor and the Health Representative"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-last-summoner": {
             "sub": {
                 "season": 1,
@@ -22168,13 +22180,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
