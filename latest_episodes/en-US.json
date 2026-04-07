@@ -1,5 +1,5 @@
 {
-    "total_count": 2047,
+    "total_count": 2048,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13585,6 +13585,18 @@
                 "title": "Connecting Dreams"
             }
         },
+        "my-ribdiculous-reincarnation": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Hero's Rib"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "my-roommate-is-a-cat": {
             "sub": {
                 "season": 1,
@@ -22252,13 +22264,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
