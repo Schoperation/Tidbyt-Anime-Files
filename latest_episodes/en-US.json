@@ -1,5 +1,5 @@
 {
-    "total_count": 2044,
+    "total_count": 2045,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8855,6 +8855,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Beyond the Dream"
+            }
+        },
+        "i-made-friends-with-the-second-prettiest-girl-in-my-class": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Girl Named Asanagi Umi"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "i-may-be-a-guild-receptionist-but-ill-solo-any-boss-to-clock-out-on-time": {
@@ -21760,8 +21772,8 @@
         "there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "I Tried Listening to My Crush's Arranged Marriage Plan"
+                "episode": 13,
+                "title": "I Tried Being in a... with My Crush"
             },
             "dub": {
                 "season": 0,
@@ -22216,13 +22228,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {

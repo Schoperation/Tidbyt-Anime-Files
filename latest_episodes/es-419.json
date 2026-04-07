@@ -1,5 +1,5 @@
 {
-    "total_count": 1572,
+    "total_count": 1573,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6498,6 +6498,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Más allá del sueño"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "i-made-friends-with-the-second-prettiest-girl-in-my-class": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Una chica llamada Umi Asanagi"
             },
             "dub": {
                 "season": 0,
@@ -16684,8 +16696,8 @@
         "there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Episodio 12"
+                "episode": 13,
+                "title": "Intenté que la chica que me gusta y yo fuéramos…"
             },
             "dub": {
                 "season": 0,
@@ -17068,13 +17080,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {
