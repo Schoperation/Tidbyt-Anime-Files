@@ -1,5 +1,5 @@
 {
-    "total_count": 2046,
+    "total_count": 2047,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -15126,6 +15126,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Parasyte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "pardon-the-intrusion-im-home": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Pardon the Intrusion, You're in My Home!?"
             },
             "dub": {
                 "season": 0,

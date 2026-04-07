@@ -1,5 +1,5 @@
 {
-    "total_count": 1574,
+    "total_count": 1575,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11442,6 +11442,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Parásito"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "pardon-the-intrusion-im-home": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "¡Con permiso, ya estoy en casa!"
             },
             "dub": {
                 "season": 0,
