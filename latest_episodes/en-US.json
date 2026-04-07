@@ -1,5 +1,5 @@
 {
-    "total_count": 2042,
+    "total_count": 2044,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5735,6 +5735,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "EUREKA: EUREKA SEVEN HI-EVOLUTION"
+            }
+        },
+        "even-a-replica-can-fall-in-love": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Replica Never Dreams"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "even-given-the-worthless-appraiser-class--im-actually-the-strongest": {
@@ -12198,6 +12210,18 @@
                 "season": 1,
                 "episode": 76,
                 "title": "START ON A JOURNEY, AND LOVE GOES ON.\""
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "marriagetoxin": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Poison Master's Search for a Bride"
             },
             "dub": {
                 "season": 0,

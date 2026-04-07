@@ -1,5 +1,5 @@
 {
-    "total_count": 1570,
+    "total_count": 1572,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4302,6 +4302,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "EUREKA: EUREKA SEVEN HI-EVOLUTION 3"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "even-a-replica-can-fall-in-love": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Una réplica no puede soñar."
             },
             "dub": {
                 "season": 0,
@@ -9126,6 +9138,18 @@
                 "season": 1,
                 "episode": 76,
                 "title": "Partida. El amor prevalecerá"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "marriagetoxin": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "La búsqueda de una esposa del experto del veneno"
             },
             "dub": {
                 "season": 0,
