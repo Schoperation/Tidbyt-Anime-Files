@@ -1,5 +1,5 @@
 {
-    "total_count": 2045,
+    "total_count": 2046,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5658,6 +5658,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Treasure"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "eren-the-southpaw": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 1: The Basquiat of Yokohama"
             },
             "dub": {
                 "season": 0,
@@ -22228,13 +22240,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
