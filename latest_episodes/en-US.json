@@ -1,5 +1,5 @@
 {
-    "total_count": 2048,
+    "total_count": 2049,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6702,6 +6702,18 @@
                 "season": 3,
                 "episode": 113,
                 "title": "The Vision of Youth, Farewell, 999 - Part Two"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "gals-cant-be-kind-to-otaku": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Can a Gal Be Kind to Otaku?"
             },
             "dub": {
                 "season": 0,
@@ -22264,13 +22276,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
