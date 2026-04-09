@@ -1,5 +1,5 @@
 {
-    "total_count": 2049,
+    "total_count": 2050,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21673,6 +21673,18 @@
                 "title": "My Beautiful Lady"
             }
         },
+        "the-warrior-princess-and-the-barbaric-king": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 1"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-water-magician": {
             "sub": {
                 "season": 1,
@@ -22276,13 +22288,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
