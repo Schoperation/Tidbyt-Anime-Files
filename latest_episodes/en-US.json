@@ -1,5 +1,5 @@
 {
-    "total_count": 2052,
+    "total_count": 2053,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13489,6 +13489,18 @@
                 "title": "My Hero Academia"
             }
         },
+        "my-hero-academia-movies-my-hero-academia-heroes-rising": {
+            "sub": {
+                "season": 7,
+                "episode": 1,
+                "title": "My Hero Academia: Heroes Rising"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "my-hero-academia-vigilantes": {
             "sub": {
                 "season": 2,
@@ -22312,13 +22324,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
