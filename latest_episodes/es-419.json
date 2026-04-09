@@ -1,5 +1,5 @@
 {
-    "total_count": 1579,
+    "total_count": 1580,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -222,6 +222,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "¡La alianza de las hermanas! Se abre un nuevo capítulo en Asga"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-hundred-scenes-of-awajima": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Tabata Wakana y Príncipe Takehara / Kinue Takehara y Ryoko Ueda"
             },
             "dub": {
                 "season": 0,
@@ -17152,13 +17164,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {
