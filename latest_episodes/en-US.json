@@ -1,5 +1,5 @@
 {
-    "total_count": 2053,
+    "total_count": 2055,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13494,6 +13494,30 @@
                 "season": 7,
                 "episode": 1,
                 "title": "My Hero Academia: Heroes Rising"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "my-hero-academia-movies-my-hero-academia-two-heroes": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "My Hero Academia: Two Heroes (English Dub)"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "my-hero-academia-movies-my-hero-academia-youre-next": {
+            "sub": {
+                "season": 42,
+                "episode": 1,
+                "title": "My Hero Academia: You're Next"
             },
             "dub": {
                 "season": 0,
