@@ -1,5 +1,5 @@
 {
-    "total_count": 2050,
+    "total_count": 2051,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5211,14 +5211,14 @@
         },
         "dr-stone": {
             "sub": {
-                "season": 100,
+                "season": 6,
                 "episode": 1,
                 "title": "Behind the Scenes of Dr. STONE"
             },
             "dub": {
                 "season": 4,
-                "episode": 24,
-                "title": "Whole New World"
+                "episode": 25,
+                "title": "Future Engine"
             }
         },
         "dragon-ball": {
@@ -10823,6 +10823,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Episode 13"
+            }
+        },
+        "kujima-why-sing-when-you-can-warble": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The First Blin You Make Will Be a Lump"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "kuma-kuma-kuma-bear": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 1578,
+    "total_count": 1579,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3939,7 +3939,7 @@
         },
         "dr-stone": {
             "sub": {
-                "season": 100,
+                "season": 6,
                 "episode": 1,
                 "title": "Dr. STONE  - Documental: Tras las escenas"
             },
@@ -8022,6 +8022,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Episodio 13"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "kujima-why-sing-when-you-can-warble": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El primer blini sale grumoso"
             },
             "dub": {
                 "season": 0,
