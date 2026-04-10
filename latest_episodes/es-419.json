@@ -1,5 +1,5 @@
 {
-    "total_count": 1581,
+    "total_count": 1582,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -2094,6 +2094,18 @@
                 "season": 1,
                 "episode": 293,
                 "title": "Despedida"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "botan-kamiina-fully-blossoms-when-drunk": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,
@@ -17176,13 +17188,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 2056,
+    "total_count": 2057,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2742,6 +2742,18 @@
                 "season": 1,
                 "episode": 293,
                 "title": "Farewell"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "botan-kamiina-fully-blossoms-when-drunk": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Episode 1"
             },
             "dub": {
                 "season": 0,
@@ -22360,13 +22372,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
