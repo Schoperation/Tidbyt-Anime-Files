@@ -1,5 +1,5 @@
 {
-    "total_count": 1580,
+    "total_count": 1581,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13888,13 +13888,13 @@
         "snowball-earth": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "El salvador que no salvó"
+                "episode": 2,
+                "title": "Encuentros"
             },
             "dub": {
                 "season": 1,
-                "episode": 1,
-                "title": "El salvador que no salvó"
+                "episode": 2,
+                "title": "Encuentros"
             }
         },
         "so-im-a-spider-so-what": {
@@ -15270,6 +15270,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "La doncella que quiere rehacer su vida conquista al Emperador Dragón"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-drops-of-god": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El comienzo de toda batalla"
             },
             "dub": {
                 "season": 0,
@@ -17164,13 +17176,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

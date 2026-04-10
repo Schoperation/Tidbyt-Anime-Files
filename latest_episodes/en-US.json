@@ -1,5 +1,5 @@
 {
-    "total_count": 2055,
+    "total_count": 2056,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -18508,13 +18508,13 @@
         "snowball-earth": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "THE SAVIOR WHO COULD NOT BRING SALVATION"
+                "episode": 2,
+                "title": "ENCOUNTERS"
             },
             "dub": {
                 "season": 1,
-                "episode": 1,
-                "title": "THE SAVIOR WHO COULD NOT BRING SALVATION"
+                "episode": 2,
+                "title": "ENCOUNTERS"
             }
         },
         "so-im-a-spider-so-what": {
@@ -20226,6 +20226,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Do-Over Damsel Conquers the Dragon Emperor"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-drops-of-god": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The Beginning of All Battles"
             },
             "dub": {
                 "season": 0,
@@ -22348,13 +22360,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
