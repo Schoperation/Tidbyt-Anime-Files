@@ -1,5 +1,5 @@
 {
-    "total_count": 2058,
+    "total_count": 2059,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20070,6 +20070,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "All's Well That Ends Well"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-classroom-of-a-black-cat-and-a-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Black Cat \u0026 Spica"
             },
             "dub": {
                 "season": 0,

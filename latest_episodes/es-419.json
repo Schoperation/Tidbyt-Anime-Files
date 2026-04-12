@@ -1,5 +1,5 @@
 {
-    "total_count": 1583,
+    "total_count": 1584,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15126,6 +15126,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Bien está lo que bien acaba"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-classroom-of-a-black-cat-and-a-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "El gato negro y Spica"
             },
             "dub": {
                 "season": 0,
