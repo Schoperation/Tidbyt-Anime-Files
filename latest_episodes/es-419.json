@@ -1,5 +1,5 @@
 {
-    "total_count": 1584,
+    "total_count": 1585,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4348,8 +4348,8 @@
         "even-a-replica-can-fall-in-love": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "Una réplica no puede soñar."
+                "episode": 2,
+                "title": "Una réplica se salta las clases."
             },
             "dub": {
                 "season": 0,
@@ -6582,6 +6582,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Sobreviviré a base de pociones!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "i-want-to-end-this-love-game": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mi amiga de la infancia se niega a aceptar la derrota"
             },
             "dub": {
                 "season": 0,
@@ -9232,8 +9244,8 @@
         "marriagetoxin": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "La búsqueda de una esposa del experto del veneno"
+                "episode": 2,
+                "title": "¿Qué es el encanto?"
             },
             "dub": {
                 "season": 0,
@@ -17212,13 +17224,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

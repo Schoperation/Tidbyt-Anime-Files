@@ -1,5 +1,5 @@
 {
-    "total_count": 2059,
+    "total_count": 2060,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5776,8 +5776,8 @@
         "even-a-replica-can-fall-in-love": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "A Replica Never Dreams"
+                "episode": 2,
+                "title": "A Replica Skips School"
             },
             "dub": {
                 "season": 0,
@@ -8941,6 +8941,18 @@
                 "title": "I Shall Survive Using Potions!"
             }
         },
+        "i-want-to-end-this-love-game": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "My Childhood Friend Refuses to Accept Defeat"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "i-want-to-escape-from-princess-lessons": {
             "sub": {
                 "season": 1,
@@ -9509,7 +9521,7 @@
             "sub": {
                 "season": 1,
                 "episode": 12,
-                "title": "Episode 12"
+                "title": "We Cornered Him. And Then..."
             },
             "dub": {
                 "season": 0,
@@ -12304,8 +12316,8 @@
         "marriagetoxin": {
             "sub": {
                 "season": 1,
-                "episode": 1,
-                "title": "The Poison Master's Search for a Bride"
+                "episode": 2,
+                "title": "What Is \"Charm,\" Anyway?"
             },
             "dub": {
                 "season": 0,
@@ -22396,13 +22408,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
