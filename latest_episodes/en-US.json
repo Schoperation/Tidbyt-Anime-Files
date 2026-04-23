@@ -1,5 +1,5 @@
 {
-    "total_count": 2060,
+    "total_count": 2061,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10504,8 +10504,8 @@
         "killed-again-mr-detective": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "Murder at the Crimson Theater"
+                "episode": 4,
+                "title": "The Kowloon Hotel Murderer, Pt. 1"
             },
             "dub": {
                 "season": 0,
@@ -10727,6 +10727,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Okehazama"
+            }
+        },
+        "kodocha": {
+            "sub": {
+                "season": 1,
+                "episode": 51,
+                "title": "Up to Today, and As of Tomorrow"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "koihime-musou": {
