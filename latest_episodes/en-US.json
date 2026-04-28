@@ -1,5 +1,5 @@
 {
-    "total_count": 2061,
+    "total_count": 2062,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5279,6 +5279,18 @@
                 "season": 1,
                 "episode": 64,
                 "title": "Until We Meet Again?"
+            }
+        },
+        "dragon-ball-movies-dragon-ball-z-resurrection-f": {
+            "sub": {
+                "season": 1702,
+                "episode": 1,
+                "title": "Dragon Ball Z: Resurrection 'F'"
+            },
+            "dub": {
+                "season": 1702,
+                "episode": 1,
+                "title": "Dragon Ball Z: Resurrection 'F'"
             }
         },
         "dragon-ball-super": {
@@ -22420,13 +22432,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
