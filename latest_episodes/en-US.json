@@ -1,5 +1,5 @@
 {
-    "total_count": 2063,
+    "total_count": 2064,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -10247,6 +10247,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Letter / First Day of School / Seating Arrangement"
+            }
+        },
+        "karna-the-guardian": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Slightly Unusual Hero's Story"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "A Slightly Unusual Hero's Story"
             }
         },
         "karneval": {
@@ -22444,13 +22456,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
