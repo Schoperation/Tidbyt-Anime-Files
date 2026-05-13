@@ -1,5 +1,5 @@
 {
-    "total_count": 2065,
+    "total_count": 2066,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5279,6 +5279,18 @@
                 "season": 1,
                 "episode": 64,
                 "title": "Until We Meet Again?"
+            }
+        },
+        "dragon-ball-movies-dragon-ball-z-battle-of-gods": {
+            "sub": {
+                "season": 1602,
+                "episode": 1,
+                "title": "Dragon Ball Z: Battle of Gods"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "dragon-ball-movies-dragon-ball-z-resurrection-f": {
@@ -19407,9 +19419,9 @@
         },
         "sword-art-online-sword-art-online-the-movie--ordinal-scale--sub": {
             "sub": {
-                "season": 30,
+                "season": 1,
                 "episode": 1,
-                "title": "Sword Art Online the Movie -Ordinal Scale- (Dub)"
+                "title": "Sword Art Online the Movie -Ordinal Scale- (Sub)"
             },
             "dub": {
                 "season": 0,
