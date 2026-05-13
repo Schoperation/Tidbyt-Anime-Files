@@ -1,5 +1,5 @@
 {
-    "total_count": 1587,
+    "total_count": 1588,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5334,6 +5334,18 @@
                 "season": 1,
                 "episode": 6,
                 "title": "Episodio 06"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "given-on-the-other-hand": {
+            "sub": {
+                "season": 4,
+                "episode": 1,
+                "title": "on the other hand"
             },
             "dub": {
                 "season": 0,

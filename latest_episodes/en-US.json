@@ -1,5 +1,5 @@
 {
-    "total_count": 2066,
+    "total_count": 2067,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7194,6 +7194,18 @@
                 "season": 1,
                 "episode": 6,
                 "title": "Untitled"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "given-on-the-other-hand": {
+            "sub": {
+                "season": 4,
+                "episode": 1,
+                "title": "on the other hand"
             },
             "dub": {
                 "season": 0,
