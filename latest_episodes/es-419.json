@@ -1,5 +1,5 @@
 {
-    "total_count": 1588,
+    "total_count": 1589,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5279,6 +5279,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Su decisión y..."
+            }
+        },
+        "girls-band-cry": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "El rock and roll no se detendrá"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "girls-bravo": {
@@ -17260,13 +17272,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {
