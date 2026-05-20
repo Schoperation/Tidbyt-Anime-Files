@@ -1,5 +1,5 @@
 {
-    "total_count": 2067,
+    "total_count": 2068,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -22492,13 +22492,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -23315,6 +23315,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "White Future"
+            }
+        },
+        "versatile-mage": {
+            "sub": {
+                "season": 8,
+                "episode": 1,
+                "title": "Bad News from Tin City"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord": {

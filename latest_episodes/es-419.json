@@ -1,5 +1,5 @@
 {
-    "total_count": 1589,
+    "total_count": 1590,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -17272,13 +17272,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -17946,6 +17946,18 @@
                 "season": 1,
                 "episode": 6,
                 "title": "TV Episode 06"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "versatile-mage": {
+            "sub": {
+                "season": 8,
+                "episode": 1,
+                "title": "Episodio 1"
             },
             "dub": {
                 "season": 0,
