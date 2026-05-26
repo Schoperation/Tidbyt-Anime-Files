@@ -5331,14 +5331,14 @@
         },
         "given": {
             "sub": {
-                "season": 1,
-                "episode": 11,
-                "title": "Canción 2"
+                "season": 5,
+                "episode": 1,
+                "title": "Given: To the Sea"
             },
             "dub": {
                 "season": 1,
                 "episode": 11,
-                "title": "Canción 2"
+                "title": "Song2"
             }
         },
         "given-drama": {
@@ -17272,13 +17272,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {
