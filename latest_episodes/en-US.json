@@ -8605,18 +8605,6 @@
                 "title": "The Dream Continues"
             }
         },
-        "hitori-no-shita---the-outcast": {
-            "sub": {
-                "season": 8,
-                "episode": 1,
-                "title": "Hitori No Shita: Raten Taishou Arc Pre-Broadcast Special"
-            },
-            "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
-            }
-        },
         "hitoribocchi-no-marumaruseikatsu": {
             "sub": {
                 "season": 1,
@@ -21390,6 +21378,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Quarter Thumbs-Up"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-outcast": {
+            "sub": {
+                "season": 8,
+                "episode": 1,
+                "title": "Hitori No Shita: Raten Taishou Arc Pre-Broadcast Special"
             },
             "dub": {
                 "season": 0,

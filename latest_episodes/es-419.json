@@ -6277,18 +6277,6 @@
                 "title": ""
             }
         },
-        "hitori-no-shita---the-outcast": {
-            "sub": {
-                "season": 8,
-                "episode": 1,
-                "title": "Episodio preliminar de la segunda temporada"
-            },
-            "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
-            }
-        },
         "hitoribocchi-no-marumaruseikatsu": {
             "sub": {
                 "season": 1,
@@ -16290,6 +16278,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Cuarto de pulgar alzado"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-outcast": {
+            "sub": {
+                "season": 8,
+                "episode": 1,
+                "title": "Episodio preliminar de la segunda temporada"
             },
             "dub": {
                 "season": 0,
