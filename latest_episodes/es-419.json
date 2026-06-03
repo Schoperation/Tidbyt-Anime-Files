@@ -1,5 +1,5 @@
 {
-    "total_count": 1590,
+    "total_count": 1591,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13926,6 +13926,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Sniff!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "smoking-behind-the-supermarket-with-you": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Episodio 12"
             },
             "dub": {
                 "season": 0,
