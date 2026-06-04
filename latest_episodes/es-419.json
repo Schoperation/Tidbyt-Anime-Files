@@ -1,5 +1,5 @@
 {
-    "total_count": 1601,
+    "total_count": 1604,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4021,6 +4021,18 @@
                 "title": ""
             }
         },
+        "dragon-ball-super-super-hero": {
+            "sub": {
+                "season": 2103,
+                "episode": 1,
+                "title": "Dragon Ball Super: Super Hero"
+            },
+            "dub": {
+                "season": 2103,
+                "episode": 1,
+                "title": "Dragon Ball Super: Super Hero"
+            }
+        },
         "dragon-ball-z": {
             "sub": {
                 "season": 1,
@@ -4050,6 +4062,18 @@
                 "season": 901,
                 "episode": 1,
                 "title": "Dragon Ball Z: Bojack Unbound"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-broly-second-coming": {
+            "sub": {
+                "season": 1001,
+                "episode": 1,
+                "title": "Dragon Ball Z: Broly: Second Coming"
             },
             "dub": {
                 "season": 0,
@@ -4134,6 +4158,18 @@
                 "season": 302,
                 "episode": 1,
                 "title": "Dragon Ball Z: La batalla decisiva por la Tierra"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-the-worlds-strongest": {
+            "sub": {
+                "season": 202,
+                "episode": 1,
+                "title": "Dragon Ball Z: El más fuerte del mundo"
             },
             "dub": {
                 "season": 0,
@@ -17404,13 +17440,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

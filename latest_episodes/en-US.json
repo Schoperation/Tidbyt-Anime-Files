@@ -1,5 +1,5 @@
 {
-    "total_count": 2080,
+    "total_count": 2083,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5329,6 +5329,18 @@
                 "title": "Dragon Ball Super: Broly"
             }
         },
+        "dragon-ball-super-super-hero": {
+            "sub": {
+                "season": 2115,
+                "episode": 1,
+                "title": "Dragon Ball Super: Super Hero"
+            },
+            "dub": {
+                "season": 2115,
+                "episode": 1,
+                "title": "Dragon Ball Super: Super Hero"
+            }
+        },
         "dragon-ball-z": {
             "sub": {
                 "season": 1,
@@ -5358,6 +5370,18 @@
                 "season": 901,
                 "episode": 1,
                 "title": "Dragon Ball Z: Bojack Unbound"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-broly-second-coming": {
+            "sub": {
+                "season": 1001,
+                "episode": 1,
+                "title": "Dragon Ball Z: Broly: Second Coming"
             },
             "dub": {
                 "season": 0,
@@ -5442,6 +5466,18 @@
                 "season": 302,
                 "episode": 1,
                 "title": "Dragon Ball Z: The Tree of Might"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-the-worlds-strongest": {
+            "sub": {
+                "season": 202,
+                "episode": 1,
+                "title": "Dragon Ball Z: The World's Strongest"
             },
             "dub": {
                 "season": 0,
@@ -22636,13 +22672,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
