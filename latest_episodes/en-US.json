@@ -1,5 +1,5 @@
 {
-    "total_count": 2069,
+    "total_count": 2080,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5317,6 +5317,18 @@
                 "title": "The Miraculous Conclusion! Farewell, Goku! Until We Meet Again!!"
             }
         },
+        "dragon-ball-super-broly": {
+            "sub": {
+                "season": 2003,
+                "episode": 1,
+                "title": "Dragon Ball Super: Broly"
+            },
+            "dub": {
+                "season": 2003,
+                "episode": 1,
+                "title": "Dragon Ball Super: Broly"
+            }
+        },
         "dragon-ball-z": {
             "sub": {
                 "season": 1,
@@ -5327,6 +5339,126 @@
                 "season": 1,
                 "episode": 291,
                 "title": "Goku's Next Journey"
+            }
+        },
+        "dragon-ball-z-bio-broly": {
+            "sub": {
+                "season": 1102,
+                "episode": 1,
+                "title": "Dragon Ball Z: Bio-Broly"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-bojack-unbound": {
+            "sub": {
+                "season": 901,
+                "episode": 1,
+                "title": "Dragon Ball Z: Bojack Unbound"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-broly-the-legendary-super-saiyan": {
+            "sub": {
+                "season": 802,
+                "episode": 1,
+                "title": "Dragon Ball Z: Broly, the Legendary Super Saiyan"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-coolers-revenge": {
+            "sub": {
+                "season": 502,
+                "episode": 1,
+                "title": "Dragon Ball Z: Cooler's Revenge"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-fusion-reborn": {
+            "sub": {
+                "season": 1202,
+                "episode": 1,
+                "title": "Dragon Ball Z: Fusion Reborn"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-return-of-cooler": {
+            "sub": {
+                "season": 602,
+                "episode": 1,
+                "title": "Dragon Ball Z: Return of Cooler"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-super-android-13": {
+            "sub": {
+                "season": 702,
+                "episode": 1,
+                "title": "Dragon Ball Z: Super Android 13"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-the-dead-zone": {
+            "sub": {
+                "season": 102,
+                "episode": 1,
+                "title": "Dragon Ball Z: The Dead Zone"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-the-tree-of-might": {
+            "sub": {
+                "season": 302,
+                "episode": 1,
+                "title": "Dragon Ball Z: The Tree of Might"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dragon-ball-z-wrath-of-the-dragon": {
+            "sub": {
+                "season": 1302,
+                "episode": 1,
+                "title": "Dragon Ball Z: Wrath of the Dragon"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "dragon-collection": {
@@ -22504,13 +22636,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
