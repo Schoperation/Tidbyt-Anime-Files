@@ -1,5 +1,5 @@
 {
-    "total_count": 2083,
+    "total_count": 2124,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -99,12 +99,12 @@
         },
         "86-eighty-six": {
             "sub": {
-                "season": 2,
+                "season": 1,
                 "episode": 23,
                 "title": "Handler One"
             },
             "dub": {
-                "season": 2,
+                "season": 1,
                 "episode": 23,
                 "title": "Handler One"
             }
@@ -292,8 +292,8 @@
         "a-hundred-scenes-of-awajima": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 12,
+                "title": "A Hundred Scenes of Awajima"
             },
             "dub": {
                 "season": 0,
@@ -311,6 +311,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Bye-Bye! See You Next Time!"
+            }
+        },
+        "a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Taking Back the Fortress"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-lull-in-the-sea-nagi-asu-nagi-no-asukara": {
@@ -556,8 +568,8 @@
         "ace-of-the-diamond": {
             "sub": {
                 "season": 4,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 13,
+                "title": "An Endless Road"
             },
             "dub": {
                 "season": 0,
@@ -688,13 +700,13 @@
         "agents-of-the-four-seasons-dance-of-spring": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Episode 12"
+                "episode": 14,
+                "title": "Spring Flowers Bloom in Winter"
             },
             "dub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Afterimage"
+                "episode": 14,
+                "title": "Spring Flowers Bloom in Winter"
             }
         },
         "ah-my-buddha": {
@@ -865,6 +877,18 @@
                 "title": ""
             }
         },
+        "akame-ga-kill": {
+            "sub": {
+                "season": 1,
+                "episode": 24,
+                "title": "Akame ga Kill!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "akashic-records-of-bastard-magic-instructor": {
             "sub": {
                 "season": 1,
@@ -988,8 +1012,8 @@
         "always-a-catch": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "The One That Got Away Gets Dragged Into Romantic Trouble"
+                "episode": 12,
+                "title": "How I Punched My Way into Marrying a Prince"
             },
             "dub": {
                 "season": 0,
@@ -1084,13 +1108,13 @@
         "an-observation-log-of-my-fiance-who-calls-herself-a-villainess": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 12,
+                "title": "An Observation Log of a Self-Proclaimed Villainess as a Wife."
             },
             "dub": {
                 "season": 1,
-                "episode": 9,
-                "title": "Observation Log of a Self-Proclaimed Villainess and a Doll."
+                "episode": 12,
+                "title": "An Observation Log of a Self-Proclaimed Villainess as a Wife."
             }
         },
         "ancient-girls-frame": {
@@ -1227,9 +1251,9 @@
         },
         "anime-azurlane-slow-ahead": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Friends Are Our Most Important Treasure"
+                "season": 2,
+                "episode": 7,
+                "title": "The Godlike Way to Spend a Holiday."
             },
             "dub": {
                 "season": 0,
@@ -1684,13 +1708,13 @@
         "ascendance-of-a-bookworm": {
             "sub": {
                 "season": 6,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 18,
+                "title": "Damuel's Proposal"
             },
             "dub": {
                 "season": 6,
-                "episode": 8,
-                "title": "Ferdinand's Task"
+                "episode": 16,
+                "title": "New Dress and Printing Press"
             }
         },
         "asobi-asobase---workshop-of-fun--": {
@@ -1983,9 +2007,9 @@
         },
         "bananya": {
             "sub": {
-                "season": 3,
-                "episode": 11,
-                "title": "The Great Warring States Battle, Nya!"
+                "season": 4,
+                "episode": 1,
+                "title": "Bananya At-Home Party"
             },
             "dub": {
                 "season": 0,
@@ -1998,6 +2022,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "The Only One I Can Trust Is Myself"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "bang-dream-yumemita": {
+            "sub": {
+                "season": 1,
+                "episode": 9,
+                "title": "Disbandment"
             },
             "dub": {
                 "season": 0,
@@ -2185,6 +2221,18 @@
                 "title": "Wishing to become human someday"
             }
         },
+        "ben-to": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Domestic Eel Bento 790kcal"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Domestic Eel Bento 790kcal"
+            }
+        },
         "berserk": {
             "sub": {
                 "season": 2,
@@ -2343,7 +2391,7 @@
         },
         "black-clover": {
             "sub": {
-                "season": 100,
+                "season": 6,
                 "episode": 1,
                 "title": "The All Magic Knights Thanksgiving Festa"
             },
@@ -2387,6 +2435,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Another Reincarnated"
+            }
+        },
+        "black-torch": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "3 ON THREE"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 7,
+                "title": "3 ON THREE"
             }
         },
         "blackfox": {
@@ -2752,8 +2812,8 @@
         "botan-kamiina-fully-blossoms-when-drunk": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 12,
+                "title": "Episode 12"
             },
             "dub": {
                 "season": 0,
@@ -2907,14 +2967,14 @@
         },
         "bungo-stray-dogs-wan": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Swap Theater / My Treasure / Nakajima Atsushi's Plan"
+                "season": 2,
+                "episode": 7,
+                "title": "Strength is Everything! Survive the Night! / Sigma's Secret"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Swap Theater / My Treasure / Nakajima Atsushi's Plan"
+                "season": 2,
+                "episode": 5,
+                "title": "Bungo Stray Dogs Preschool"
             }
         },
         "bureau-of-paranormal-investigation": {
@@ -3796,13 +3856,13 @@
         "classroom-of-the-elite": {
             "sub": {
                 "season": 4,
-                "episode": 14,
-                "title": "The Extraordinary Prodigy"
+                "episode": 16,
+                "title": "For a Desired Future"
             },
             "dub": {
                 "season": 4,
-                "episode": 12,
-                "title": "After Vengeance"
+                "episode": 16,
+                "title": "For a Desired Future"
             }
         },
         "claymore": {
@@ -3831,14 +3891,14 @@
         },
         "clevatess": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Return of the King"
+                "season": 2,
+                "episode": 6,
+                "title": "Whispering Voice"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Return of the King"
+                "season": 2,
+                "episode": 6,
+                "title": "Whispering Voice"
             }
         },
         "clockwork-planet": {
@@ -4081,6 +4141,18 @@
                 "title": ""
             }
         },
+        "crowned-in-a-hundred-days": {
+            "sub": {
+                "season": 1,
+                "episode": 16,
+                "title": "Episode 16"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "crunchycast": {
             "sub": {
                 "season": 0,
@@ -4240,13 +4312,13 @@
         "daemons-of-the-shadow-realm": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 19,
+                "title": "Sword and Bow"
             },
             "dub": {
                 "season": 1,
-                "episode": 9,
-                "title": "Embrace and Whisper"
+                "episode": 17,
+                "title": "Crybaby and Naughty Child"
             }
         },
         "dagashi-kashi": {
@@ -4415,6 +4487,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Goodbye, Despair High School"
+            }
+        },
+        "dara-san-of-the-reiwa-era": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "A Picture Show of Bygone Days"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "dark-moon-the-blood-altar": {
@@ -4816,8 +4900,8 @@
         "detective-conan": {
             "sub": {
                 "season": 3,
-                "episode": 1203,
-                "title": "Sonoko and Conan's Spooky Story Night"
+                "episode": 1209,
+                "title": "Who's the Target?"
             },
             "dub": {
                 "season": 0,
@@ -4828,13 +4912,13 @@
         "detective-conan-episode-selection": {
             "sub": {
                 "season": 3,
-                "episode": 12,
-                "title": "The Remains of a Voiceless Testimony (Part 2)"
+                "episode": 25,
+                "title": "An Unspoken Route (Part 2)"
             },
             "dub": {
-                "season": 2,
-                "episode": 19,
-                "title": "The Detectives Gathered Together! Shinichi Kudo vs. Kid the Phantom Thief"
+                "season": 3,
+                "episode": 25,
+                "title": "An Unspoken Route (Part 2)"
             }
         },
         "detectives-these-days-are-crazy": {
@@ -4948,13 +5032,13 @@
         "digimon-beatbreak": {
             "sub": {
                 "season": 1,
-                "episode": 35,
-                "title": "Episode 35"
+                "episode": 43,
+                "title": "The White Digimon"
             },
             "dub": {
                 "season": 1,
-                "episode": 25,
-                "title": "Half-baked Hero"
+                "episode": 35,
+                "title": "Rampaging Instinct"
             }
         },
         "digimon-ghost-game": {
@@ -5241,8 +5325,8 @@
             },
             "dub": {
                 "season": 5,
-                "episode": 35,
-                "title": "Episode 35"
+                "episode": 37,
+                "title": "Ushers of an Exhilarating Future"
             }
         },
         "dragon-ball": {
@@ -5593,6 +5677,18 @@
                 "title": ""
             }
         },
+        "draw-this-then-die": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Comitia ~ Let's Make Manga That's Even More Interesting!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "dream-festival": {
             "sub": {
                 "season": 2,
@@ -5884,8 +5980,8 @@
         "eren-the-southpaw": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10: My Life Never Started After All"
+                "episode": 13,
+                "title": "Episode 13: To All The People Who Couldn't Become Geniuses"
             },
             "dub": {
                 "season": 0,
@@ -5968,8 +6064,8 @@
         "even-a-replica-can-fall-in-love": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "A Replica Stumbles"
+                "episode": 13,
+                "title": "And Then, the Replica"
             },
             "dub": {
                 "season": 0,
@@ -6637,16 +6733,16 @@
                 "title": "A Beautiful Sight"
             }
         },
-        "fruits-basket": {
+        "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage": {
             "sub": {
-                "season": 3,
-                "episode": 13,
-                "title": "See You Again Soon"
+                "season": 1,
+                "episode": 8,
+                "title": "No Escape"
             },
             "dub": {
-                "season": 3,
-                "episode": 13,
-                "title": "See You Again Soon"
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "fruits-basket-2001": {
@@ -6659,6 +6755,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Episode 26"
+            }
+        },
+        "fruits-basket-2019": {
+            "sub": {
+                "season": 3,
+                "episode": 13,
+                "title": "See You Again Soon"
+            },
+            "dub": {
+                "season": 3,
+                "episode": 13,
+                "title": "See You Again Soon"
             }
         },
         "full-dive-this-ultimate-next-gen-full-dive-rpg-is-even-shittier-than-real-life": {
@@ -6725,12 +6833,12 @@
             "sub": {
                 "season": 1,
                 "episode": 64,
-                "title": "Journey’s End"
+                "title": "Journey's End"
             },
             "dub": {
                 "season": 1,
                 "episode": 64,
-                "title": "Journey’s End"
+                "title": "Journey's End"
             }
         },
         "fushigi-yugi": {
@@ -6849,8 +6957,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 23,
-                "title": "The Man Who Will Be Stronger"
+                "episode": 24,
+                "title": "Field Trip"
             }
         },
         "gad-guard": {
@@ -6940,8 +7048,8 @@
         "gals-cant-be-kind-to-otaku": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "The School Festival!!"
+                "episode": 12,
+                "title": "Oh, Come On, Otaku-kun"
             },
             "dub": {
                 "season": 0,
@@ -7141,6 +7249,18 @@
                 "title": ""
             }
         },
+        "genshin-impact-v70-featured-videos": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Character Teaser - \"Odette: An Illusion of Gentle Snow\" | Genshin Impact"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Character Teaser - \"Odette: An Illusion of Gentle Snow\" | Genshin Impact"
+            }
+        },
         "ghastly-prince-enma-burning-up": {
             "sub": {
                 "season": 1,
@@ -7156,8 +7276,8 @@
         "ghost-concert--missing-songs": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 12,
+                "title": "Each Blossoms in Their Own Way"
             },
             "dub": {
                 "season": 0,
@@ -7347,9 +7467,9 @@
         },
         "given": {
             "sub": {
-                "season": 5,
+                "season": 6,
                 "episode": 1,
-                "title": "given The Movie: To the Sea"
+                "title": "Moments in Life"
             },
             "dub": {
                 "season": 5,
@@ -7456,13 +7576,13 @@
         "go-for-it-nakamura-kun": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "You and I Are \"Friends\"!!"
+                "episode": 13,
+                "title": "Even Then, I Love You!!"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "You and I Are \"Friends\"!!"
+                "episode": 13,
+                "title": "Even Then, I Love You!!"
             }
         },
         "go-lion": {
@@ -7609,6 +7729,18 @@
                 "title": ""
             }
         },
+        "goodbye-lara": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Meet Me at Biwako Terrace Saturday at 10"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Meet Me at Biwako Terrace Saturday at 10"
+            }
+        },
         "gosick": {
             "sub": {
                 "season": 1,
@@ -7647,9 +7779,9 @@
         },
         "grand-blue-dreaming": {
             "sub": {
-                "season": 2,
-                "episode": 12,
-                "title": "Now We're Even"
+                "season": 3,
+                "episode": 6,
+                "title": "Assist"
             },
             "dub": {
                 "season": 0,
@@ -7787,6 +7919,18 @@
                 "season": 1,
                 "episode": 9,
                 "title": "A Suspicious Amount of Candy"
+            }
+        },
+        "grow-up-show": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "I Don't Get The Circus"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 7,
+                "title": "I Don't Get The Circus"
             }
         },
         "gto---the-animation": {
@@ -8020,8 +8164,8 @@
         "haibaras-teenage-new-game": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 12,
+                "title": "To the Stars"
             },
             "dub": {
                 "season": 0,
@@ -8139,14 +8283,14 @@
         },
         "hana-kimi": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "I Was the Same"
+                "season": 2,
+                "episode": 8,
+                "title": "Teacher's Boyfriend?"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "I Was the Same"
+                "season": 2,
+                "episode": 6,
+                "title": "It's Fine, Right?"
             }
         },
         "hana-yori-dango-boys-over-flowers": {
@@ -8171,6 +8315,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "hanaori-san-still-wants-to-fight-in-the-next-life": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Pulp Fiction"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Pulp Fiction"
             }
         },
         "hanasakeru-seishonen": {
@@ -8555,6 +8711,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Age"
+            }
+        },
+        "heroine-saint-no-im-an-all-works-maid-and-proud-of-it": {
+            "sub": {
+                "season": 1,
+                "episode": 8,
+                "title": "Episode 8: A New Encounter at the Royal Academy"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "heroines-run-the-show": {
@@ -9061,6 +9229,18 @@
                 "title": ""
             }
         },
+        "i-became-a-legend-after-my-10-year-long-last-stand": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "The Trespasser and the Secret Passageway"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "i-cant-understand-what-my-husband-is-saying": {
             "sub": {
                 "season": 2,
@@ -9112,8 +9292,8 @@
         "i-made-friends-with-the-second-prettiest-girl-in-my-class": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "One Last Tantrum"
+                "episode": 12,
+                "title": "To a New Season"
             },
             "dub": {
                 "season": 0,
@@ -9148,13 +9328,13 @@
         "i-want-to-end-this-love-game": {
             "sub": {
                 "season": 1,
-                "episode": 9,
-                "title": "My Childhood Friend and the Student Council President"
+                "episode": 12,
+                "title": "My Childhood Friend is Girly"
             },
             "dub": {
                 "season": 1,
-                "episode": 7,
-                "title": "My Childhood Friend Wants to Win"
+                "episode": 12,
+                "title": "My Childhood Friend is Girly"
             }
         },
         "i-want-to-escape-from-princess-lessons": {
@@ -9162,6 +9342,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Episode 12"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "i-want-to-love-you-till-your-dying-day": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Welcome Home"
             },
             "dub": {
                 "season": 0,
@@ -9661,6 +9853,18 @@
                 "title": ""
             }
         },
+        "iron-wok-jan": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Toss That Wok!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon": {
             "sub": {
                 "season": 3,
@@ -9729,8 +9933,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 7,
-                "title": "I Went on a Temporary Assignment"
+                "episode": 13,
+                "title": "I Let My Thoughts Wander"
             }
         },
         "isekai-quartet": {
@@ -9827,6 +10031,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Izetta"
+            }
+        },
+        "jaadugar-a-witch-in-mongolia": {
+            "sub": {
+                "season": 1,
+                "episode": 8,
+                "title": "Great Khatun Boraqchin"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 6,
+                "title": "The Mergen People"
             }
         },
         "jack-of-all-trades-party-of-none": {
@@ -10213,6 +10429,18 @@
                 "title": ""
             }
         },
+        "kaiju-girl-caramelise": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "All Eyes on Arata"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 5,
+                "title": "A Gyaru and Lipstick"
+            }
+        },
         "kaiju-girls": {
             "sub": {
                 "season": 2,
@@ -10347,9 +10575,9 @@
         },
         "kamisama-kiss": {
             "sub": {
-                "season": 2,
-                "episode": 12,
-                "title": "The God Receives a Marriage Proposal"
+                "season": 3,
+                "episode": 5,
+                "title": "The God Brings Them Back"
             },
             "dub": {
                 "season": 2,
@@ -10432,13 +10660,13 @@
         "karna-the-guardian": {
             "sub": {
                 "season": 1,
-                "episode": 6,
-                "title": "Episode 6"
+                "episode": 13,
+                "title": "Final Battle Pt. 2"
             },
             "dub": {
                 "season": 1,
-                "episode": 6,
-                "title": "Episode 6"
+                "episode": 13,
+                "title": "Final Battle Pt. 2"
             }
         },
         "karneval": {
@@ -10696,13 +10924,13 @@
         "kill-blue": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 12,
+                "title": "Life Paths"
             },
             "dub": {
                 "season": 1,
-                "episode": 7,
-                "title": "Doki-Doki Double Date"
+                "episode": 12,
+                "title": "Life Paths"
             }
         },
         "kill-la-kill": {
@@ -10720,8 +10948,8 @@
         "killed-again-mr-detective": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "The Serial Killings on Gallery Island, Pt. 1"
+                "episode": 12,
+                "title": "The Destruction of Gallery Island"
             },
             "dub": {
                 "season": 0,
@@ -11104,8 +11332,8 @@
         "kujima-why-sing-when-you-can-warble": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 12,
+                "title": "Out of Sight, Closer to the Heart"
             },
             "dub": {
                 "season": 0,
@@ -11188,8 +11416,8 @@
         "kusunokis-garden-of-gods": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 12,
+                "title": "Kusunoki's Garden of Gods"
             },
             "dub": {
                 "season": 0,
@@ -11413,6 +11641,18 @@
                 "title": "I Want to Have a Big Laugh at the End"
             }
         },
+        "lets-go-kaikigumi": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Mystery 7"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "lets-go-karaoke": {
             "sub": {
                 "season": 1,
@@ -11464,13 +11704,13 @@
         "liar-game": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 19,
+                "title": "Solidarity"
             },
             "dub": {
                 "season": 1,
-                "episode": 9,
-                "title": "Light and Darkness"
+                "episode": 17,
+                "title": "Tip-Off"
             }
         },
         "liar-liar": {
@@ -11559,9 +11799,9 @@
         },
         "link-click": {
             "sub": {
-                "season": 4,
-                "episode": 6,
-                "title": "Puzzle"
+                "season": 5,
+                "episode": 2,
+                "title": "The Caged Beast"
             },
             "dub": {
                 "season": 4,
@@ -11655,9 +11895,9 @@
         },
         "lord-of-mysteries": {
             "sub": {
-                "season": 3,
-                "episode": 9,
-                "title": "Klein's Nightmare"
+                "season": 4,
+                "episode": 3,
+                "title": "Lord of Mysteries Special: The Marked Hunt Part 2"
             },
             "dub": {
                 "season": 1,
@@ -11879,6 +12119,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Right, Let's All Die! x I Finally Understand"
+            }
+        },
+        "love-unseen-beneath-the-clear-night-sky": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "The Empty Terrace Seat"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "lovely-complex": {
@@ -12186,6 +12438,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "What You Like, as Much as You Like"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Jurisdiction #4's Subway Running Extermination Battle"
             },
             "dub": {
                 "season": 0,
@@ -12544,13 +12808,13 @@
         "marriagetoxin": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Good-for-Nothing"
+                "episode": 13,
+                "title": "Thanks, Man"
             },
             "dub": {
                 "season": 1,
-                "episode": 8,
-                "title": "The Hit Man Hunter"
+                "episode": 13,
+                "title": "Thanks, Man"
             }
         },
         "mars-red": {
@@ -12642,6 +12906,18 @@
                 "season": 1,
                 "episode": 28,
                 "title": "Knees \u0026 Roboco"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mebius-dust": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Shin-Shin-Koiwa"
             },
             "dub": {
                 "season": 0,
@@ -13048,13 +13324,13 @@
         "mistress-kanan-is-devilishly-easy": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 12,
+                "title": "Kanan and Kyougi's Trial of Love"
             },
             "dub": {
                 "season": 1,
-                "episode": 9,
-                "title": "Lilim's Test of Defeat"
+                "episode": 12,
+                "title": "Kanan and Kyougi's Trial of Love"
             }
         },
         "mitchiri-neko": {
@@ -13611,14 +13887,14 @@
         },
         "mushoku-tensei-jobless-reincarnation": {
             "sub": {
-                "season": 2,
-                "episode": 24,
-                "title": "Succession"
+                "season": 3,
+                "episode": 8,
+                "title": "The Flying Fortress"
             },
             "dub": {
-                "season": 2,
-                "episode": 24,
-                "title": "Succession"
+                "season": 3,
+                "episode": 6,
+                "title": "Another Domestic Disaster?"
             }
         },
         "music-girls": {
@@ -13743,14 +14019,14 @@
         },
         "my-hero-academia": {
             "sub": {
-                "season": 902,
-                "episode": 12,
-                "title": "More"
+                "season": 10,
+                "episode": 1,
+                "title": "My Hero Academia: I am a hero too"
             },
             "dub": {
-                "season": 902,
-                "episode": 12,
-                "title": "More"
+                "season": 10,
+                "episode": 1,
+                "title": "My Hero Academia: I am a hero too"
             }
         },
         "my-hero-academia-heroes-rising": {
@@ -13924,8 +14200,8 @@
         "my-ribdiculous-reincarnation": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "A Boomerang that Didn't Come Back / The Explosion and Smoke That Appear When the Hero Does a Cool Pose"
+                "episode": 12,
+                "title": "Hero Who Saves the World"
             },
             "dub": {
                 "season": 0,
@@ -14308,13 +14584,13 @@
         "needy-girl-overdose": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 13,
+                "title": "EZ DO DANCE"
             },
             "dub": {
                 "season": 1,
-                "episode": 7,
-                "title": "Slip Inside This House"
+                "episode": 13,
+                "title": "EZ DO DANCE"
             }
         },
         "negative-positive-angler": {
@@ -14893,6 +15169,18 @@
                 "title": ""
             }
         },
+        "oh-boy-was-i-wrong-about-her": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "What about Your Camouflage!?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "oh-edo-rocket": {
             "sub": {
                 "season": 1,
@@ -14991,9 +15279,9 @@
         },
         "one-piece": {
             "sub": {
-                "season": 23,
-                "episode": 1166,
-                "title": "Episode 1166"
+                "season": 24,
+                "episode": 1174,
+                "title": "Save the Children! The Elbaph Warriors Rise Up"
             },
             "dub": {
                 "season": 22,
@@ -15484,8 +15772,8 @@
         "pardon-the-intrusion-im-home": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "The Pathetic Puppy Plan?!"
+                "episode": 12,
+                "title": "Pardon the Intrusion Once More!?"
             },
             "dub": {
                 "season": 0,
@@ -15822,6 +16110,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Cool and Awkward Guys"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "please-excuse-my-younger-brothers": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "My Younger Brother Is a Prince?"
             },
             "dub": {
                 "season": 0,
@@ -16516,13 +16816,13 @@
         "reborn-as-a-vending-machine-i-now-wander-the-dungeon": {
             "sub": {
                 "season": 3,
-                "episode": 10,
-                "title": "I Am a Field without Equal"
+                "episode": 12,
+                "title": "Dreamworld"
             },
             "dub": {
                 "season": 3,
-                "episode": 9,
-                "title": "The Thumb General"
+                "episode": 12,
+                "title": "Dreamworld"
             }
         },
         "reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire": {
@@ -16530,6 +16830,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Clash! Hero-King vs. King of Rainbows"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "recommendations-from-iwamoto-senpai": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Echoes of Destruction"
             },
             "dub": {
                 "season": 0,
@@ -16607,6 +16919,18 @@
                 "season": 1,
                 "episode": 23,
                 "title": "Dead Girls"
+            }
+        },
+        "red-river": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "The One I Can't Love"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "regalia-the-three-sacred-stars": {
@@ -16696,13 +17020,13 @@
         "rent-a-girlfriend": {
             "sub": {
                 "season": 5,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 12,
+                "title": "Loneliness and Girlfriend"
             },
             "dub": {
                 "season": 5,
-                "episode": 8,
-                "title": "Investigation and Girlfriend"
+                "episode": 12,
+                "title": "Loneliness and Girlfriend"
             }
         },
         "requiem-of-the-rose-king": {
@@ -16780,13 +17104,13 @@
         "rezero--starting-life-in-another-world-": {
             "sub": {
                 "season": 5,
-                "episode": 10,
-                "title": "Murder Is a Habit"
+                "episode": 12,
+                "title": "From Now On"
             },
             "dub": {
                 "season": 5,
-                "episode": 10,
-                "title": "Murder Is a Habit"
+                "episode": 11,
+                "title": "Re:ZERO -Starting Life in Another World-"
             }
         },
         "rezero--starting-life-in-another-world--shorts": {
@@ -16794,6 +17118,18 @@
                 "season": 1,
                 "episode": 14,
                 "title": "PETIT 14: That's All This Promotion Is About"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "A Lady's Concerns"
             },
             "dub": {
                 "season": 0,
@@ -16816,13 +17152,13 @@
         "rilakkuma": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 20,
+                "title": "Episode 20"
             },
             "dub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 20,
+                "title": "Episode 20"
             }
         },
         "rin-daughters-of-mnemosyne": {
@@ -17199,12 +17535,12 @@
         },
         "saga-of-tanya-the-evil": {
             "sub": {
-                "season": 28,
-                "episode": 12,
-                "title": "How to Use a Victory"
+                "season": 4,
+                "episode": 6,
+                "title": "Decoy"
             },
             "dub": {
-                "season": 28,
+                "season": 1,
                 "episode": 12,
                 "title": "How to Use a Victory"
             }
@@ -17716,8 +18052,8 @@
         "scum-of-the-brave": {
             "sub": {
                 "season": 1,
-                "episode": 22,
-                "title": "Episode 22"
+                "episode": 24,
+                "title": "A Brave's Lie"
             },
             "dub": {
                 "season": 0,
@@ -18196,13 +18532,13 @@
         "shiboyugi-playing-death-games-to-put-food-on-the-table": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "--v-"
+                "episode": 12,
+                "title": "L-O---E"
             },
             "dub": {
                 "season": 1,
-                "episode": 11,
-                "title": "--v-"
+                "episode": 12,
+                "title": "L-O---E"
             }
         },
         "shigurui-death-frenzy": {
@@ -18591,14 +18927,14 @@
         },
         "skeleton-knight-in-another-world": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "I Shall Cut Through the World's Evils!"
+                "season": 2,
+                "episode": 6,
+                "title": "The Nature of This World Floats Upon the Dragon Lord's Spring"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "I Shall Cut Through the World's Evils!"
+                "season": 2,
+                "episode": 6,
+                "title": "The Nature of This World Floats Upon the Dragon Lord's Spring"
             }
         },
         "sket-dance": {
@@ -18735,14 +19071,14 @@
         },
         "smoking-behind-the-supermarket-with-you": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Mini-Episode 12"
+                "season": 2,
+                "episode": 6,
+                "title": "Lingering Scent Behind the Supermarket With You"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 2,
+                "episode": 4,
+                "title": "Learning Behind the Supermarket with You"
             }
         },
         "snack-basue": {
@@ -18784,13 +19120,13 @@
         "snowball-earth": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 13,
+                "title": "DRINK TOGETHER"
             },
             "dub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 13,
+                "title": "DRINK TOGETHER"
             }
         },
         "so-im-a-spider-so-what": {
@@ -18843,12 +19179,12 @@
         },
         "solo-leveling": {
             "sub": {
-                "season": 2,
+                "season": 3,
                 "episode": 25,
                 "title": "On to the Next Target"
             },
             "dub": {
-                "season": 2,
+                "season": 3,
                 "episode": 25,
                 "title": "On to the Next Target"
             }
@@ -18939,14 +19275,14 @@
         },
         "sound-euphonium": {
             "sub": {
-                "season": 3,
-                "episode": 13,
-                "title": "Connecting Melodies"
+                "season": 4,
+                "episode": 1,
+                "title": "Sound! Euphonium: Ensemble Contest"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 14,
+                "title": "Ready, Set, Monaka"
             }
         },
         "sound-of-the-sky": {
@@ -19191,12 +19527,12 @@
         },
         "star-blazers-space-battleship-yamato": {
             "sub": {
-                "season": 14,
-                "episode": 18,
-                "title": "Chain Warp! Yamato, Cross Over Time!"
+                "season": 15,
+                "episode": 22,
+                "title": "Begin the Counterattack! Revive, Ginga!"
             },
             "dub": {
-                "season": 12,
+                "season": 2,
                 "episode": 26,
                 "title": "Earth, Yamato Is…"
             }
@@ -19204,8 +19540,8 @@
         "star-detective-precure": {
             "sub": {
                 "season": 1,
-                "episode": 20,
-                "title": "Episode 20"
+                "episode": 29,
+                "title": "The Duo's Past"
             },
             "dub": {
                 "season": 0,
@@ -19575,12 +19911,12 @@
         },
         "sword-art-online": {
             "sub": {
-                "season": 3,
+                "season": 5,
                 "episode": 23,
                 "title": "New World"
             },
             "dub": {
-                "season": 3,
+                "season": 5,
                 "episode": 23,
                 "title": "New World"
             }
@@ -19857,8 +20193,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 6,
-                "title": "Tamon's B-Side"
+                "episode": 13,
+                "title": "I've Made Up My Mind"
             }
         },
         "tantei-team-kz-jiken-note": {
@@ -20103,12 +20439,12 @@
         },
         "that-time-i-got-reincarnated-as-a-slime": {
             "sub": {
-                "season": 12,
+                "season": 6,
                 "episode": 3,
                 "title": "Purple and Roses"
             },
             "dub": {
-                "season": 12,
+                "season": 6,
                 "episode": 3,
                 "title": "Purple and Roses"
             }
@@ -20127,14 +20463,14 @@
         },
         "the-100-girlfriends-who-really-really-really-really-really-love-you": {
             "sub": {
-                "season": 16,
-                "episode": 24,
-                "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (89 To Go)"
+                "season": 3,
+                "episode": 31,
+                "title": "Thumbelinano and the Kusurivanian Family"
             },
             "dub": {
-                "season": 16,
-                "episode": 24,
-                "title": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You (89 To Go)"
+                "season": 3,
+                "episode": 29,
+                "title": "Yasashiki-san's Gardening Club Tour"
             }
         },
         "the-8th-son-are-you-kidding-me": {
@@ -20176,13 +20512,13 @@
         "the-angel-next-door-spoils-me-rotten": {
             "sub": {
                 "season": 2,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 12,
+                "title": "The Angel's Big Day Arrives"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 2,
+                "episode": 3,
+                "title": "Homecoming, and Revealing the Relationship"
             }
         },
         "the-apothecary-diaries": {
@@ -20260,13 +20596,13 @@
         "the-beginning-after-the-end": {
             "sub": {
                 "season": 2,
-                "episode": 11,
-                "title": "The King Celebrates"
+                "episode": 12,
+                "title": "The King Enrolls"
             },
             "dub": {
                 "season": 2,
-                "episode": 9,
-                "title": "The King's Gratitude"
+                "episode": 12,
+                "title": "The King Enrolls"
             }
         },
         "the-betrayal-knows-my-name": {
@@ -20341,11 +20677,23 @@
                 "title": ""
             }
         },
+        "the-cat-and-the-dragon": {
+            "sub": {
+                "season": 1,
+                "episode": 8,
+                "title": "Life in the Castle Town | The Black Cat and the Adventurous Prince"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-classroom-of-a-black-cat-and-a-witch": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 19,
+                "title": "Race For the Ruby"
             },
             "dub": {
                 "season": 0,
@@ -20384,9 +20732,9 @@
                 "title": "To Sa-Kura"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 1,
+                "episode": 13,
+                "title": "To Sa-Kura"
             }
         },
         "the-daily-life-of-a-part-time-torturer": {
@@ -20536,13 +20884,13 @@
         "the-drops-of-god": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 19,
+                "title": "A Pale Moon Shines in the Distance"
             },
             "dub": {
                 "season": 1,
-                "episode": 8,
-                "title": "Episode 8"
+                "episode": 17,
+                "title": "A Voice, Strict But Gentle"
             }
         },
         "the-duke-of-death-and-his-maid": {
@@ -20555,6 +20903,18 @@
                 "season": 3,
                 "episode": 36,
                 "title": "The Duke of Death and His Maid"
+            }
+        },
+        "the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "An Unexpected Gift"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-dungeon-of-black-company": {
@@ -20595,14 +20955,26 @@
         },
         "the-elusive-samurai": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Hang in there, Tokiyuki, Until the Day You Retake Kamakura"
+                "season": 2,
+                "episode": 17,
+                "title": "The Unyielding"
             },
             "dub": {
                 "season": 1,
                 "episode": 12,
                 "title": "Hang in there, Tokiyuki, Until the Day You Retake Kamakura"
+            }
+        },
+        "the-exiled-heavy-knight-knows-how-to-game-the-system": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Golden Raana Farming"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 5,
+                "title": "Fang of Smoldering Insanity"
             }
         },
         "the-family-circumstances-of-the-irregular-witch": {
@@ -20675,6 +21047,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Foolish Angel and Demon to the End"
+            }
+        },
+        "the-frontier-lord-begins-with-zero-subjects": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "The Frontier Lord and the New Subjects"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made": {
@@ -21097,6 +21481,18 @@
                 "title": ""
             }
         },
+        "the-insipid-princes-furtive-grab-for-the-throne": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "The Knights' Festival of the Hunt Part 2"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-invisible-man-and-his-soon-to-be-wife": {
             "sub": {
                 "season": 1,
@@ -21208,13 +21604,13 @@
         "the-klutzy-class-monitor-and-the-girl-with-the-short-skirt": {
             "sub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 12,
+                "title": "The Klutzy Class Monitor and the Girl with the Short Skirt"
             },
             "dub": {
                 "season": 1,
-                "episode": 9,
-                "title": "The Klutz and the High School Girl's Summer Break Plus the Start of Their Second Semester"
+                "episode": 12,
+                "title": "The Klutzy Class Monitor and the Girl with the Short Skirt"
             }
         },
         "the-last-summoner": {
@@ -21541,6 +21937,30 @@
                 "title": ""
             }
         },
+        "the-oblivious-saint-cant-contain-her-power": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Episode 7: The Waver of the Perfect Young Lady"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-ogres-bride": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "Reiya's Secret Lover"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-ones-within": {
             "sub": {
                 "season": 1,
@@ -21687,14 +22107,14 @@
         },
         "the-quintessential-quintuplets": {
             "sub": {
-                "season": 4,
+                "season": 3,
                 "episode": 4,
-                "title": "Special 4"
+                "title": "Operation Quintuplets (Part 2)"
             },
             "dub": {
-                "season": 2,
-                "episode": 12,
-                "title": "Sisters War: Part 2"
+                "season": 3,
+                "episode": 4,
+                "title": "Operation Quintuplets (Part 2)"
             }
         },
         "the-red-ranger-becomes-an-adventurer-in-another-world": {
@@ -22045,6 +22465,18 @@
                 "title": "Five Dumb Matches"
             }
         },
+        "the-villager-of-level-999": {
+            "sub": {
+                "season": 1,
+                "episode": 8,
+                "title": "Incompatible"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-villainess-is-adored-by-the-prince-of-the-neighbor-kingdom": {
             "sub": {
                 "season": 1,
@@ -22060,13 +22492,13 @@
         "the-warrior-princess-and-the-barbaric-king": {
             "sub": {
                 "season": 1,
-                "episode": 10,
-                "title": "Episode 10"
+                "episode": 12,
+                "title": "The Crimson Warrior of Glory"
             },
             "dub": {
                 "season": 1,
-                "episode": 8,
-                "title": "A Contract in the Form of a Collaring"
+                "episode": 12,
+                "title": "The Crimson Warrior of Glory"
             }
         },
         "the-water-magician": {
@@ -22163,6 +22595,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Battle of Assassin"
+            }
+        },
+        "the-worlds-strongest-rearguard": {
+            "sub": {
+                "season": 1,
+                "episode": 7,
+                "title": "The Hope of Demi-humans"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "the-wrong-way-to-use-healing-magic": {
@@ -22283,6 +22727,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "though-i-am-an-inept-villainess": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "I Won't Let You Die"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 4,
+                "title": "My Miracle Comet"
             }
         },
         "three-leaves-three-colors": {
@@ -22549,6 +23005,18 @@
                 "title": "A Cry Baby"
             }
         },
+        "tomb-raider-king": {
+            "sub": {
+                "season": 2,
+                "episode": 6,
+                "title": "The Great Tombification"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 4,
+                "title": "The One Who Stole the Future"
+            }
+        },
         "tomo-chan-is-a-girl": {
             "sub": {
                 "season": 17,
@@ -22672,13 +23140,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -22755,14 +23223,14 @@
         },
         "trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "No Matter How Tough the World of Otome Games Is"
+                "season": 2,
+                "episode": 6,
+                "title": "If You Don't Like It, I'll Just Run"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "No Matter How Tough the World of Otome Games Is"
+                "season": 2,
+                "episode": 4,
+                "title": "They're Flip-Flopping Again?"
             }
         },
         "traveling-daru": {
@@ -23500,8 +23968,20 @@
         "versatile-mage": {
             "sub": {
                 "season": 8,
-                "episode": 4,
-                "title": "A Terrifying Journey"
+                "episode": 12,
+                "title": "Critical Situation"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "victoria-of-many-faces": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "Think About This Child's Happiness"
             },
             "dub": {
                 "season": 0,
@@ -23860,13 +24340,13 @@
         "welcome-to-demon-school-iruma-kun": {
             "sub": {
                 "season": 4,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 18,
+                "title": "Give the Youth All the Nutrients They Need | Crossing the Sunbeams Shining Through the Trees"
             },
             "dub": {
                 "season": 4,
-                "episode": 11,
-                "title": "Episode 11"
+                "episode": 18,
+                "title": "Give the Youth All the Nutrients They Need | Crossing the Sunbeams Shining Through the Trees"
             }
         },
         "welcome-to-japan-ms-elf": {
@@ -24040,13 +24520,13 @@
         "wistoria-wand-and-sword": {
             "sub": {
                 "season": 2,
-                "episode": 22,
-                "title": "Episode 22"
+                "episode": 24,
+                "title": "A Story of a Dream with No End"
             },
             "dub": {
                 "season": 2,
-                "episode": 20,
-                "title": "Teachings of the Witch"
+                "episode": 24,
+                "title": "A Story of a Dream with No End"
             }
         },
         "witch-craft-works": {
@@ -24064,13 +24544,13 @@
         "witch-hat-atelier": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Episode 12"
+                "episode": 13,
+                "title": "Forbidden Magic"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Episode 12"
+                "episode": 13,
+                "title": "Forbidden Magic"
             }
         },
         "witch-hunter-robin": {
@@ -24568,8 +25048,8 @@
         "yoroi-shinden-samurai-troopers": {
             "sub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Epilogue"
+                "episode": 18,
+                "title": "Comeback"
             },
             "dub": {
                 "season": 0,
@@ -24603,14 +25083,14 @@
         },
         "you-and-i-are-polar-opposites": {
             "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Step by Step"
+                "season": 2,
+                "episode": 7,
+                "title": "Gradation"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Step by Step"
+                "season": 2,
+                "episode": 5,
+                "title": "Valentine's Day"
             }
         },
         "you-and-idol-precure": {
@@ -24678,6 +25158,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "We Didn't Know GUNMA Yet"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "young-ladies-dont-play-fighting-games": {
+            "sub": {
+                "season": 1,
+                "episode": 6,
+                "title": "A Noble Duel"
             },
             "dub": {
                 "season": 0,
