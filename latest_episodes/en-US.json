@@ -6736,8 +6736,8 @@
         "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage": {
             "sub": {
                 "season": 1,
-                "episode": 8,
-                "title": "No Escape"
+                "episode": 9,
+                "title": "Let Me Pay"
             },
             "dub": {
                 "season": 0,
@@ -11257,6 +11257,18 @@
                 "title": "Miracle on New Year's Eve"
             }
         },
+        "konosuba---gods-blessing-on-this-wonderful-world": {
+            "sub": {
+                "season": 3,
+                "episode": 13,
+                "title": "Watch Out For Impostors!"
+            },
+            "dub": {
+                "season": 3,
+                "episode": 11,
+                "title": "God's Blessings for These Unchanging Days!"
+            }
+        },
         "konosuba--an-explosion-on-this-wonderful-world": {
             "sub": {
                 "season": 1,
@@ -11267,18 +11279,6 @@
                 "season": 1,
                 "episode": 12,
                 "title": "An Explosion on This Wonderful World!"
-            }
-        },
-        "konosuba--gods-blessing-on-this-wonderful-world": {
-            "sub": {
-                "season": 3,
-                "episode": 13,
-                "title": "Watch Out For Impostors!"
-            },
-            "dub": {
-                "season": 3,
-                "episode": 11,
-                "title": "God's Blessings for These Unchanging Days!"
             }
         },
         "koro-sensei-quest": {
@@ -12916,8 +12916,8 @@
         "mebius-dust": {
             "sub": {
                 "season": 1,
-                "episode": 6,
-                "title": "Shin-Shin-Koiwa"
+                "episode": 7,
+                "title": "Restored Memory"
             },
             "dub": {
                 "season": 0,
