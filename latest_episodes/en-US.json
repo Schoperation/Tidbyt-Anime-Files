@@ -1,5 +1,5 @@
 {
-    "total_count": 2124,
+    "total_count": 2125,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19801,6 +19801,18 @@
                 "title": "Super Cub"
             }
         },
+        "super-cube": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "The Banquet of Rudra: The Iron-Fisted Li Laika"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "super-gals": {
             "sub": {
                 "season": 1,
@@ -23140,13 +23152,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 1644,
+    "total_count": 1645,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14965,6 +14965,18 @@
                 "title": "Super Cub"
             }
         },
+        "super-cube": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Banquete Rudra: Puño de Hierro Li Laika"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "super-hxeros": {
             "sub": {
                 "season": 1,
@@ -17896,13 +17908,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
