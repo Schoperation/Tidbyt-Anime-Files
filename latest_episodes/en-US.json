@@ -1,5 +1,5 @@
 {
-    "total_count": 2129,
+    "total_count": 2130,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -7715,6 +7715,18 @@
                 "season": 15,
                 "episode": 62,
                 "title": "Wilk's Daughter"
+            }
+        },
+        "gonna-be-the-twin-tail": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Twin-Tails Forever"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "good-bye-dragon-life": {
