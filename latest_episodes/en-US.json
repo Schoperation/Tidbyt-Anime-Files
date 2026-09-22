@@ -1,5 +1,5 @@
 {
-    "total_count": 2128,
+    "total_count": 2129,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13451,6 +13451,18 @@
                 "season": 1,
                 "episode": 25,
                 "title": "Tekkadan"
+            }
+        },
+        "mobile-suit-gundam-narrative": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Mobile Suit Gundam Narrative (English Dub)"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "mobile-suit-gundam-seed": {
