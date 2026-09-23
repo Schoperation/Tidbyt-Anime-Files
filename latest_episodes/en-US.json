@@ -1,5 +1,5 @@
 {
-    "total_count": 2130,
+    "total_count": 2131,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13374,6 +13374,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "A Time of Healing / Hospitality / Squeezed / Reversible / The M(itchiri) Pole / Caught One"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mitsudomoe": {
+            "sub": {
+                "season": 2,
+                "episode": 8,
+                "title": "These Three Girls Will Keep Going, On and On"
             },
             "dub": {
                 "season": 0,
