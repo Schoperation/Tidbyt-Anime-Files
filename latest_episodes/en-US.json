@@ -1,5 +1,5 @@
 {
-    "total_count": 2131,
+    "total_count": 2132,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -16890,6 +16890,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Clash! Hero-King vs. King of Rainbows"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "recently-my-sister-is-unusual": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Farewell, Hiyori-chan"
             },
             "dub": {
                 "season": 0,

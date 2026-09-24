@@ -1,5 +1,5 @@
 {
-    "total_count": 1645,
+    "total_count": 1646,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12714,6 +12714,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "¡Choque! El rey heroico contra el rey de los arcoíris"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "recently-my-sister-is-unusual": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Hasta pronto, Hiyori-chan"
             },
             "dub": {
                 "season": 0,
