@@ -1,5 +1,5 @@
 {
-    "total_count": 1646,
+    "total_count": 1647,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4650,6 +4650,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Amanecer"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "fafner": {
+            "sub": {
+                "season": 3,
+                "episode": 12,
+                "title": "Más allá del cielo azul"
             },
             "dub": {
                 "season": 0,
