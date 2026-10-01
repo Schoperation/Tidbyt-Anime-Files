@@ -18867,14 +18867,14 @@
         },
         "show-by-rock": {
             "sub": {
-                "season": 2,
+                "season": 4,
                 "episode": 12,
-                "title": "My Song is YOU!!"
+                "title": "Anokanatarium"
             },
             "dub": {
-                "season": 2,
+                "season": 4,
                 "episode": 12,
-                "title": "My Song is YOU!!"
+                "title": "Anokanatarium"
             }
         },
         "show-by-rock-mashumairesh": {
@@ -23248,13 +23248,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
