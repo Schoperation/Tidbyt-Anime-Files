@@ -1,5 +1,5 @@
 {
-    "total_count": 1651,
+    "total_count": 1652,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -9433,6 +9433,18 @@
                 "title": ""
             }
         },
+        "magical-explorer": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Saludos desde la tierra de los elfos"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance": {
             "sub": {
                 "season": 1,
@@ -17980,13 +17992,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {

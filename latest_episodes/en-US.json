@@ -1,5 +1,5 @@
 {
-    "total_count": 2137,
+    "total_count": 2138,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -12517,6 +12517,18 @@
                 "title": ""
             }
         },
+        "magical-explorer": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Greetings From the Land of the Elves"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Greetings From the Land of the Elves"
+            }
+        },
         "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance": {
             "sub": {
                 "season": 1,
@@ -23296,13 +23308,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Until We Meet Again"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
