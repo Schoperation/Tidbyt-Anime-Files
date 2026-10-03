@@ -1,5 +1,5 @@
 {
-    "total_count": 2136,
+    "total_count": 2137,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -455,6 +455,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "A Sister's All You Need?"
+            }
+        },
+        "a-tale-of-the-secret-saint": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episode 2"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-talk-on-titan": {
@@ -23284,13 +23296,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
