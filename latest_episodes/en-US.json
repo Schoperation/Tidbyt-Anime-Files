@@ -1,5 +1,5 @@
 {
-    "total_count": 2133,
+    "total_count": 2136,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8281,6 +8281,18 @@
                 "title": ""
             }
         },
+        "hakuoki-demon-of-the-fleeting-blossom-2021": {
+            "sub": {
+                "season": 101,
+                "episode": 3,
+                "title": "The Stars Meet, Searching the Galaxy"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "hakuoki-demon-of-the-fleeting-blossom-drama": {
             "sub": {
                 "season": 1,
@@ -9462,6 +9474,18 @@
                 "season": 3,
                 "episode": 30,
                 "title": "Bound Fates"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "idolish7-the-movie-live-4bit-beyond-the-period": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Day 2"
             },
             "dub": {
                 "season": 0,
@@ -13854,6 +13878,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "The Vampire and the Changing Seasons"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "msonic": {
+            "sub": {
+                "season": 1,
+                "episode": 5,
+                "title": "The Fated MSonic!"
             },
             "dub": {
                 "season": 0,
@@ -23248,13 +23284,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {

@@ -1,5 +1,5 @@
 {
-    "total_count": 1647,
+    "total_count": 1650,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -6097,6 +6097,18 @@
                 "title": ""
             }
         },
+        "hakuoki-demon-of-the-fleeting-blossom-2021": {
+            "sub": {
+                "season": 101,
+                "episode": 3,
+                "title": "The Stars Meet, Searching the Galaxy"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "hakuoki-demon-of-the-fleeting-blossom-drama": {
             "sub": {
                 "season": 1,
@@ -7050,6 +7062,18 @@
                 "season": 3,
                 "episode": 30,
                 "title": "El destino que nos une"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "idolish7-the-movie-live-4bit-beyond-the-period": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Day 2"
             },
             "dub": {
                 "season": 0,
@@ -10458,6 +10482,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "La vampira y el paso de las estaciones"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "msonic": {
+            "sub": {
+                "season": 1,
+                "episode": 5,
+                "title": "The Fated MSonic!"
             },
             "dub": {
                 "season": 0,
@@ -17932,13 +17968,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
