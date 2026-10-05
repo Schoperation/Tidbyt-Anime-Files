@@ -1,5 +1,5 @@
 {
-    "total_count": 2139,
+    "total_count": 2140,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -19295,6 +19295,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "So I'm Still a Spider, So What?"
+            }
+        },
+        "so-whats-wrong-with-getting-reborn-as-a-goblin": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "So What's Wrong with Meeting a Sly Old Fox?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "so-youre-raising-a-warrior": {

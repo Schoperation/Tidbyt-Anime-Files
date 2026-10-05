@@ -1,5 +1,5 @@
 {
-    "total_count": 1653,
+    "total_count": 1654,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -14567,6 +14567,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "Aún soy una araña, ¿y qué?"
+            }
+        },
+        "so-whats-wrong-with-getting-reborn-as-a-goblin": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Conocí a un viejo zorro, ¿alguna pregunta?"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "so-youre-raising-a-warrior": {
