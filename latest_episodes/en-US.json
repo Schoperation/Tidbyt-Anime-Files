@@ -1,5 +1,5 @@
 {
-    "total_count": 2141,
+    "total_count": 2142,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6743,6 +6743,18 @@
                 "season": 3,
                 "episode": 12,
                 "title": "Dive to the Future!"
+            }
+        },
+        "free---take-your-marks": {
+            "sub": {
+                "season": 100,
+                "episode": 4,
+                "title": "Free! -Take Your Marks- Part 4: Eternal Blue of Setting Off!"
+            },
+            "dub": {
+                "season": 100,
+                "episode": 4,
+                "title": "Free! -Take Your Marks- Part 4: Eternal Blue of Setting Off!"
             }
         },
         "freezing": {
@@ -23344,13 +23356,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
