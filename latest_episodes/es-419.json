@@ -1,5 +1,5 @@
 {
-    "total_count": 1655,
+    "total_count": 1656,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5255,6 +5255,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Superhumano r / Muerte, y…"
+            }
+        },
+        "fx-fighter-kurumi-chan": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "No pasa nada, tengo apalancamiento"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "ga-rei-zero": {
@@ -18028,13 +18040,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

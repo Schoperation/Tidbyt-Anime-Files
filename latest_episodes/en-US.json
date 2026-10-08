@@ -1,5 +1,5 @@
 {
-    "total_count": 2142,
+    "total_count": 2143,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6959,6 +6959,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "fx-fighter-kurumi-chan": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "It's Okay, I've Got Leverage"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "It's Okay, I've Got Leverage"
             }
         },
         "ga-geijutsuka-art-design-class": {
@@ -23356,13 +23368,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
