@@ -1,5 +1,5 @@
 {
-    "total_count": 1656,
+    "total_count": 1657,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3930,6 +3930,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Los perros son como las tijeras, hay que manejarlos con cuidado"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dog-days": {
+            "sub": {
+                "season": 2,
+                "episode": 13,
+                "title": "Summer Memories"
             },
             "dub": {
                 "season": 0,
@@ -18040,13 +18052,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "episode": 24,
+                "title": "Para la próxima vez"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "episode": 24,
+                "title": "Para la próxima vez"
             }
         },
         "touken-ranbu---hanamaru": {
