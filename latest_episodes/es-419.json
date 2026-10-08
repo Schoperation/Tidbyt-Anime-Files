@@ -8485,6 +8485,18 @@
                 "title": ""
             }
         },
+        "konosuba---an-explosion-on-this-wonderful-world": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "¡Una explosión en este mundo maravilloso!"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 12,
+                "title": "¡Una explosión en este mundo maravilloso!"
+            }
+        },
         "konosuba---gods-blessing-on-this-wonderful-world": {
             "sub": {
                 "season": 5,
@@ -8495,18 +8507,6 @@
                 "season": 5,
                 "episode": 11,
                 "title": "¡Benditos sean estos días constantes!"
-            }
-        },
-        "konosuba--an-explosion-on-this-wonderful-world": {
-            "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "¡Una explosión en este mundo maravilloso!"
-            },
-            "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "¡Una explosión en este mundo maravilloso!"
             }
         },
         "koro-sensei-quest": {
@@ -18040,13 +18040,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Para la próxima vez"
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

@@ -11365,6 +11365,18 @@
                 "title": "Miracle on New Year's Eve"
             }
         },
+        "konosuba---an-explosion-on-this-wonderful-world": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "An Explosion on This Wonderful World!"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 12,
+                "title": "An Explosion on This Wonderful World!"
+            }
+        },
         "konosuba---gods-blessing-on-this-wonderful-world": {
             "sub": {
                 "season": 5,
@@ -11375,18 +11387,6 @@
                 "season": 5,
                 "episode": 11,
                 "title": "God's Blessings for These Unchanging Days!"
-            }
-        },
-        "konosuba--an-explosion-on-this-wonderful-world": {
-            "sub": {
-                "season": 1,
-                "episode": 12,
-                "title": "An Explosion on This Wonderful World!"
-            },
-            "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "An Explosion on This Wonderful World!"
             }
         },
         "koro-sensei-quest": {
@@ -23368,13 +23368,13 @@
         "tougen-anki": {
             "sub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
