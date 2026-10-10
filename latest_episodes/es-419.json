@@ -1,5 +1,5 @@
 {
-    "total_count": 1659,
+    "total_count": 1660,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12162,6 +12162,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Pastel memories"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "paw--palaces": {
+            "sub": {
+                "season": 2,
+                "episode": 3,
+                "title": "Episodio 3"
             },
             "dub": {
                 "season": 0,

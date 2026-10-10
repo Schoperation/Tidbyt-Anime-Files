@@ -1,5 +1,5 @@
 {
-    "total_count": 2146,
+    "total_count": 2147,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -15990,6 +15990,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Pastel Memories"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "paw--palaces": {
+            "sub": {
+                "season": 2,
+                "episode": 3,
+                "title": "Episode 3"
             },
             "dub": {
                 "season": 0,
