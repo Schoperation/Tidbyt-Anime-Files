@@ -1,5 +1,5 @@
 {
-    "total_count": 2145,
+    "total_count": 2146,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -11003,6 +11003,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "Taking On All Comers! Love, Fists, And Best Bros"
+            }
+        },
+        "keroro": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "My Friend Is an Invader / Sergeant Keroro in a Windowless, Bathless Room with History"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "key-the-metal-idol": {
@@ -23391,14 +23403,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 2,
-                "title": "The Path to Growing Strong"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
