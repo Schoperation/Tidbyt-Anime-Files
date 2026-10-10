@@ -1,5 +1,5 @@
 {
-    "total_count": 1662,
+    "total_count": 1663,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -18111,14 +18111,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 2,
-                "title": "El camino para hacerse fuerte"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
-                "season": 2,
-                "episode": 2,
-                "title": "El camino para hacerse fuerte"
+                "season": 1,
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -18798,6 +18798,18 @@
                 "season": 8,
                 "episode": 12,
                 "title": "Episodio 12"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "vertex-force": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Vertex"
             },
             "dub": {
                 "season": 0,

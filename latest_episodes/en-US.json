@@ -1,5 +1,5 @@
 {
-    "total_count": 2149,
+    "total_count": 2150,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -23439,14 +23439,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 2,
-                "title": "The Path to Growing Strong"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -24270,6 +24270,18 @@
                 "season": 8,
                 "episode": 12,
                 "title": "Critical Situation"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "vertex-force": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Vertex"
             },
             "dub": {
                 "season": 0,
