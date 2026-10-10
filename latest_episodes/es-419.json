@@ -12172,8 +12172,8 @@
         "paw--palaces": {
             "sub": {
                 "season": 2,
-                "episode": 3,
-                "title": "Episodio 3"
+                "episode": 4,
+                "title": "Episodio 4"
             },
             "dub": {
                 "season": 0,
@@ -18087,14 +18087,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             }
         },
         "touken-ranbu---hanamaru": {
