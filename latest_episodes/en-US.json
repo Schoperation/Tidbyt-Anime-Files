@@ -1,5 +1,5 @@
 {
-    "total_count": 2148,
+    "total_count": 2149,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -9695,6 +9695,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "im-looking-for-a-zombie": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "I'm Looking For My Friends"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "I'm Looking For My Friends"
             }
         },
         "im-standing-on-a-million-lives": {
@@ -23427,14 +23439,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "The Path to Growing Strong"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
