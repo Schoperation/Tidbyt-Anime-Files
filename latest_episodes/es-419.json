@@ -1,5 +1,5 @@
 {
-    "total_count": 1660,
+    "total_count": 1661,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -13237,6 +13237,18 @@
                 "title": "Fin y principio"
             }
         },
+        "romelia-war-chronicle": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Comienza la conquista del fuerte"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "romeo-x-juliet": {
             "sub": {
                 "season": 1,
@@ -18087,14 +18099,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 2,
-                "title": "El camino para hacerse fuerte"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
-                "season": 2,
-                "episode": 2,
-                "title": "El camino para hacerse fuerte"
+                "season": 1,
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
