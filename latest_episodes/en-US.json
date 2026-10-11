@@ -1,5 +1,5 @@
 {
-    "total_count": 2153,
+    "total_count": 2154,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6126,6 +6126,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Happiness, Forever"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fianc": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Tea Party with the Love Interests"
             },
             "dub": {
                 "season": 0,

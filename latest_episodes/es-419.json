@@ -1,5 +1,5 @@
 {
-    "total_count": 1666,
+    "total_count": 1667,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4626,6 +4626,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Felicidad eterna"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fianc": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Té con los pretendientes"
             },
             "dub": {
                 "season": 0,
