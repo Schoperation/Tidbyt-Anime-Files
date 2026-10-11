@@ -1,5 +1,5 @@
 {
-    "total_count": 2151,
+    "total_count": 2153,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -15820,13 +15820,13 @@
         "overgeared": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Episode 2"
+                "episode": 3,
+                "title": "Second Class"
             },
             "dub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Episode 2"
+                "episode": 3,
+                "title": "Second Class"
             }
         },
         "overlord": {
@@ -17039,6 +17039,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "reborn-as-a-space-mercenary-i-woke-up-piloting-the-strongest-starship": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Mimi the Girl"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Mimi the Girl"
             }
         },
         "reborn-as-a-vending-machine-i-now-wander-the-dungeon": {
@@ -23451,14 +23463,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 2,
-                "title": "The Path to Growing Strong"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -23982,6 +23994,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Today's Main Race! The Gilded Vessel Obstacle Course (G1)"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "uncles-obsession-with-cute-things": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Chief Oji and the Gacha Guy"
             },
             "dub": {
                 "season": 0,
