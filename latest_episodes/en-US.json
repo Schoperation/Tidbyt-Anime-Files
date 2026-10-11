@@ -1,5 +1,5 @@
 {
-    "total_count": 2154,
+    "total_count": 2155,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6803,6 +6803,18 @@
                 "season": 2,
                 "episode": 10,
                 "title": "A Beautiful Sight"
+            }
+        },
+        "from-far-away": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Language Barrier"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage": {

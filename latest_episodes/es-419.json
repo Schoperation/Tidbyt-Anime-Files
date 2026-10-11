@@ -1,5 +1,5 @@
 {
-    "total_count": 1667,
+    "total_count": 1668,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -5159,6 +5159,18 @@
                 "season": 2,
                 "episode": 10,
                 "title": "Un bello espectáculo"
+            }
+        },
+        "from-far-away": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La barrera del idioma"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage": {
