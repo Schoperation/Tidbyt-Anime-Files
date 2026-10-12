@@ -1,5 +1,5 @@
 {
-    "total_count": 1669,
+    "total_count": 1670,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -11729,7 +11729,7 @@
             "sub": {
                 "season": 1,
                 "episode": 12,
-                "title": "Episode 12"
+                "title": "Un nuevo comienzo"
             },
             "dub": {
                 "season": 0,
@@ -12719,6 +12719,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "On the Other Side of Love and Hate"
+            }
+        },
+        "psyren": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Especie prohibida [Tavoo]"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "punch-line": {
@@ -18171,14 +18183,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             }
         },
         "touken-ranbu---hanamaru": {

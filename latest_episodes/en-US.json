@@ -1,5 +1,5 @@
 {
-    "total_count": 2156,
+    "total_count": 2157,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -15413,7 +15413,7 @@
             "sub": {
                 "season": 1,
                 "episode": 12,
-                "title": "Episode 12"
+                "title": "A Fresh Start"
             },
             "dub": {
                 "season": 0,
@@ -16799,6 +16799,18 @@
                 "season": 1,
                 "episode": 3,
                 "title": "On the Other Side of Love and Hate"
+            }
+        },
+        "psyren": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Tavoo"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "puella-magi-madoka-magica": {
@@ -23499,14 +23511,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "The Path to Growing Strong"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
