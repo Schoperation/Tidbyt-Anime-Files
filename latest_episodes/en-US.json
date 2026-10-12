@@ -1,5 +1,5 @@
 {
-    "total_count": 2155,
+    "total_count": 2156,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -8754,6 +8754,18 @@
                 "season": 4,
                 "episode": 12,
                 "title": "Stray Inari"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episode 2: The Good Witch of the Lake"
             },
             "dub": {
                 "season": 0,
@@ -19456,8 +19468,8 @@
         "so-whats-wrong-with-getting-reborn-as-a-goblin": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "So What's Wrong with Meeting a Sly Old Fox?"
+                "episode": 3,
+                "title": "So What's Wrong with Negotiating with Humans?"
             },
             "dub": {
                 "season": 0,
@@ -23487,14 +23499,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "The Path to Growing Strong"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {
