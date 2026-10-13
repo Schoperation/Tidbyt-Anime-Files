@@ -11835,14 +11835,14 @@
         },
         "one-piece": {
             "sub": {
-                "season": 24,
+                "season": 31,
                 "episode": 1180,
                 "title": "Reina la desesperación en Elbaph. El pacto diabólico, Domi Reversi"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 30,
+                "episode": 1,
+                "title": "One Piece HEROINES"
             }
         },
         "one-punch-man": {
@@ -18231,14 +18231,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             }
         },
         "touken-ranbu---hanamaru": {
