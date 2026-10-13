@@ -1,5 +1,5 @@
 {
-    "total_count": 2158,
+    "total_count": 2159,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -20190,6 +20190,18 @@
                 "season": 2,
                 "episode": 10,
                 "title": "Happy Days"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "super-psychic-policeman-chojo": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The Cat-Finding Senior Officer/Senior Duelist Officer"
             },
             "dub": {
                 "season": 0,

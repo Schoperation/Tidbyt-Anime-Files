@@ -1,5 +1,5 @@
 {
-    "total_count": 1671,
+    "total_count": 1672,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15270,6 +15270,18 @@
                 "season": 2,
                 "episode": 10,
                 "title": "Días felices"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "super-psychic-policeman-chojo": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "El patrullero buscagatos"
             },
             "dub": {
                 "season": 0,
