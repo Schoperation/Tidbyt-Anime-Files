@@ -1,5 +1,5 @@
 {
-    "total_count": 2160,
+    "total_count": 2161,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -22021,6 +22021,18 @@
                 "title": "The Klutzy Class Monitor and the Girl with the Short Skirt"
             }
         },
+        "the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The enhanced clothes I was wearing were destroyed by a devastating blow, and a traumatized girl in casual clothes hit me with all her might."
+            },
+            "dub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The enhanced clothes I was wearing were destroyed by a devastating blow, and a traumatized girl in casual clothes hit me with all her might."
+            }
+        },
         "the-last-summoner": {
             "sub": {
                 "season": 1,
@@ -23547,14 +23559,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 2,
-                "title": "The Path to Growing Strong"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
