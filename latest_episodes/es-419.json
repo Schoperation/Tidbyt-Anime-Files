@@ -1,5 +1,5 @@
 {
-    "total_count": 1670,
+    "total_count": 1671,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15978,6 +15978,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "La cita prohibida"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-cold-sato-san-is-only-sweet-to-me": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Un segundo primer amor"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 2157,
+    "total_count": 2158,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -21054,6 +21054,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The Forbidden Date"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-cold-sato-san-is-only-sweet-to-me": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "A Second First Love"
             },
             "dub": {
                 "season": 0,
