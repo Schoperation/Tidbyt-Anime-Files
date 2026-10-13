@@ -1,5 +1,5 @@
 {
-    "total_count": 1674,
+    "total_count": 1675,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -19098,6 +19098,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "Hacia la luz"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "wake-up-girls-zoo": {
+            "sub": {
+                "season": 1,
+                "episode": 10,
+                "title": "Episodio final. GO!"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 2161,
+    "total_count": 2162,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -24606,6 +24606,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "Towards The Light"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "wake-up-girls-zoo": {
+            "sub": {
+                "season": 1,
+                "episode": 10,
+                "title": "Final Episode GO!"
             },
             "dub": {
                 "season": 0,
