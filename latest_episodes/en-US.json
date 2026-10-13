@@ -1,5 +1,5 @@
 {
-    "total_count": 2159,
+    "total_count": 2160,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -2190,6 +2190,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Sunlight Girls"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "battle-spirits-re-zekkai-no-ku": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The Collector"
             },
             "dub": {
                 "season": 0,
@@ -23535,14 +23547,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "The Path to Growing Strong"
             },
             "dub": {
                 "season": 1,
-                "episode": 12,
-                "title": "Day of the Storm"
+                "episode": 24,
+                "title": "Until We Meet Again"
             }
         },
         "touken-ranbu---hanamaru": {

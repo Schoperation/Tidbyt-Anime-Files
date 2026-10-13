@@ -1,5 +1,5 @@
 {
-    "total_count": 1672,
+    "total_count": 1673,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -1739,6 +1739,18 @@
                 "season": 2,
                 "episode": 12,
                 "title": "La habilidad final"
+            }
+        },
+        "battle-spirits-re-zekkai-no-ku": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "El coleccionista"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "bbkbrnk": {
@@ -18207,14 +18219,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "season": 2,
+                "episode": 2,
+                "title": "El camino para hacerse fuerte"
             }
         },
         "touken-ranbu---hanamaru": {
