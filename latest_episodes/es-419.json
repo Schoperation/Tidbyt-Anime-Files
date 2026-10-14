@@ -1,5 +1,5 @@
 {
-    "total_count": 1677,
+    "total_count": 1678,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -340,8 +340,8 @@
         "a-returners-magic-should-be-special": {
             "sub": {
                 "season": 2,
-                "episode": 13,
-                "title": "Adentrándose en las sombras"
+                "episode": 14,
+                "title": "Juicio"
             },
             "dub": {
                 "season": 0,
@@ -3390,6 +3390,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "El vínculo entre Haruki y sus hermanas"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dandivine": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Es una estrella solo porque es apuesto"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 2164,
+    "total_count": 2165,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -412,13 +412,13 @@
         "a-returners-magic-should-be-special": {
             "sub": {
                 "season": 2,
-                "episode": 13,
-                "title": "Into the Shadow"
+                "episode": 14,
+                "title": "Judgment"
             },
             "dub": {
                 "season": 2,
-                "episode": 13,
-                "title": "Into the Shadow"
+                "episode": 14,
+                "title": "Judgment"
             }
         },
         "a-salad-bowl-of-eccentrics": {
@@ -4506,6 +4506,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Building Twelve: The Bond Between Haruki and His Sisters."
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dandivine": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "An Ace, But Only Because of His Face"
             },
             "dub": {
                 "season": 0,
@@ -23457,8 +23469,8 @@
             },
             "dub": {
                 "season": 1,
-                "episode": 11,
-                "title": "Tian Fu's Relic"
+                "episode": 12,
+                "title": "Tomb Raider King"
             }
         },
         "tomo-chan-is-a-girl": {
