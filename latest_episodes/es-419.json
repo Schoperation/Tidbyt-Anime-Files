@@ -1,5 +1,5 @@
 {
-    "total_count": 1675,
+    "total_count": 1676,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -17766,6 +17766,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Hacia el futuro de Laberintia"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-worlds-strongest-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Intenté ser aventurera"
             },
             "dub": {
                 "season": 0,

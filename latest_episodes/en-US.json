@@ -1,5 +1,5 @@
 {
-    "total_count": 2162,
+    "total_count": 2163,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -23022,6 +23022,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "To the Future of Labyrinth Country"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "the-worlds-strongest-witch": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "I Tried Becoming an Adventurer!"
             },
             "dub": {
                 "season": 0,
