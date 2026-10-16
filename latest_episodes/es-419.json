@@ -1,5 +1,5 @@
 {
-    "total_count": 1678,
+    "total_count": 1680,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -102,6 +102,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Intentamos hacer una historia de fantasía estilo RPG"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "a-certain-dark-item": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Saiai Kinuhata - La novata"
             },
             "dub": {
                 "season": 0,
@@ -5022,6 +5034,18 @@
                 "season": 1,
                 "episode": 23,
                 "title": "Los héroes se reúnen"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "firefly-wedding": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "La isla de las ninfas"
             },
             "dub": {
                 "season": 0,
@@ -18267,14 +18291,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

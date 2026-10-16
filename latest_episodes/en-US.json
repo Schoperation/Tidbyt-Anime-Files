@@ -1,5 +1,5 @@
 {
-    "total_count": 2165,
+    "total_count": 2167,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -143,6 +143,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "We Tried Making a Fantasy Story in RPG Style. | Fierce Fights! Arm Wrestling! How Will the Battle of the Heroines End?"
+            }
+        },
+        "a-certain-dark-item": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Saiai Kinuhata - Newcomer"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "a-certain-magical-index": {
@@ -6594,6 +6606,18 @@
                 "season": 1,
                 "episode": 23,
                 "title": "The Heroes Assemble"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "firefly-wedding": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episode 2"
             },
             "dub": {
                 "season": 0,
@@ -23595,14 +23619,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Purpose"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
