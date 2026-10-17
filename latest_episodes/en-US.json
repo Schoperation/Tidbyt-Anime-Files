@@ -1,5 +1,5 @@
 {
-    "total_count": 2167,
+    "total_count": 2168,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -22933,6 +22933,18 @@
                 "title": "Five Dumb Matches"
             }
         },
+        "the-vermilion-mask": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Mask of the War God"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "the-villager-of-level-999": {
             "sub": {
                 "season": 1,
@@ -23619,14 +23631,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Purpose"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
