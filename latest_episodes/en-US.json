@@ -1,5 +1,5 @@
 {
-    "total_count": 2168,
+    "total_count": 2170,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5773,6 +5773,18 @@
                 "title": ""
             }
         },
+        "dreamland": {
+            "sub": {
+                "season": 2,
+                "episode": 1,
+                "title": "Terrence"
+            },
+            "dub": {
+                "season": 1,
+                "episode": 1,
+                "title": "Terrence"
+            }
+        },
         "dropkick-on-my-devil": {
             "sub": {
                 "season": 8,
@@ -9251,6 +9263,18 @@
                 "season": 2,
                 "episode": 13,
                 "title": "Graduation"
+            }
+        },
+        "horror-collector": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "The Shadow Enveloping the City"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "hortensia-saga": {
@@ -23631,14 +23655,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Purpose"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
