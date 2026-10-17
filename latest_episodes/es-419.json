@@ -2545,18 +2545,6 @@
                 "title": ""
             }
         },
-        "case-closed": {
-            "sub": {
-                "season": 1,
-                "episode": 123,
-                "title": "The Weather Lady Abduction Case"
-            },
-            "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
-            }
-        },
         "case-file-n221-kabukicho": {
             "sub": {
                 "season": 1,
@@ -3774,6 +3762,18 @@
                 "season": 1,
                 "episode": 24,
                 "title": "The Demon Revealed"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "detective-conan": {
+            "sub": {
+                "season": 1,
+                "episode": 123,
+                "title": "The Weather Lady Abduction Case"
             },
             "dub": {
                 "season": 0,
@@ -18303,14 +18303,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
