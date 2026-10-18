@@ -1,5 +1,5 @@
 {
-    "total_count": 2172,
+    "total_count": 2173,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -13331,6 +13331,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Embraced by the Strawberry Moon"
+            }
+        },
+        "mekakucity-actors": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Summertime Record"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "meow-meow-japanese-history": {

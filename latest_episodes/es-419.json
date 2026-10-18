@@ -1,5 +1,5 @@
 {
-    "total_count": 1685,
+    "total_count": 1686,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -10122,6 +10122,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Abrazada por la luna de fresa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "mekakucity-actors": {
+            "sub": {
+                "season": 1,
+                "episode": 12,
+                "title": "Summertime Record"
             },
             "dub": {
                 "season": 0,
