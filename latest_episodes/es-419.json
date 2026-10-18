@@ -1,5 +1,5 @@
 {
-    "total_count": 1683,
+    "total_count": 1684,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4684,8 +4684,8 @@
         "even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fianc": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Té con los pretendientes"
+                "episode": 3,
+                "title": "¡Formo parte de un juego de citas!"
             },
             "dub": {
                 "season": 0,
@@ -5267,6 +5267,18 @@
                 "season": 3,
                 "episode": 13,
                 "title": "Nos Volveremos a Ver Pronto"
+            }
+        },
+        "full-clearing-another-world-under-a-goddess-with-zero-believers": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Makoto Takatsuki hace una misión"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "full-dive-this-ultimate-next-gen-full-dive-rpg-is-even-shittier-than-real-life": {
@@ -12160,13 +12172,13 @@
         "overgeared": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "Episodio 3"
+                "episode": 4,
+                "title": "Episodio 4"
             },
             "dub": {
                 "season": 1,
-                "episode": 3,
-                "title": "Episodio 3"
+                "episode": 4,
+                "title": "Episodio 4"
             }
         },
         "overlord": {

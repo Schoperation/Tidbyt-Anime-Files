@@ -1,5 +1,5 @@
 {
-    "total_count": 2170,
+    "total_count": 2171,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6184,8 +6184,8 @@
         "even-though-im-a-super-timid-noble-girl-i-accepted-the-bet-from-my-cunning-fianc": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Tea Party with the Love Interests"
+                "episode": 3,
+                "title": "Enrolling on the Set of an Otome Game?!"
             },
             "dub": {
                 "season": 0,
@@ -6911,6 +6911,18 @@
                 "season": 3,
                 "episode": 13,
                 "title": "See You Again Soon"
+            }
+        },
+        "full-clearing-another-world-under-a-goddess-with-zero-believers": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Makoto Takatsuki Challenges a Quest"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "full-dive-this-ultimate-next-gen-full-dive-rpg-is-even-shittier-than-real-life": {
@@ -15940,13 +15952,13 @@
         "overgeared": {
             "sub": {
                 "season": 1,
-                "episode": 3,
-                "title": "Second Class"
+                "episode": 4,
+                "title": "Item Crafting Face-Off"
             },
             "dub": {
                 "season": 1,
-                "episode": 3,
-                "title": "Second Class"
+                "episode": 4,
+                "title": "Item Crafting Face-Off"
             }
         },
         "overlord": {
