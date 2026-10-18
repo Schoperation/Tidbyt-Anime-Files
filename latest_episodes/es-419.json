@@ -1,5 +1,5 @@
 {
-    "total_count": 1684,
+    "total_count": 1685,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -4153,6 +4153,18 @@
                 "title": ""
             }
         },
+        "dragon-ball-super-beerus": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "El Dios de la Destrucción se dirige al planeta de los Kaio"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "dragon-ball-super-super-hero": {
             "sub": {
                 "season": 2103,
@@ -5224,8 +5236,8 @@
         "from-far-away": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "La barrera del idioma"
+                "episode": 3,
+                "title": "Pesadilla"
             },
             "dub": {
                 "season": 0,

@@ -1,5 +1,5 @@
 {
-    "total_count": 2171,
+    "total_count": 2172,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5473,6 +5473,18 @@
                 "title": "The Miraculous Conclusion! Farewell, Goku! Until We Meet Again!!"
             }
         },
+        "dragon-ball-super-beerus": {
+            "sub": {
+                "season": 1,
+                "episode": 1,
+                "title": "The God Who Destroys"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
         "dragon-ball-super-broly": {
             "sub": {
                 "season": 2003,
@@ -6868,8 +6880,8 @@
         "from-far-away": {
             "sub": {
                 "season": 1,
-                "episode": 2,
-                "title": "Language Barrier"
+                "episode": 3,
+                "title": "Nightmare"
             },
             "dub": {
                 "season": 0,
