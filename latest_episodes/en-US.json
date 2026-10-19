@@ -1,5 +1,5 @@
 {
-    "total_count": 2173,
+    "total_count": 2174,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -23691,14 +23691,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Purpose"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
@@ -24702,6 +24702,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Exciting Surprise"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "wagnaria": {
+            "sub": {
+                "season": 1,
+                "episode": 13,
+                "title": "Date, the Final Showdown. Takanashi and Inami Ever After..."
             },
             "dub": {
                 "season": 0,
