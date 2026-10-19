@@ -1,5 +1,5 @@
 {
-    "total_count": 1686,
+    "total_count": 1687,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -12819,14 +12819,14 @@
         },
         "psycho-pass": {
             "sub": {
-                "season": 3,
-                "episode": 8,
-                "title": "Cubismo"
+                "season": 6,
+                "episode": 3,
+                "title": "Día lluvioso y"
             },
             "dub": {
-                "season": 0,
-                "episode": 0,
-                "title": ""
+                "season": 4,
+                "episode": 3,
+                "title": "On the Other Side of Love and Hate"
             }
         },
         "psycho-pass-sinners-of-the-system": {
@@ -15227,6 +15227,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "steinsgate": {
+            "sub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            },
+            "dub": {
+                "season": 5,
+                "episode": 24,
+                "title": "Valentine's of Crystal Polymorphism -Bittersweet Intermedio-"
             }
         },
         "steinsgate-0": {
@@ -18363,14 +18375,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {
