@@ -1,5 +1,5 @@
 {
-    "total_count": 2176,
+    "total_count": 2177,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -5862,6 +5862,18 @@
                 "season": 1,
                 "episode": 12,
                 "title": "Let's Open a Drugstore in Another World!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "durarara": {
+            "sub": {
+                "season": 2,
+                "episode": 36,
+                "title": "Those Who Meet Must Part"
             },
             "dub": {
                 "season": 0,
