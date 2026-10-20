@@ -1,5 +1,5 @@
 {
-    "total_count": 1687,
+    "total_count": 1688,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -3438,6 +3438,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Dara, de la era Reiwa"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dark-machine-the-animation": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episodio 2"
             },
             "dub": {
                 "season": 0,
@@ -18375,14 +18387,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Propósito"
+                "season": 1,
+                "episode": 12,
+                "title": "Día de la tormenta"
             }
         },
         "touken-ranbu---hanamaru": {

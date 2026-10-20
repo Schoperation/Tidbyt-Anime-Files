@@ -1,5 +1,5 @@
 {
-    "total_count": 2175,
+    "total_count": 2176,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4566,6 +4566,18 @@
                 "season": 1,
                 "episode": 13,
                 "title": "Dara-san of the Reiwa Era"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
+            }
+        },
+        "dark-machine-the-animation": {
+            "sub": {
+                "season": 1,
+                "episode": 2,
+                "title": "Episode 2"
             },
             "dub": {
                 "season": 0,
@@ -23703,14 +23715,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Purpose"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
