@@ -1,5 +1,5 @@
 {
-    "total_count": 2174,
+    "total_count": 2175,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -4127,6 +4127,18 @@
                 "season": 1,
                 "episode": 26,
                 "title": "Even So, as a Person"
+            }
+        },
+        "cosplay-complex": {
+            "sub": {
+                "season": 1,
+                "episode": 3,
+                "title": "The Final Battle: Showdown in the East Oizumi Academy Gym!"
+            },
+            "dub": {
+                "season": 0,
+                "episode": 0,
+                "title": ""
             }
         },
         "cowboy-bebop": {
@@ -15644,9 +15656,9 @@
                 "title": "Elbaph in Despair - Diabolical Covenant, Domi Reversi"
             },
             "dub": {
-                "season": 30,
-                "episode": 1,
-                "title": "One Piece Heroines"
+                "season": 31,
+                "episode": 1156,
+                "title": "The Long-sought Elbaph! The Big Reunion Banquet!"
             }
         },
         "one-punch-man": {
@@ -23691,14 +23703,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 2,
-                "episode": 3,
-                "title": "Purpose"
+                "season": 1,
+                "episode": 18,
+                "title": "Episode 18"
             },
             "dub": {
                 "season": 1,
-                "episode": 24,
-                "title": "Until We Meet Again"
+                "episode": 12,
+                "title": "Day of the Storm"
             }
         },
         "touken-ranbu---hanamaru": {
