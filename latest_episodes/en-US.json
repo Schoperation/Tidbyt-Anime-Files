@@ -1009,6 +1009,18 @@
                 "title": "All Out"
             }
         },
+        "all-purpose-cultural-cat-girl-nuku-nuku": {
+            "sub": {
+                "season": 3,
+                "episode": 12,
+                "title": "Goodbye, Nuku Nuku"
+            },
+            "dub": {
+                "season": 3,
+                "episode": 12,
+                "title": "Goodbye, Nuku Nuku"
+            }
+        },
         "all-saints-street": {
             "sub": {
                 "season": 1,
@@ -3383,18 +3395,6 @@
                 "season": 1,
                 "episode": 24,
                 "title": "To the Wandering, Blooming Flowers"
-            }
-        },
-        "cat-girl-nuku-nuku": {
-            "sub": {
-                "season": 2,
-                "episode": 12,
-                "title": "Goodbye, Nuku Nuku"
-            },
-            "dub": {
-                "season": 2,
-                "episode": 12,
-                "title": "Goodbye, Nuku Nuku"
             }
         },
         "catch-me-at-the-ballpark": {
