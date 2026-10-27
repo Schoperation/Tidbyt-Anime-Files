@@ -1,5 +1,5 @@
 {
-    "total_count": 2177,
+    "total_count": 2178,
     "latest_episodes": {
         "07-ghost": {
             "sub": {
@@ -6515,6 +6515,18 @@
                 "season": 0,
                 "episode": 0,
                 "title": ""
+            }
+        },
+        "fatal-fury": {
+            "sub": {
+                "season": 2,
+                "episode": 1,
+                "title": "Episode 2: The New Battle"
+            },
+            "dub": {
+                "season": 2,
+                "episode": 1,
+                "title": "Episode 2: The New Battle"
             }
         },
         "fategrand-carnival": {
