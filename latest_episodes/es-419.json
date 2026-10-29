@@ -1,5 +1,5 @@
 {
-    "total_count": 1689,
+    "total_count": 1690,
     "latest_episodes": {
         "16bit-sensation-another-layer": {
             "sub": {
@@ -15553,6 +15553,18 @@
                 "title": "E00354424A00354425"
             }
         },
+        "t00393120": {
+            "sub": {
+                "season": 2,
+                "episode": 3,
+                "title": "Episode 3"
+            },
+            "dub": {
+                "season": 2,
+                "episode": 3,
+                "title": "Episode 3"
+            }
+        },
         "tabimachi-lateshow": {
             "sub": {
                 "season": 1,
@@ -18399,14 +18411,14 @@
         },
         "tougen-anki": {
             "sub": {
-                "season": 1,
-                "episode": 18,
-                "title": "Episode 18"
+                "season": 2,
+                "episode": 4,
+                "title": "El hijo de Kishin, Hayate Todoroki"
             },
             "dub": {
-                "season": 1,
-                "episode": 12,
-                "title": "Día de la tormenta"
+                "season": 2,
+                "episode": 4,
+                "title": "El hijo de Kishin, Hayate Todoroki"
             }
         },
         "touken-ranbu---hanamaru": {
